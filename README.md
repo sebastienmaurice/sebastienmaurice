@@ -58,70 +58,62 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white)
 
 ---
-
 <!-- Section "Sites réalisés" -->
-  
-## 🌐 Sites réalisés  
-
+<div align="center">
+  ## 🌐 Sites réalisés
 </div>
 
-<table align="center" style="border-collapse:collapse;">
+<table align="center" style="border-collapse: collapse;">
   <tr>
-    <td align="center" style="padding:10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://rudylesaint-magnetiseur.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
       <h4>Rudy Le Saint</h4>
       <p><i>Site vitrine WordPress</i></p>
     </td>
-
-    <td align="center" style="padding:10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://gsti62.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
       <h4>GSTI62</h4>
       <p><i>Entreprise de sécurité</i></p>
     </td>
-
-    <td align="center" style="padding:10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://www.palimpseste-urbain.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
       <h4>Palimpseste Urbain</h4>
       <p><i>Site artistique WordPress</i></p>
     </td>
   </tr>
-
   <tr>
-    <td align="center" style="padding:10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://www.petitchateauvercourt.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
       <h4>Petit Château Vercourt</h4>
       <p><i>Hébergement & tourisme</i></p>
     </td>
-
-    <td align="center" style="padding:10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://onaturel.eu/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
       <h4>Onaturel</h4>
       <p><i>E-commerce bien-être</i></p>
     </td>
-
-    <td align="center" style="padding:10px;">
+    <td align="center" style="padding: 10px;">
       <a href="https://alternativ-uniforme.fr/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
       <h4>Alternativ Uniforme</h4>
       <p><i>Boutique textile pro</i></p>
     </td>
   </tr>
-
   <tr>
-    <td colspan="3" align="center" style="padding:10px;">
+    <td colspan="3" align="center" style="padding: 10px;">
       <a href="https://www.galaxy-uniforme.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
       <h4>Galaxy Uniforme</h4>
       <p><i>E-commerce B2B - Prestashop</i></p>
