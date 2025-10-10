@@ -18,17 +18,19 @@ Formé chez **O’clock**, j’aime concevoir du code lisible, durable et pensé
 
 ---
 
-## ⚡ Ce que je fais
+<div align="center">
 
-💼 **Ce que je propose**
-> Des sites performants, évolutifs et pensés pour durer.  
-> Du conseil technique, une exécution soignée et une approche humaine.
+## 💼 Ce que je fais
 
-- 🎯 **Full Stack JavaScript** — De l’UI dynamique à l’API robuste  
-- 🌐 **CMS / WordPress / WooCommerce** — Sites optimisés, maintenance et SEO  
-- 🤖 **IA & Productivité** — Automatisation, génération de code et workflow intelligent  
-- 🧩 **Architecture propre** — Code maintenable, documenté et testé  
-- 📚 **Veille & formation continue** — Toujours en apprentissage et en partage
+<ul style="list-style: none; padding: 0; text-align: center;">
+  <li>🚀 Développement web full stack (Node.js / React)</li>
+  <li>🧠 Intégration d’outils IA et automatisation</li>
+  <li>🪄 Conception de sites vitrines & e-commerce</li>
+  <li>🧱 Création d’API REST & d’applications SPA</li>
+  <li>🎨 Design d’interfaces ergonomiques & modernes</li>
+</ul>
+
+</div>
 
 ---
 
