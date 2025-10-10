@@ -1,30 +1,32 @@
 <!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
 <!-- Version dynamique style Kiran, en français -->
-
+<!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
+<!-- Header horizontal style Kiran -->
 <div>
-
-<table width="100%" style="border-collapse: collapse; margin:0; padding:0;">
-<tr>
+<table width="100%" style="border-collapse: collapse; margin:0; padding:0; border:0;">
+<tr style="border:0;">
 <td align="left" width="70%" style="padding:0; margin:0; border:0;">
   
-# 👋 Salut, moi c’est **Sebastien Maurice**
-### Développeur Web Full Stack
+<h1 style="margin:0; padding:0; border:0;">👋 Salut, moi c'est <strong>Sebastien Maurice</strong></h1>
+<h3 style="margin-top:5px; margin-bottom:10px; border:0;">Développeur Web Full Stack</h3>
 
-💻 Je conçois des applications web modernes et performantes, de la SPA full stack aux outils internes d’entreprise.  
-💡 Passionné par les bonnes pratiques, l’apprentissage continu et l’efficacité augmentée par l’IA.
+<p style="margin:0; padding:0;">
+💻 Je conçois des applications web modernes et performantes, de la SPA full stack aux outils internes d'entreprise.<br>
+💡 Passionné par les bonnes pratiques, l'apprentissage continu et l'efficacité augmentée par l'IA.
+</p>
 
-✨ Toujours en apprentissage  
-🌱 Je perfectionne React, Node.js, PostgreSQL, Docker et IA  
-💻 J’explore les projets open source et les applications réelles  
+<p style="margin-top:10px;">
+✨ Toujours en apprentissage<br>
+🌱 Je perfectionne React, Node.js, PostgreSQL, Docker et IA<br>
+💻 J'explore les projets open source et les applications réelles
+</p>
 
 </td>
-
 <td align="right" width="30%" style="padding:0; margin:0; border:0;">
-<img src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" style="width:100%; max-width:200px; display:block; border:0;">
+<img src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" style="width:100%; max-width:200px; display:block; border:0; margin:0; padding:0;">
 </td>
 </tr>
 </table>
-
 </div>
 
 ---
