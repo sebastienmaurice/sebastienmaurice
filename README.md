@@ -58,10 +58,7 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white)
 
 ---
-<!-- Section "Sites réalisés" -->
-<div align="center">
-  ## 🌐 Sites réalisés
-</div>
+<h2 align="center">🌐 Sites réalisés</h2>
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
@@ -69,54 +66,60 @@
       <a href="https://rudylesaint-magnetiseur.com" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Rudy Leaint - Magnétiseur</h4>
-      <p><i>Site vitrine WordPress avec builder Elementor</i></p>
+      <h4>Rudy Le Saint – Magnétiseur</h4>
+      <p><em>Refonte complète du site vitrine sous WordPress avec Elementor, optimisé pour la visibilité locale.</em></p>
     </td>
+
     <td align="center" style="padding: 10px;">
       <a href="https://gsti62.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>GSTI62</h4>
-      <p><i>Entreprise de sécurité</i></p>
+      <h4>GSTI62 – Usinage industriel</h4>
+      <p><em>Refonte complète du site vitrine sous WordPress avec Elementor pour présenter les services d’usinage sur machine de matériaux.</em></p>
     </td>
+
     <td align="center" style="padding: 10px;">
       <a href="https://www.palimpseste-urbain.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Palimpseste Urbain</h4>
-      <p><i>Site artistique WordPress</i></p>
+      <h4>Palimpseste Urbain – Architecte urbain</h4>
+      <p><em>Refonte complète du site vitrine sous WordPress avec Elementor pour présenter les projets d’architecture urbaine.</em></p>
     </td>
   </tr>
+
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://www.petitchateauvercourt.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Petit Château Vercourt</h4>
-      <p><i>Hébergement & tourisme</i></p>
+      <h4>Petit Château Vercourt – Maison d’hôtes</h4>
+      <p><em>Refonte complète du site vitrine sous WordPress avec Elementor pour la réservation et la présentation de la maison d’hôtes.</em></p>
     </td>
+
     <td align="center" style="padding: 10px;">
       <a href="https://onaturel.eu/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Onaturel</h4>
-      <p><i>E-commerce bien-être</i></p>
+      <h4>Onaturel – E-commerce bien-être</h4>
+      <p><em>Refonte complète du site vitrine sous WordPress avec Elementor pour la présentation et la vente de produits bien-être.</em></p>
     </td>
+
     <td align="center" style="padding: 10px;">
       <a href="https://alternativ-uniforme.fr/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Alternativ Uniforme</h4>
-      <p><i>Boutique textile pro</i></p>
+      <h4>Alternativ Uniforme – Habillement pro</h4>
+      <p><em>Refonte complète du site vitrine sous WordPress avec Elementor pour une entreprise de personnalisation d’habillement professionnel de sécurité privée.</em></p>
     </td>
   </tr>
+
   <tr>
     <td colspan="3" align="center" style="padding: 10px;">
       <a href="https://www.galaxy-uniforme.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Galaxy Uniforme</h4>
-      <p><i>E-commerce B2B - Prestashop</i></p>
+      <h4>Galaxy Uniforme – E-commerce B2B</h4>
+      <p><em>Refonte complète de la boutique en ligne sous Prestashop pour une entreprise de vente d’habillement professionnel de sécurité privée.</em></p>
     </td>
   </tr>
 </table>
