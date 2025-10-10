@@ -1,162 +1,125 @@
 <!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
 <div align="center">
 
-# 👋 Salut, moi c'est Sebastien Maurice
+# 👋 Salut, moi c’est **Sebastien Maurice**
+### *Développeur Web Full Stack & CMS* | RNCP 37674 | Formé chez [O'clock](https://oclock.io)
 
-### *Développeur Web Full Stack & CMS* | RNCP 37674 | Formé chez O'clock
+> *"Du code propre, des apps qui servent, et l’IA comme super-pouvoir."*
 
-> "Du code propre, des apps qui servent, et l'IA comme super-pouvoir."
+---
 
-🚀 Je crée des applications web modernes et performantes : sites vitrines WordPress, e-commerces Prestashop, SPA React, et API robustes.  
-💡 Passionné par l'apprentissage continu et l’efficacité augmentée par l’IA.
+## 💫 À propos
+
+👋 Développeur passionné par la création d’expériences web utiles, performantes et élégantes.  
+Je construis des projets où **esthétique** et **architecture propre** avancent main dans la main.  
+Formé chez **O’clock**, j’aime concevoir du code lisible, durable et pensé pour l’utilisateur final.
+
+💡 *Ma vision : le web doit être aussi fluide que son intention.*
 
 ---
 
 ## ⚡ Ce que je fais
 
-<div align="center">
+💼 **Ce que je propose**
+> Des sites performants, évolutifs et pensés pour durer.  
+> Du conseil technique, une exécution soignée et une approche humaine.
 
-🎯 **Full Stack JavaScript** — UI interactive & API robuste  
-🌐 **CMS & E-commerce** — WordPress, WooCommerce, Prestashop  
-🤖 **IA & Productivité** — Automatisation, Copilot, ChatGPT, Claude AI  
-🏗️ **Code maintenable** — Tests, documentation, architecture propre  
-📚 **Veille & partage** — Expérimentations et apprentissage continu
-
-</div>
+- 🎯 **Full Stack JavaScript** — De l’UI dynamique à l’API robuste  
+- 🌐 **CMS / WordPress / WooCommerce** — Sites optimisés, maintenance et SEO  
+- 🤖 **IA & Productivité** — Automatisation, génération de code et workflow intelligent  
+- 🧩 **Architecture propre** — Code maintenable, documenté et testé  
+- 📚 **Veille & formation continue** — Toujours en apprentissage et en partage
 
 ---
 
 ## 🛠️ Stack Technique
 
-<div align="center">
+### Frontend  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat)
+### Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat)
+### DevOps & Outils  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white)
 
-### DevOps & Outils
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white&style=flat)
-
-### IA & Workflow
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white&style=flat)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat)
-![Claude AI](https://img.shields.io/badge/-Claude%20AI-ff6f61?logo=anthropic&logoColor=white&style=flat)
-
-</div>
+### IA & Workflow  
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/-Claude%20AI-ff6f61?logo=anthropic&logoColor=white)
 
 ---
 
-## 🚀 Projets en cours
-
-<div align="center">
+## 🚀 Projets phares
 
 ### 🎯 [oKanban](https://github.com/sebastienmaurice/okanban)
-**Gestion de tâches collaborative** — API REST + SPA React
+**Application de gestion de tâches collaborative** — API REST + SPA React  
+`Node.js` `Express` `PostgreSQL` `React` `Sequelize`
 
 ### 🔤 [Regex Trainer](https://github.com/sebastienmaurice/regex-trainer)
-**Apprendre les regex de façon interactive**  
-
-### 🌐 Portfolio Personnel *(coming soon)*
-**Vitrine professionnelle** — React, Next.js, Framer Motion, WordPress
-
-</div>
+**Apprendre les regex de façon interactive et ludique**  
+`JavaScript` `React` `TailwindCSS`
 
 ---
 
 ## 🌐 Sites réalisés
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<div align="center">
 
-<!-- Card 1 -->
-<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
-  <a href="https://rudylesaint-magnetiseur.com" style="text-decoration:none; color:white;">
-    <img src="./assets/rudylesaint.png" width="120px" style="border-radius:8px;"/><br>
-    <b>rudylesaint-magnetiseur.com</b>
-  </a>
-</div>
-
-<!-- Card 2 -->
-<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
-  <a href="https://gsti62.com/" style="text-decoration:none; color:white;">
-    <img src="./assets/gsti62.png" width="120px" style="border-radius:8px;"/><br>
-    <b>Gsti62</b>
-  </a>
-</div>
-
-<!-- Card 3 -->
-<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
-  <a href="https://www.palimpseste-urbain.com/" style="text-decoration:none; color:white;">
-    <img src="./assets/palimpseste.png" width="120px" style="border-radius:8px;"/><br>
-    <b>Palimpseste Urbain</b>
-  </a>
-</div>
-
-<!-- Card 4 -->
-<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
-  <a href="https://www.petitchateauvercourt.com/" style="text-decoration:none; color:white;">
-    <img src="./assets/petitchateau.png" width="120px" style="border-radius:8px;"/><br>
-    <b>Petit Château Vercourt</b>
-  </a>
-</div>
-
-<!-- Card 5 -->
-<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
-  <a href="https://onaturel.eu/" style="text-decoration:none; color:white;">
-    <img src="./assets/onaturel.png" width="120px" style="border-radius:8px;"/><br>
-    <b>Onaturel</b>
-  </a>
-</div>
-
-<!-- Card 6 -->
-<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
-  <a href="https://alternativ-uniforme.fr/" style="text-decoration:none; color:white;">
-    <img src="./assets/alternativ.png" width="120px" style="border-radius:8px;"/><br>
-    <b>Alternativ Uniforme</b>
-  </a>
-</div>
-
-<!-- Card 7 -->
-<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
-  <a href="https://www.galaxy-uniforme.com/" style="text-decoration:none; color:white;">
-    <img src="./assets/galaxy.png" width="120px" style="border-radius:8px;"/><br>
-    <b>Galaxy Uniforme</b>
-  </a>
-</div>
+<table>
+  <tr>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://rudylesaint-magnetiseur.com" target="_blank">
+          <img src="./assets/rudylesaint.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Rudy Le Saint</h4>
+        <p style="font-size:13px; color:#999;">Site vitrine WordPress</p>
+      </div>
+    </td>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://onaturel.eu/" target="_blank">
+          <img src="./assets/onaturel.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Onaturel</h4>
+        <p style="font-size:13px; color:#999;">E-commerce bien-être</p>
+      </div>
+    </td>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://alternativ-uniforme.fr/" target="_blank">
+          <img src="./assets/alternativ.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Alternativ Uniforme</h4>
+        <p style="font-size:13px; color:#999;">Boutique textile pro</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Statistiques GitHub
 
-![Sebastien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
----
-
-## 🤝 Restons connectés
-
-[![LinkedIn](https://img.shields.io/badge/-Sebastien_Maurice-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastien-maurice/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://sebastienmaurice.dev)
-[![Malt](https://img.shields.io/badge/-Malt-FF5A00?logo=malt&logoColor=white&style=for-the-badge)](https://www.malt.fr/profile/semauri)
-[![Email](https://img.shields.io/badge/-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:overseb75@gmail.com)
+![Sebastien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -164,14 +127,10 @@
 
 ## 💡 Ma philosophie
 
-<pre>
-const developer = {
-  name: "Sebastien Maurice",
-  mindset: "Apprendre en faisant 🛠️",
-  approach: "Code lisible & maintenable > Code clever",
-  tools: ["IA 🤖", "Documentation 📚", "Communauté 🌐", "CMS 🖥️"],
-  goal: "Créer de la valeur avec du code et des projets utiles 🚀"
+```js
+const Sebastien = {
+  mindset: "Apprendre en construisant 🛠️",
+  motto: "Clarity > Cleverness",
+  loves: ["IA 🤖", "Clean Code ✨", "Docs 📚", "People 🤝"],
+  goal: "Créer des projets qui ont de l’impact 🚀"
 };
-</pre>
-
-</div>
