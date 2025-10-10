@@ -70,6 +70,21 @@
 
 ---
 
+## 🌐 Sites réalisés
+
+### 💻 CMS WordPress
+- [rudylesaint-magnetiseur.com](https://rudylesaint-magnetiseur.com)  
+- [Gsti62](https://gsti62.com/)  
+- [Palimpseste Urbain](https://www.palimpseste-urbain.com/)  
+- [Petit Château Vercourt](https://www.petitchateauvercourt.com/)  
+- [Onaturel](https://onaturel.eu/)  
+- [Alternativ Uniforme](https://alternativ-uniforme.fr/)
+
+### 🛒 Prestashop
+- [Galaxy Uniforme](https://www.galaxy-uniforme.com/)
+
+--- 
+
 ## 📈 GitHub Stats
 
 ![Sebastien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
@@ -83,7 +98,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Sebastien_Maurice-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastien-maurice/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://sebastienmaurice.dev)
 [![Malt](https://img.shields.io/badge/-Malt-FF5A00?logo=malt&logoColor=white&style=for-the-badge)](https://www.malt.fr/profile/semauri)
-[![Email](https://img.shields.io/badge/-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:contact@sebastienmaurice.dev)
+[![Email](https://img.shields.io/badge/-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:overseb75@gmail.com)
 
 ---
 
