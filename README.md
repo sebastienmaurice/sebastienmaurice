@@ -32,14 +32,6 @@
 
 ---
 
-<!-- 💎 Badges GitHub -->
-<div align="center">
-  ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=radical&count_private=true&hide_title=true)
-  ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=radical)
-</div>
-
----
-
 <!-- ⚡ Ce que je fais -->
 <div align="center">
 ## ⚡ Ce que je fais
