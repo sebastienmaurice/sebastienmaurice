@@ -59,7 +59,9 @@
 
 ---
 <!-- Section "Sites réalisés" -->
-<h2 align="center">🌐 Sites réalisés</h2>
+<div align="center">
+  ## 🌐 Sites réalisés
+</div>
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
@@ -67,56 +69,54 @@
       <a href="https://rudylesaint-magnetiseur.com" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Rudy Le Saint – Magnétiseur</h4>
-      <p><em>Créé avec WordPress & Elementor - Site vitrine magnétiseur</em></p>
+      <h4>Rudy Le Saint</h4>
+      <p><i>Site vitrine WordPress</i></p>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://gsti62.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>GSTI62 – Usinage industriel</h4>
-      <p><em>Créé avec WordPress & Elementor - Entreprise d'usinage sur machine de matériaux</em></p>
+      <h4>GSTI62</h4>
+      <p><i>Entreprise de sécurité</i></p>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://www.palimpseste-urbain.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Palimpseste Urbain – Architecte urbain</h4>
-      <p><em>Créé avec WordPress & Elementor - Site portfolio architecte urbain</em></p>
+      <h4>Palimpseste Urbain</h4>
+      <p><i>Site artistique WordPress</i></p>
     </td>
   </tr>
-
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://www.petitchateauvercourt.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Petit Château Vercourt – Maison d’hôtes</h4>
-      <p><em>Créé avec WordPress & Elementor - Site de réservation maison d'hôtes</em></p>
+      <h4>Petit Château Vercourt</h4>
+      <p><i>Hébergement & tourisme</i></p>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://onaturel.eu/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Onaturel – E-commerce bien-être</h4>
-      <p><em>Créé avec WordPress & Elementor - E-commerce produits bien-être</em></p>
+      <h4>Onaturel</h4>
+      <p><i>E-commerce bien-être</i></p>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://alternativ-uniforme.fr/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Alternativ Uniforme – Habillement professionnel</h4>
-      <p><em>Créé avec WordPress & Elementor - Entreprise de personnalisation d'habillement pro sécurité privée</em></p>
+      <h4>Alternativ Uniforme</h4>
+      <p><i>Boutique textile pro</i></p>
     </td>
   </tr>
-
   <tr>
     <td colspan="3" align="center" style="padding: 10px;">
       <a href="https://www.galaxy-uniforme.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Galaxy Uniforme – E-commerce B2B</h4>
-      <p><em>Créé avec Prestashop - Vente en ligne d'habillement professionnel de sécurité privée</em></p>
+      <h4>Galaxy Uniforme</h4>
+      <p><i>E-commerce B2B - Prestashop</i></p>
     </td>
   </tr>
 </table>
