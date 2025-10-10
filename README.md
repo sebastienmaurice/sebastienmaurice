@@ -97,7 +97,7 @@
 </td>
 
 <td>
-<img src="[./assets/alternativ.jpg](https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg)" width="250" style="border-radius:8px;">
+<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="250" style="border-radius:8px;">
 <h4 align="center">Alternativ Uniforme</h4>
 <p align="center"><i>Boutique textile pro</i></p>
 </td>
