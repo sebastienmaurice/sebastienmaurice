@@ -78,63 +78,81 @@ Formé chez **O’clock**, j’aime concevoir du code lisible, durable et pensé
 
 ## 🌐 Sites réalisés
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
+<div align="center">
 
-  <!-- Card 1 -->
-  <div style="border:1px solid #444; border-radius:12px; padding:12px; width:180px; text-align:center; background:#111;">
-    <a href="https://rudylesaint-magnetiseur.com" style="text-decoration:none; color:#fff;">
-      <img src="./assets/rudylesaint.png" width="140px" style="border-radius:8px;"/><br>
-      <b>rudylesaint-magnetiseur.com</b>
-    </a>
-  </div>
+<table>
+  <tr>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://rudylesaint-magnetiseur.com" target="_blank">
+          <img src="./assets/rudylesaint.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Rudy Le Saint</h4>
+        <p style="font-size:13px; color:#999;">Site vitrine WordPress</p>
+      </div>
+    </td>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://gsti62.com/" target="_blank">
+          <img src="./assets/gsti62.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>GSTI 62</h4>
+        <p style="font-size:13px; color:#999;">Entreprise de sécurité</p>
+      </div>
+    </td>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://www.palimpseste-urbain.com/" target="_blank">
+          <img src="./assets/palimpseste.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Palimpseste Urbain</h4>
+        <p style="font-size:13px; color:#999;">Architecte & urbanisme</p>
+      </div>
+    </td>
+  </tr>
 
-  <!-- Card 2 -->
-  <div style="border:1px solid #444; border-radius:12px; padding:12px; width:180px; text-align:center; background:#111;">
-    <a href="https://gsti62.com/" style="text-decoration:none; color:#fff;">
-      <img src="./assets/gsti62.png" width="140px" style="border-radius:8px;"/><br>
-      <b>Gsti62</b>
-    </a>
-  </div>
+  <tr>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://www.petitchateauvercourt.com/" target="_blank">
+          <img src="./assets/petitchateau.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Petit Château Vercourt</h4>
+        <p style="font-size:13px; color:#999;">Hébergement & tourisme</p>
+      </div>
+    </td>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://onaturel.eu/" target="_blank">
+          <img src="./assets/onaturel.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Onaturel</h4>
+        <p style="font-size:13px; color:#999;">E-commerce bien-être</p>
+      </div>
+    </td>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://alternativ-uniforme.fr/" target="_blank">
+          <img src="./assets/alternativ.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Alternativ Uniforme</h4>
+        <p style="font-size:13px; color:#999;">Boutique textile pro</p>
+      </div>
+    </td>
+  </tr>
 
-  <!-- Card 3 -->
-  <div style="border:1px solid #444; border-radius:12px; padding:12px; width:180px; text-align:center; background:#111;">
-    <a href="https://www.palimpseste-urbain.com/" style="text-decoration:none; color:#fff;">
-      <img src="./assets/palimpseste.png" width="140px" style="border-radius:8px;"/><br>
-      <b>Palimpseste Urbain</b>
-    </a>
-  </div>
-
-  <!-- Card 4 -->
-  <div style="border:1px solid #444; border-radius:12px; padding:12px; width:180px; text-align:center; background:#111;">
-    <a href="https://www.petitchateauvercourt.com/" style="text-decoration:none; color:#fff;">
-      <img src="./assets/petitchateau.png" width="140px" style="border-radius:8px;"/><br>
-      <b>Petit Château Vercourt</b>
-    </a>
-  </div>
-
-  <!-- Card 5 -->
-  <div style="border:1px solid #444; border-radius:12px; padding:12px; width:180px; text-align:center; background:#111;">
-    <a href="https://onaturel.eu/" style="text-decoration:none; color:#fff;">
-      <img src="./assets/onaturel.png" width="140px" style="border-radius:8px;"/><br>
-      <b>Onaturel</b>
-    </a>
-  </div>
-
-  <!-- Card 6 -->
-  <div style="border:1px solid #444; border-radius:12px; padding:12px; width:180px; text-align:center; background:#111;">
-    <a href="https://alternativ-uniforme.fr/" style="text-decoration:none; color:#fff;">
-      <img src="./assets/alternativ.png" width="140px" style="border-radius:8px;"/><br>
-      <b>Alternativ Uniforme</b>
-    </a>
-  </div>
-
-  <!-- Card 7 -->
-  <div style="border:1px solid #444; border-radius:12px; padding:12px; width:180px; text-align:center; background:#111;">
-    <a href="https://www.galaxy-uniforme.com/" style="text-decoration:none; color:#fff;">
-      <img src="./assets/galaxy.png" width="140px" style="border-radius:8px;"/><br>
-      <b>Galaxy Uniforme</b>
-    </a>
-  </div>
+  <tr>
+    <td colspan="3" align="center">
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; margin:auto; text-align:center; background:#161b22;">
+        <a href="https://www.galaxy-uniforme.com/" target="_blank">
+          <img src="./assets/galaxy.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Galaxy Uniforme</h4>
+        <p style="font-size:13px; color:#999;">E-commerce Prestashop</p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 </div>
 
