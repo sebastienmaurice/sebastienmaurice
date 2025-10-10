@@ -7,8 +7,8 @@
 
 > "Du code propre, des apps qui servent, et l'IA comme super-pouvoir."
 
-🚀 Je crée des applications web modernes et performantes : sites vitrines WordPress, e-commerces Prestashop, SPA React, et API robustes. J'aide les entreprises à transformer leurs idées en solutions web robustes et intuitives.
-💡 Passionné par l'apprentissage continu et l’efficacité augmentée par l’IA, j'optimise les processus de développement grâce à une veille technologique constante.
+🚀 Je crée des applications web modernes et performantes : sites vitrines WordPress, e-commerces Prestashop, SPA React, et API robustes.  
+💡 Passionné par l'apprentissage continu et l’efficacité augmentée par l’IA.
 
 ---
 
@@ -16,11 +16,11 @@
 
 <div align="center">
 
-- 🎯 **Full Stack JavaScript** : Conception d'interfaces utilisateur interactives et d'APIs robustes pour des applications performantes.
-- 🌐 **CMS & E-commerce** : Développement et optimisation de sites vitrines et plateformes e-commerce (WordPress, WooCommerce, Prestashop) pour maximiser votre présence en ligne.
-- 🤖 **IA & Productivité** : Intégration d'outils d'IA (Copilot, ChatGPT, Claude AI) pour accélérer le développement et automatiser les tâches, augmentant l'efficacité.
-- 🏗️ **Code maintenable** : Garantie d'une architecture logicielle propre, testée et documentée, facilitant la collaboration et l'évolution des projets.
-- 📚 **Veille & Partage** : Expérimentations et apprentissage continu des dernières technologies pour des solutions toujours à jour.
+🎯 **Full Stack JavaScript** — UI interactive & API robuste  
+🌐 **CMS & E-commerce** — WordPress, WooCommerce, Prestashop  
+🤖 **IA & Productivité** — Automatisation, Copilot, ChatGPT, Claude AI  
+🏗️ **Code maintenable** — Tests, documentation, architecture propre  
+📚 **Veille & partage** — Expérimentations et apprentissage continu
 
 </div>
 
@@ -67,13 +67,13 @@
 <div align="center">
 
 ### 🎯 [oKanban](https://github.com/sebastienmaurice/okanban)
-**Gestion de tâches collaborative** — API REST + SPA React. *(En développement - Démo bientôt disponible !)*
+**Gestion de tâches collaborative** — API REST + SPA React
 
 ### 🔤 [Regex Trainer](https://github.com/sebastienmaurice/regex-trainer)
-**Apprendre les regex de façon interactive** — *(En développement, votre feedback est le bienvenu !)*
+**Apprendre les regex de façon interactive**  
 
 ### 🌐 Portfolio Personnel *(coming soon)*
-**Vitrine professionnelle** — React, Next.js, Framer Motion, WordPress. *(Actuellement en phase de conception avancée.)*
+**Vitrine professionnelle** — React, Next.js, Framer Motion, WordPress
 
 </div>
 
@@ -81,63 +81,69 @@
 
 ## 🌐 Sites réalisés
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
 <!-- Card 1 -->
-<a href="https://rudylesaint-magnetiseur.com" target="_blank" style="text-decoration:none; display:inline-block; margin:10px;">
-  <img src="./assets/rudylesaint.png" alt="rudylesaint-magnetiseur.com" width="180px" style="border-radius:8px; display:block;"/>
-  <p style="margin-top:5px; font-weight:bold; color:white;">RudyleSaint Magnétiseur</p>
-  <p style="font-size:0.9em; color:#ccc;">Site vitrine WordPress optimisé.</p>
-</a>
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://rudylesaint-magnetiseur.com" style="text-decoration:none; color:white;">
+    <img src="./assets/rudylesaint.png" width="120px" style="border-radius:8px;"/><br>
+    <b>rudylesaint-magnetiseur.com</b>
+  </a>
+</div>
 
 <!-- Card 2 -->
-<a href="https://gsti62.com/" target="_blank" style="text-decoration:none; display:inline-block; margin:10px;">
-  <img src="./assets/gsti62.png" alt="Gsti62" width="180px" style="border-radius:8px; display:block;"/>
-  <p style="margin-top:5px; font-weight:bold; color:white;">Gsti62</p>
-  <p style="font-size:0.9em; color:#ccc;">Solution web sur mesure.</p>
-</a>
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://gsti62.com/" style="text-decoration:none; color:white;">
+    <img src="./assets/gsti62.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Gsti62</b>
+  </a>
+</div>
 
 <!-- Card 3 -->
-<a href="https://www.palimpseste-urbain.com/" target="_blank" style="text-decoration:none; display:inline-block; margin:10px;">
-  <img src="./assets/palimpseste.png" alt="Palimpseste Urbain" width="180px" style="border-radius:8px; display:block;"/>
-  <p style="margin-top:5px; font-weight:bold; color:white;">Palimpseste Urbain</p>
-  <p style="font-size:0.9em; color:#ccc;">WordPress avec design spécifique.</p>
-</a>
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://www.palimpseste-urbain.com/" style="text-decoration:none; color:white;">
+    <img src="./assets/palimpseste.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Palimpseste Urbain</b>
+  </a>
+</div>
 
 <!-- Card 4 -->
-<a href="https://www.petitchateauvercourt.com/" target="_blank" style="text-decoration:none; display:inline-block; margin:10px;">
-  <img src="./assets/petitchateau.png" alt="Petit Château Vercourt" width="180px" style="border-radius:8px; display:block;"/>
-  <p style="margin-top:5px; font-weight:bold; color:white;">Petit Château Vercourt</p>
-  <p style="font-size:0.9em; color:#ccc;">Site de présentation hôtelière.</p>
-</a>
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://www.petitchateauvercourt.com/" style="text-decoration:none; color:white;">
+    <img src="./assets/petitchateau.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Petit Château Vercourt</b>
+  </a>
+</div>
 
 <!-- Card 5 -->
-<a href="https://onaturel.eu/" target="_blank" style="text-decoration:none; display:inline-block; margin:10px;">
-  <img src="./assets/onaturel.png" alt="Onaturel" width="180px" style="border-radius:8px; display:block;"/>
-  <p style="margin-top:5px; font-weight:bold; color:white;">Onaturel</p>
-  <p style="font-size:0.9em; color:#ccc;">E-commerce WooCommerce personnalisé.</p>
-</a>
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://onaturel.eu/" style="text-decoration:none; color:white;">
+    <img src="./assets/onaturel.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Onaturel</b>
+  </a>
+</div>
 
 <!-- Card 6 -->
-<a href="https://alternativ-uniforme.fr/" target="_blank" style="text-decoration:none; display:inline-block; margin:10px;">
-  <img src="./assets/alternativ.png" alt="Alternativ Uniforme" width="180px" style="border-radius:8px; display:block;"/>
-  <p style="margin-top:5px; font-weight:bold; color:white;">Alternativ Uniforme</p>
-  <p style="font-size:0.9em; color:#ccc;">Boutique en ligne Prestashop.</p>
-</a>
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://alternativ-uniforme.fr/" style="text-decoration:none; color:white;">
+    <img src="./assets/alternativ.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Alternativ Uniforme</b>
+  </a>
+</div>
 
 <!-- Card 7 -->
-<a href="https://www.galaxy-uniforme.com/" target="_blank" style="text-decoration:none; display:inline-block; margin:10px;">
-  <img src="./assets/galaxy.png" alt="Galaxy Uniforme" width="180px" style="border-radius:8px; display:block;"/>
-  <p style="margin-top:5px; font-weight:bold; color:white;">Galaxy Uniforme</p>
-  <p style="font-size:0.9em; color:#ccc;">E-commerce sur mesure avec Prestashop.</p>
-</a>
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://www.galaxy-uniforme.com/" style="text-decoration:none; color:white;">
+    <img src="./assets/galaxy.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Galaxy Uniforme</b>
+  </a>
+</div>
 
 </div>
 
 ---
 
 ## 📈 GitHub Stats
-Un aperçu de mon activité et de ma contribution sur GitHub.
 
 ![Sebastien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
 
@@ -146,7 +152,6 @@ Un aperçu de mon activité et de ma contribution sur GitHub.
 ---
 
 ## 🤝 Restons connectés
-N'hésitez pas à me contacter pour toute opportunité de collaboration ou question !
 
 [![LinkedIn](https://img.shields.io/badge/-Sebastien_Maurice-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastien-maurice/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://sebastienmaurice.dev)
@@ -159,9 +164,14 @@ N'hésitez pas à me contacter pour toute opportunité de collaboration ou quest
 
 ## 💡 Ma philosophie
 
-- **Mindset :** Apprendre en faisant 🛠️
-- **Approche :** Le code lisible et maintenable prime sur la complexité inutile.
-- **Outils clés :** L'IA 🤖, la Documentation 📚, la force de la Communauté 🌐 et la puissance des CMS 🖥️.
-- **Objectif :** Créer de la valeur durable grâce à des projets utiles et un code de qualité 🚀.
+<pre>
+const developer = {
+  name: "Sebastien Maurice",
+  mindset: "Apprendre en faisant 🛠️",
+  approach: "Code lisible & maintenable > Code clever",
+  tools: ["IA 🤖", "Documentation 📚", "Communauté 🌐", "CMS 🖥️"],
+  goal: "Créer de la valeur avec du code et des projets utiles 🚀"
+};
+</pre>
 
 </div>
