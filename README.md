@@ -25,14 +25,17 @@
     <li>💻 J’explore les projets open source et les applications réelles</li>
   </ul>
 
+  <!-- Clear float pour que tout ce qui suit ne se décale pas -->
+  <div style="clear: both;"></div>
+
+</div>
+
 ---
 
 <!-- 💎 Badges GitHub -->
 <div align="center">
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=radical&count_private=true&hide_title=true)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=radical)
-
+  ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=radical&count_private=true&hide_title=true)
+  ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=radical)
 </div>
 
 ---
