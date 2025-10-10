@@ -2,9 +2,12 @@
 <div align="center">
 
 # 👋 Salut, moi c’est **Sebastien Maurice**
-### *Développeur Web Full Stack & CMS* | RNCP 37674 | Formé chez [O'clock](https://oclock.io)
+### *Développeur Web Full Stack & CMS*
 
 > *"Du code propre, des apps qui servent, et l’IA comme super-pouvoir."*
+
+💻 Je conçois des applications web modernes, du site vitrine WordPress aux solutions full stack performantes.  
+💡 Passionné par les bonnes pratiques, l’apprentissage continu et l’efficacité augmentée par l’IA.
 
 ---
 
