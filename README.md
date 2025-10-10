@@ -69,8 +69,8 @@
       <a href="https://rudylesaint-magnetiseur.com" target="_blank">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="250" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
       </a>
-      <h4>Rudy Le Saint</h4>
-      <p><i>Site vitrine WordPress</i></p>
+      <h4>Rudy Leaint - Magnétiseur</h4>
+      <p><i>Site vitrine WordPress avec builder Elementor</i></p>
     </td>
     <td align="center" style="padding: 10px;">
       <a href="https://gsti62.com/" target="_blank">
