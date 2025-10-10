@@ -14,15 +14,21 @@
 
 ## ⚡ Ce que je fais
 
-- 🎯 **Full Stack JavaScript** — UI interactive & API robuste  
-- 🌐 **CMS & E-commerce** — WordPress, WooCommerce, Prestashop  
-- 🤖 **IA & Productivité** — Automatisation, Copilot, ChatGPT, Claude AI  
-- 🏗️ **Code maintenable** — Tests, documentation, architecture propre  
-- 📚 **Veille & partage** — Expérimentations et apprentissage continu
+<div align="center">
+
+🎯 **Full Stack JavaScript** — UI interactive & API robuste  
+🌐 **CMS & E-commerce** — WordPress, WooCommerce, Prestashop  
+🤖 **IA & Productivité** — Automatisation, Copilot, ChatGPT, Claude AI  
+🏗️ **Code maintenable** — Tests, documentation, architecture propre  
+📚 **Veille & partage** — Expérimentations et apprentissage continu
+
+</div>
 
 ---
 
 ## 🛠️ Stack Technique
+
+<div align="center">
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
@@ -52,9 +58,13 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat)
 ![Claude AI](https://img.shields.io/badge/-Claude%20AI-ff6f61?logo=anthropic&logoColor=white&style=flat)
 
+</div>
+
 ---
 
 ## 🚀 Projets en cours
+
+<div align="center">
 
 ### 🎯 [oKanban](https://github.com/sebastienmaurice/okanban)
 **Gestion de tâches collaborative** — API REST + SPA React
@@ -65,22 +75,66 @@
 ### 🌐 Portfolio Personnel *(coming soon)*
 **Vitrine professionnelle** — React, Next.js, Framer Motion, WordPress
 
+</div>
+
 ---
 
 ## 🌐 Sites réalisés
 
 <div align="center">
 
-### 💻 CMS WordPress
-<a href="https://rudylesaint-magnetiseur.com"><img src="https://rudylesaint-magnetiseur.com/wp-content/uploads/favicon.ico" width="50px" height="50px"/> rudylesaint-magnetiseur.com</a>
-<a href="https://gsti62.com/"><img src="https://gsti62.com/wp-content/uploads/favicon.ico" width="50px" height="50px"/> Gsti62</a>
-<a href="https://www.palimpseste-urbain.com/"><img src="https://www.palimpseste-urbain.com/wp-content/uploads/favicon.ico" width="50px" height="50px"/> Palimpseste Urbain</a>
-<a href="https://www.petitchateauvercourt.com/"><img src="https://www.petitchateauvercourt.com/wp-content/uploads/favicon.ico" width="50px" height="50px"/> Petit Château Vercourt</a>
-<a href="https://onaturel.eu/"><img src="https://onaturel.eu/wp-content/uploads/favicon.ico" width="50px" height="50px"/> Onaturel</a>
-<a href="https://alternativ-uniforme.fr/"><img src="https://alternativ-uniforme.fr/wp-content/uploads/favicon.ico" width="50px" height="50px"/> Alternativ Uniforme</a>
-
-### 🛒 Prestashop
-<a href="https://www.galaxy-uniforme.com/"><img src="https://www.galaxy-uniforme.com/favicon.ico" width="50px" height="50px"/> Galaxy Uniforme</a>
+<table>
+<tr>
+<td align="center">
+<a href="https://rudylesaint-magnetiseur.com">
+  <img src="./assets/rudylesaint.png" width="80px"/><br>
+  rudylesaint-magnetiseur.com
+</a>
+</td>
+<td align="center">
+<a href="https://gsti62.com/">
+  <img src="./assets/gsti62.png" width="80px"/><br>
+  Gsti62
+</a>
+</td>
+<td align="center">
+<a href="https://www.palimpseste-urbain.com/">
+  <img src="./assets/palimpseste.png" width="80px"/><br>
+  Palimpseste Urbain
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://www.petitchateauvercourt.com/">
+  <img src="./assets/petitchateau.png" width="80px"/><br>
+  Petit Château Vercourt
+</a>
+</td>
+<td align="center">
+<a href="https://onaturel.eu/">
+  <img src="./assets/onaturel.png" width="80px"/><br>
+  Onaturel
+</a>
+</td>
+<td align="center">
+<a href="https://alternativ-uniforme.fr/">
+  <img src="./assets/alternativ.png" width="80px"/><br>
+  Alternativ Uniforme
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://www.galaxy-uniforme.com/">
+  <img src="./assets/galaxy.png" width="80px"/><br>
+  Galaxy Uniforme
+</a>
+</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 </div>
 
