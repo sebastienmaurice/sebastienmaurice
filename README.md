@@ -59,8 +59,8 @@
 
 ---
 <!-- Section "Sites réalisés" -->
-<div align="center">
   ## 🌐 Sites réalisés
+<div align="center">
 </div>
 
 <table align="center" style="border-collapse: collapse;">
