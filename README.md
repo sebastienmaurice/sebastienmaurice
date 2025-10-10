@@ -1,16 +1,14 @@
-<!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
+<!-- Profil GitHub Pro - Sebastien Maurice -->
 <!-- Version dynamique, texte à gauche, hibou à droite -->
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
   <!-- Texte profil -->
-  <div style="max-width: 65%;">
+  <div style="max-width: 65%; padding-right: 10px;">
     <h1>👋 Salut, moi c’est <strong>Sebastien Maurice</strong></h1>
     <h3>Développeur Web Full Stack</h3>
-
     <p>💻 Je conçois des applications web modernes et performantes, de la SPA full stack aux outils internes d’entreprise.<br>
     💡 Passionné par les bonnes pratiques, l’apprentissage continu et l’efficacité augmentée par l’IA.</p>
-
     <p>✨ Toujours en apprentissage<br>
     🌱 Je perfectionne React, Node.js, PostgreSQL, Docker et IA<br>
     💻 J’explore les projets open source et les applications réelles</p>
