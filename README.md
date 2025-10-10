@@ -4,16 +4,16 @@
 <div>
   <!-- Image animée à droite -->
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67">
-    <img align="right" width="40%" src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" style="width:35%; max-width:150px; display:block; position:relative; top:-30px;">
+    <img align="right" width="35%" src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" style="max-width:150px; display:block; position:relative; top:-30px;">
   </a>
 
   <!-- Titre principal -->
-<h1>
-  <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" 
-       alt="Hibou" 
-       style="width:40px; vertical-align:middle; margin-right:8px;">
-  Salut, moi c’est <strong>Sebastien Maurice</strong>
-</h1>
+  <h1>
+    <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d/656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" 
+         alt="Hibou" 
+         style="width:40px; vertical-align:middle; margin-right:8px;">
+    Salut, moi c’est <strong>Sebastien Maurice</strong>
+  </h1>
 
   <!-- Présentation -->
   <p>
@@ -21,20 +21,19 @@
     💡 Passionné par les bonnes pratiques, l’apprentissage continu et l’efficacité augmentée par l’IA.
   </p>
 
-<!-- Points clés / Philosophie -->
-<ul>
-  <li>✨ Toujours en apprentissage et amélioration continue</li>
-  <li>🌱 Je perfectionne React, Node.js, PostgreSQL, Docker et IA</li>
-  <li>💻 J’explore les projets open source et les applications réelles</li>
-  <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
-  <li>🧪 J’applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
-  <li>🤖 J’intègre l’IA et l’automatisation pour gagner en productivité</li>
-  <li>🌐 Je crée des applications Full Stack modernes, de la SPA aux API REST/GraphQL</li>
-</ul>
+  <!-- Points clés / Philosophie -->
+  <ul>
+    <li>✨ Toujours en apprentissage et amélioration continue</li>
+    <li>🌱 Je perfectionne React, Node.js, PostgreSQL, Docker et IA</li>
+    <li>💻 J’explore les projets open source et les applications réelles</li>
+    <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
+    <li>🧪 J’applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
+    <li>🤖 J’intègre l’IA et l’automatisation pour gagner en productivité</li>
+    <li>🌐 Je crée des applications Full Stack modernes, de la SPA aux API REST/GraphQL</li>
+  </ul>
 
-  <!-- Clear float pour que tout ce qui suit ne se décale pas -->
+  <!-- Clear float -->
   <div style="clear: both;"></div>
-
 </div>
 
 ---
@@ -77,27 +76,28 @@
 <!-- 🌐 Expérience freelance passée - CMS / E-commerce -->
 <div align="center">
   <h2>🌐 Expérience freelance passée – CMS & E-commerce</h2>
+  <small>Intégration WordPress, WooCommerce & Prestashop</small>
 </div>
 
 <table align="center" style="border-collapse: collapse;">
 <tr>
 <td align="center" style="padding:10px;">
   <a href="https://rudylesaint-magnetiseur.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="250" class="site-image">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="250">
   </a>
   <h4>Rudy Le Saint - Magnétiseur</h4>
   <p><i>Site vitrine WordPress / Elementor</i></p>
 </td>
 <td align="center" style="padding:10px;">
   <a href="https://gsti62.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="250" class="site-image">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="250">
   </a>
   <h4>GSTI62</h4>
   <p><i>Entreprise d’usinage – WordPress / Elementor</i></p>
 </td>
 <td align="center" style="padding:10px;">
   <a href="https://www.palimpseste-urbain.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="250" class="site-image">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="250">
   </a>
   <h4>Palimpseste Urbain</h4>
   <p><i>Architecte urbain – WordPress / Elementor</i></p>
@@ -106,21 +106,21 @@
 <tr>
 <td align="center" style="padding:10px;">
   <a href="https://www.petitchateauvercourt.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="250" class="site-image">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="250">
   </a>
   <h4>Petit Château Vercourt</h4>
   <p><i>Réservation maison d’hôtes – WordPress / Elementor</i></p>
 </td>
 <td align="center" style="padding:10px;">
   <a href="https://onaturel.eu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="250" class="site-image">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="250">
   </a>
   <h4>Onaturel</h4>
   <p><i>E-commerce bien-être – WordPress / Elementor</i></p>
 </td>
 <td align="center" style="padding:10px;">
   <a href="https://alternativ-uniforme.fr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="250" class="site-image">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="250">
   </a>
   <h4>Alternativ Uniforme</h4>
   <p><i>Personnalisation d’habillement pro – WordPress / Elementor</i></p>
@@ -129,7 +129,7 @@
 <tr>
 <td colspan="3" align="center" style="padding:10px;">
   <a href="https://www.galaxy-uniforme.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="250" class="site-image">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="250">
   </a>
   <h4>Galaxy Uniforme</h4>
   <p><i>E-commerce B2B – Prestashop</i></p>
@@ -140,8 +140,8 @@
 ---
 
 <!-- 🛠️ Stack technique -->
-## 🛠️ Stack Technique
 <div align="center">
+  <h2>🛠️ Stack Technique</h2>
 </div>
 
 ### Frontend
@@ -165,8 +165,8 @@
 ---
 
 <!-- 🎓 Parcours -->
-## 🎓 Parcours
 <div align="center">
+  <h2>🎓 Parcours</h2>
 </div>
 
 - 🧭 **Formé chez [O’clock](https://oclock.io)** — Spécialisation *Full Stack JavaScript*  
@@ -177,7 +177,7 @@
 
 <!-- 💡 Philosophie -->
 <div align="center">
-## 💡 Ma philosophie
+  <h2>💡 Ma philosophie</h2>
 </div>
 
 ```js
