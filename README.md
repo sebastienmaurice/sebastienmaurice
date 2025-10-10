@@ -7,18 +7,18 @@
 
 > "Du code propre, des apps qui servent, et l'IA comme super-pouvoir."
 
-🚀 Je construis des applications web modernes et performantes, du site vitrine WordPress aux applications web full stack.  
-💡 Passionné par l'apprentissage continu, les bonnes pratiques et l'efficacité augmentée par l'IA.
+🚀 Je crée des applications web modernes et performantes : sites vitrines WordPress, e-commerces Prestashop, SPA React, et API robustes.  
+💡 Passionné par l'apprentissage continu et l’efficacité augmentée par l’IA.
 
 ---
 
 ## ⚡ Ce que je fais
 
-- 🎯 **Full Stack JavaScript** — De l'UI interactive à l'API robuste
-- 🌐 **CMS / WordPress / WooCommerce** — Création de sites optimisés et évolutifs
-- 🤖 **IA & Productivité** — Automatisation, génération de code et outils d’IA
-- 🏗️ **Architecture propre** — Code maintenable, documenté et testé
-- 📚 **Apprentissage permanent** — Veille tech, expérimentations et partage
+- 🎯 **Full Stack JavaScript** — UI interactive & API robuste  
+- 🌐 **CMS & E-commerce** — WordPress, WooCommerce, Prestashop  
+- 🤖 **IA & Productivité** — Automatisation, Copilot, ChatGPT, Claude AI  
+- 🏗️ **Code maintenable** — Tests, documentation, architecture propre  
+- 📚 **Veille & partage** — Expérimentations et apprentissage continu
 
 ---
 
@@ -57,33 +57,34 @@
 ## 🚀 Projets en cours
 
 ### 🎯 [oKanban](https://github.com/sebastienmaurice/okanban)
-**Gestion de tâches collaborative** — API REST + SPA React  
-`Node.js` `Express` `PostgreSQL` `React` `Sequelize`
+**Gestion de tâches collaborative** — API REST + SPA React
 
 ### 🔤 [Regex Trainer](https://github.com/sebastienmaurice/regex-trainer)
 **Apprendre les regex de façon interactive**  
-`JavaScript` `React` `TailwindCSS`
 
 ### 🌐 Portfolio Personnel *(coming soon)*
-**Ma vitrine professionnelle**  
-`React` `Next.js` `Framer Motion` `WordPress`
+**Vitrine professionnelle** — React, Next.js, Framer Motion, WordPress
 
 ---
 
 ## 🌐 Sites réalisés
 
+<div align="center">
+
 ### 💻 CMS WordPress
-- [rudylesaint-magnetiseur.com](https://rudylesaint-magnetiseur.com)  
-- [Gsti62](https://gsti62.com/)  
-- [Palimpseste Urbain](https://www.palimpseste-urbain.com/)  
-- [Petit Château Vercourt](https://www.petitchateauvercourt.com/)  
-- [Onaturel](https://onaturel.eu/)  
-- [Alternativ Uniforme](https://alternativ-uniforme.fr/)
+<a href="https://rudylesaint-magnetiseur.com"><img src="https://rudylesaint-magnetiseur.com/wp-content/uploads/favicon.ico" width="50px" height="50px"/> rudylesaint-magnetiseur.com</a>
+<a href="https://gsti62.com/"><img src="https://gsti62.com/wp-content/uploads/favicon.ico" width="50px" height="50px"/> Gsti62</a>
+<a href="https://www.palimpseste-urbain.com/"><img src="https://www.palimpseste-urbain.com/wp-content/uploads/favicon.ico" width="50px" height="50px"/> Palimpseste Urbain</a>
+<a href="https://www.petitchateauvercourt.com/"><img src="https://www.petitchateauvercourt.com/wp-content/uploads/favicon.ico" width="50px" height="50px"/> Petit Château Vercourt</a>
+<a href="https://onaturel.eu/"><img src="https://onaturel.eu/wp-content/uploads/favicon.ico" width="50px" height="50px"/> Onaturel</a>
+<a href="https://alternativ-uniforme.fr/"><img src="https://alternativ-uniforme.fr/wp-content/uploads/favicon.ico" width="50px" height="50px"/> Alternativ Uniforme</a>
 
 ### 🛒 Prestashop
-- [Galaxy Uniforme](https://www.galaxy-uniforme.com/)
+<a href="https://www.galaxy-uniforme.com/"><img src="https://www.galaxy-uniforme.com/favicon.ico" width="50px" height="50px"/> Galaxy Uniforme</a>
 
---- 
+</div>
+
+---
 
 ## 📈 GitHub Stats
 
