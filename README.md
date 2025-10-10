@@ -1,73 +1,109 @@
 <!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
-<!-- Inspiré du parcours O'clock / RNCP 37674 et du style André Leclercq -->
-
 <div align="center">
-  
-# 👋 Salut, moi c’est Sebastien Maurice  
-### *Développeur Web Full Stack* — RNCP 37674  
-  
-> “Construire des expériences web qui allient technique, créativité et IA.”  
-  
-💡 Passionné par le code, la tech, et l’impact que le web peut avoir sur la vie quotidienne.  
-Formé chez [O’clock](https://oclock.io/), je me spécialise dans la création d’applications modernes, maintenables et augmentées par l’intelligence artificielle.  
+
+# 👋 Salut, moi c'est Sebastien Maurice
+
+### *Développeur Web Full Stack* | RNCP 37674 | Formé chez O'clock
+
+> "Du code propre, des apps qui servent, et l'IA comme super-pouvoir."
+
+🚀 Je construis des applications web modernes qui résolvent de vrais problèmes.  
+💡 Passionné par l'apprentissage continu, les bonnes pratiques et l'efficacité augmentée par l'IA.
 
 ---
 
-### ⚙️ Stack & Compétences principales
+## ⚡ Ce que je fais
 
-**Frontend :**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-
-**Backend :**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
-
-**Outils & DevOps :**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
-**IA & Productivité :**  
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white)
-![Claude AI](https://img.shields.io/badge/-Claude%20AI-ff6f61?logo=anthropic&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white)
+- 🎯 **Full Stack JavaScript** — De l'UI interactive à l'API robuste
+- 🤖 **IA & Productivité** — J'utilise les outils d'IA pour coder plus vite et mieux
+- 🏗️ **Architecture propre** — Code maintenable, documenté, testé
+- 📚 **Apprentissage permanent** — Veille tech, expérimentations, partage
 
 ---
 
-### 🚀 Projets à venir
+## 🛠️ Stack Technique
 
-*(en cours de déploiement)*  
-- **oKanban** — Application de gestion de tâches collaborative (API + SPA)  
-- **Regex Trainer** — Outil d’apprentissage interactif pour les expressions régulières  
-- **Portfolio Personnel** — Une vitrine moderne pour mes projets et ma vision du web  
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat)
+
+### DevOps & Outils
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+
+### IA & Workflow
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white&style=flat)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat)
+![Claude AI](https://img.shields.io/badge/-Claude%20AI-ff6f61?logo=anthropic&logoColor=white&style=flat)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
+![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white&style=flat)
 
 ---
 
-### 📊 Statistiques GitHub *(à venir)*
+## 🚀 Projets en cours
 
-<!--
-![Seb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=radical)
--->
+### 🎯 [oKanban](https://github.com/sebastienmaurice/okanban)
+**Gestion de tâches collaborative** — API REST + SPA React  
+`Node.js` `Express` `PostgreSQL` `React` `Sequelize`
+
+### 🔤 [Regex Trainer](https://github.com/sebastienmaurice/regex-trainer)
+**Apprendre les regex de façon interactive**  
+`JavaScript` `React` `TailwindCSS`
+
+### 🌐 Portfolio Personnel *(coming soon)*
+**Ma vitrine professionnelle**  
+`React` `Next.js` `Framer Motion`
 
 ---
 
-### 🤝 Me retrouver
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastien-maurice/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://github.com/sebastienmaurice)
-[![O'clock](https://img.shields.io/badge/-O'clock-1E1E1E?logo=oclock&logoColor=white)](https://oclock.io)
+![Sebastien's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ---
 
-🧠 *“Apprendre, créer, partager — le code comme vecteur d’émotion et d’innovation.”*  
+## 🤝 Restons connectés
+
+[![LinkedIn](https://img.shields.io/badge/-Sebastien_Maurice-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastien-maurice/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://sebastienmaurice.dev)
+[![Email](https://img.shields.io/badge/-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:contact@sebastienmaurice.dev)
+
+---
+
+## 💡 Ma philosophie
+
+```javascript
+const developer = {
+  name: "Sebastien Maurice",
+  mindset: "Apprendre en faisant",
+  approach: "Code lisible > Code clever",
+  tools: ["IA", "Documentation", "Communauté"],
+  goal: "Créer de la valeur avec du code"
+};
+```
+
+---
+
+### 🎓 Formation
+
+**Développeur Web et Web Mobile** — RNCP 37674  
+[O'clock](https://oclock.io) — Formation intensive Full Stack JavaScript
+
+---
+
+<sub>⭐ N'hésite pas à explorer mes repos et à laisser une star si un projet te plaît !</sub>
+
 </div>
