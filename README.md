@@ -1,4 +1,4 @@
-<!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
+<!-- Profil GitHub de Sebastien Maurice -->
 <div align="center">
 
 # 👋 Salut, moi c’est **Sebastien Maurice**
@@ -11,7 +11,7 @@
 
 </div>
 
-<!-- Centrer le titre de section -->
+<!-- Section "Ce que je fais" -->
 <div align="center">
 ## ⚡ Ce que je fais
 </div>
@@ -32,6 +32,7 @@
 
 </div>
 
+<!-- Section "Stack Technique" -->
 <div align="center">
 ## 🛠️ Stack Technique
 </div>
@@ -58,6 +59,7 @@
 
 </div>
 
+<!-- Section "Sites réalisés" -->
 <div align="center">
 ## 🌐 Sites réalisés
 </div>
@@ -138,6 +140,7 @@
 
 </div>
 
+<!-- Section "Parcours" -->
 <div align="center">
 ## 🎓 Parcours
 </div>
@@ -146,6 +149,7 @@
 - 🏆 **Certification RNCP Niveau 5** — *Développeur Web & Web Mobile*  
 - 💼 **Expérience en freelance & projets clients** — Sites vitrine, e-commerce, outils internes
 
+<!-- Section "Ma philosophie" -->
 <div align="center">
 ## 💡 Ma philosophie
 </div>
@@ -162,13 +166,13 @@ const developer = {
 </pre>
 </div>
 
+<!-- Section "Restons connectés" -->
 <div align="center">
 ## 🤝 Restons connectés
 </div>
 
 <div align="center">
 [![LinkedIn](https://img.shields.io/badge/-Sebastien_Maurice-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastien-maurice/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://sebastienmaurice.dev)
-[![Malt](https://img.shields.io/badge/-Malt-FF5A00?logo=malt&logoColor=white&style=for-the-badge)](https://www.malt.fr/profile/semauri)
-[![Email](https://img.shields.io/badge/-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:overseb75@gmail.com)
-</div>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?
+::contentReference[oaicite:1]{index=1}
+ 
