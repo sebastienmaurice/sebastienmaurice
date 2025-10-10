@@ -9,43 +9,32 @@
 💻 Je conçois des applications web modernes, du site vitrine WordPress aux solutions full stack performantes.  
 💡 Passionné par les bonnes pratiques, l’apprentissage continu et l’efficacité augmentée par l’IA.
 
----
-
 </div>
 
+<!-- Centrer le titre de section -->
+<div align="center">
 ## ⚡ Ce que je fais
+</div>
 
 <div align="center">
 
 <table>
 <tr><td align="center">
-
-🎯 **Full Stack JavaScript**  
-Du front React à l’API Express + PostgreSQL  
-
+🎯 <b>Full Stack JavaScript</b><br><small>React / Node.js / PostgreSQL</small>
 </td><td align="center">
-
-🌐 **CMS / WordPress / WooCommerce**  
-Création de sites optimisés et évolutifs  
-
+🌐 <b>CMS & E-commerce</b><br><small>WordPress / WooCommerce / Prestashop</small>
 </td><td align="center">
-
-🤖 **IA & Productivité**  
-Automatisation, génération de code, outils IA  
-
+🤖 <b>Automatisation & IA</b><br><small>Copilot / ChatGPT / Workflows</small>
 </td><td align="center">
-
-🏗️ **Architecture propre**  
-Code maintenable, documenté et testé  
-
+🏗️ <b>Architecture & Tests</b><br><small>Clean code / CI / TDD</small>
 </td></tr>
 </table>
 
 </div>
 
----
-
+<div align="center">
 ## 🛠️ Stack Technique
+</div>
 
 <div align="center">
 
@@ -56,32 +45,22 @@ Code maintenable, documenté et testé
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-96588A?logo=woocommerce&logoColor=white&style=flat)
 
 ### Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat)
 
-### Outils & DevOps  
+### Outils & IA  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white&style=flat)
-
-### IA & Workflow  
-![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white&style=flat)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white&style=flat)
-![Claude AI](https://img.shields.io/badge/-Claude%20AI-ff6f61?logo=anthropic&logoColor=white&style=flat)
 
 </div>
 
----
-
+<div align="center">
 ## 🌐 Sites réalisés
+</div>
 
 <div align="center">
 
@@ -94,6 +73,35 @@ Code maintenable, documenté et testé
         </a>
         <h4>Rudy Le Saint</h4>
         <p style="font-size:13px; color:#999;">Site vitrine WordPress</p>
+      </div>
+    </td>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://gsti62.com/" target="_blank">
+          <img src="./assets/gsti62.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>GSTI62</h4>
+        <p style="font-size:13px; color:#999;">Entreprise de sécurité</p>
+      </div>
+    </td>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://www.palimpseste-urbain.com/" target="_blank">
+          <img src="./assets/palimpseste.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Palimpseste Urbain</h4>
+        <p style="font-size:13px; color:#999;">Site artistique WordPress</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+        <a href="https://www.petitchateauvercourt.com/" target="_blank">
+          <img src="./assets/petitchateau.png" width="100%" style="border-radius:8px;">
+        </a>
+        <h4>Petit Château Vercourt</h4>
+        <p style="font-size:13px; color:#999;">Hébergement & tourisme</p>
       </div>
     </td>
     <td>
@@ -116,37 +124,8 @@ Code maintenable, documenté et testé
     </td>
   </tr>
   <tr>
-    <td>
-      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
-        <a href="https://gsti62.com/" target="_blank">
-          <img src="./assets/gsti62.png" width="100%" style="border-radius:8px;">
-        </a>
-        <h4>GSTI62</h4>
-        <p style="font-size:13px; color:#999;">Entreprise de sécurité</p>
-      </div>
-    </td>
-    <td>
-      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
-        <a href="https://www.palimpseste-urbain.com/" target="_blank">
-          <img src="./assets/palimpseste.png" width="100%" style="border-radius:8px;">
-        </a>
-        <h4>Palimpseste Urbain</h4>
-        <p style="font-size:13px; color:#999;">Site artistique WordPress</p>
-      </div>
-    </td>
-    <td>
-      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
-        <a href="https://www.petitchateauvercourt.com/" target="_blank">
-          <img src="./assets/petitchateau.png" width="100%" style="border-radius:8px;">
-        </a>
-        <h4>Petit Château Vercourt</h4>
-        <p style="font-size:13px; color:#999;">Hébergement & tourisme</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; text-align:center; background:#161b22;">
+    <td colspan="3" align="center">
+      <div style="border:1px solid #30363d; border-radius:12px; padding:10px; width:220px; margin:auto; text-align:center; background:#161b22;">
         <a href="https://www.galaxy-uniforme.com/" target="_blank">
           <img src="./assets/galaxy.png" width="100%" style="border-radius:8px;">
         </a>
@@ -159,18 +138,17 @@ Code maintenable, documenté et testé
 
 </div>
 
----
-
+<div align="center">
 ## 🎓 Parcours
+</div>
 
 - 🧭 **Formé chez [O’clock](https://oclock.io)** — Spécialisation *Full Stack JavaScript*  
 - 🏆 **Certification RNCP Niveau 5** — *Développeur Web & Web Mobile*  
-- 💼 **Expérience en freelance & projets clients** — Sites vitrine, e-commerce, outils internes  
-- 🚀 **Approche moderne du développement** — Automatisation, IA, productivité et design system
+- 💼 **Expérience en freelance & projets clients** — Sites vitrine, e-commerce, outils internes
 
----
-
+<div align="center">
 ## 💡 Ma philosophie
+</div>
 
 <div align="center">
 <pre>
@@ -184,15 +162,13 @@ const developer = {
 </pre>
 </div>
 
----
-
+<div align="center">
 ## 🤝 Restons connectés
+</div>
 
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/-Sebastien_Maurice-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastien-maurice/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://sebastienmaurice.dev)
 [![Malt](https://img.shields.io/badge/-Malt-FF5A00?logo=malt&logoColor=white&style=for-the-badge)](https://www.malt.fr/profile/semauri)
 [![Email](https://img.shields.io/badge/-Contact-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:overseb75@gmail.com)
-
 </div>
