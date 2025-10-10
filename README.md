@@ -2,15 +2,18 @@
 <!-- Version dynamique style Kiran, en français -->
 
 <div>
-
   <!-- Image animée à droite -->
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67">
     <img align="right" width="40%" src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" style="width:35%; max-width:150px; display:block; position:relative; top:-30px;">
   </a>
 
   <!-- Titre principal -->
-  <h1>👋 Salut, moi c’est <strong>Sebastien Maurice</strong></h1>
-  <h3>Développeur Web Full Stack</h3>
+<h1>
+  <img src="https://camo.githubusercontent.com/9fd2c024a247a44434ed1c44c7c2fc2481e3333b4192330e2ae61ccfcac19d47/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" 
+       alt="Hibou" 
+       style="width:40px; vertical-align:middle; margin-right:8px;">
+  👋 Salut, moi c’est <strong>Sebastien Maurice</strong>
+</h1>
 
   <!-- Présentation -->
   <p>
