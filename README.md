@@ -72,6 +72,57 @@
 </div>
 
 ---
+<!-- 🛠️ Stack technique -->
+<div align="center">
+  <h2>🛠️ Stack Technique</h2>
+</div>
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+
+### Outils & IA
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white)
+
+---
+
+<!-- 🎓 Parcours -->
+<div align="center">
+  <h2>🎓 Parcours</h2>
+</div>
+
+- 🧭 **Formé chez [O’clock](https://oclock.io)** — Spécialisation *Full Stack JavaScript*  
+- 🏆 **Certification RNCP Niveau 5** — *Développeur Web & Web Mobile*  
+- 💼 **Expérience freelance passée** — Intégration WordPress / Prestashop pour clients divers
+
+---
+
+<!-- 💡 Philosophie -->
+<div align="center">
+  <h2>💡 Ma philosophie</h2>
+</div>
+
+```js
+const developer = {
+  name: "Sebastien Maurice",
+  mindset: "Apprendre en faisant 🛠️",
+  approach: "Code lisible & maintenable > Code clever",
+  tools: ["IA 🤖", "Documentation 📚", "Communauté 🌐", "CMS 🖥️"],
+  goal: "Créer de la valeur avec du code et des projets utiles 🚀"
+};
+```
+---
 
 <!-- 🌐 Expérience freelance passée - CMS / E-commerce -->
 <div align="center">
@@ -138,53 +189,3 @@
 </table>
 
 ---
-
-<!-- 🛠️ Stack technique -->
-<div align="center">
-  <h2>🛠️ Stack Technique</h2>
-</div>
-
-### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-### Outils & IA
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white)
-
----
-
-<!-- 🎓 Parcours -->
-<div align="center">
-  <h2>🎓 Parcours</h2>
-</div>
-
-- 🧭 **Formé chez [O’clock](https://oclock.io)** — Spécialisation *Full Stack JavaScript*  
-- 🏆 **Certification RNCP Niveau 5** — *Développeur Web & Web Mobile*  
-- 💼 **Expérience freelance passée** — Intégration WordPress / Prestashop pour clients divers
-
----
-
-<!-- 💡 Philosophie -->
-<div align="center">
-  <h2>💡 Ma philosophie</h2>
-</div>
-
-```js
-const developer = {
-  name: "Sebastien Maurice",
-  mindset: "Apprendre en faisant 🛠️",
-  approach: "Code lisible & maintenable > Code clever",
-  tools: ["IA 🤖", "Documentation 📚", "Communauté 🌐", "CMS 🖥️"],
-  goal: "Créer de la valeur avec du code et des projets utiles 🚀"
-};
