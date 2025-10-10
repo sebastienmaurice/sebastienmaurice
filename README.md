@@ -24,29 +24,32 @@ Formé chez **O’clock**, j’aime concevoir du code lisible, durable et pensé
 
 <table>
   <tr>
-    <td style="border:1px solid #30363d; border-radius:10px; padding:10px; background:#161b22;">
-      🚀 <b>Développement web full stack</b><br>
-      <small>(Node.js / React)</small>
+    <td style="border:1px solid #30363d; border-radius:10px; padding:15px; background:#161b22; width:220px;">
+      🚀 <b>Développement Full Stack</b><br>
+      <small style="color:#999;">Node.js / Express / React / PostgreSQL</small>
     </td>
-    <td style="border:1px solid #30363d; border-radius:10px; padding:10px; background:#161b22;">
+    <td style="border:1px solid #30363d; border-radius:10px; padding:15px; background:#161b22; width:220px;">
       🧠 <b>Automatisation & IA</b><br>
-      <small>(Prompt engineering / API OpenAI)</small>
+      <small style="color:#999;">GitHub Copilot / ChatGPT / Intégrations IA</small>
     </td>
-    <td style="border:1px solid #30363d; border-radius:10px; padding:10px; background:#161b22;">
+    <td style="border:1px solid #30363d; border-radius:10px; padding:15px; background:#161b22; width:220px;">
       🪄 <b>Sites vitrines & e-commerce</b><br>
-      <small>(WordPress / Prestashop)</small>
+      <small style="color:#999;">WordPress / WooCommerce / Prestashop</small>
     </td>
   </tr>
   <tr>
-    <td style="border:1px solid #30363d; border-radius:10px; padding:10px; background:#161b22;">
+    <td style="border:1px solid #30363d; border-radius:10px; padding:15px; background:#161b22; width:220px;">
       🧱 <b>API REST & SPA</b><br>
-      <small>(Express / React / Axios)</small>
+      <small style="color:#999;">Architecture MVC / Clean Code / Tests</small>
     </td>
-    <td style="border:1px solid #30363d; border-radius:10px; padding:10px; background:#161b22;">
-      🎨 <b>UI/UX Design</b><br>
-      <small>(Figma / TailwindCSS)</small>
+    <td style="border:1px solid #30363d; border-radius:10px; padding:15px; background:#161b22; width:220px;">
+      🎨 <b>UI/UX Design moderne</b><br>
+      <small style="color:#999;">Figma / TailwindCSS / Responsive Design</small>
     </td>
-    <td style="border:none;"></td>
+    <td style="border:1px solid #30363d; border-radius:10px; padding:15px; background:#161b22; width:220px;">
+      📚 <b>Apprentissage continu</b><br>
+      <small style="color:#999;">Veille tech / Expérimentations / Partage</small>
+    </td>
   </tr>
 </table>
 
