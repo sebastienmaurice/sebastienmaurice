@@ -18,12 +18,16 @@
     💡 Passionné par les bonnes pratiques, l’apprentissage continu et l’efficacité augmentée par l’IA.
   </p>
 
-  <!-- Points clés / Philosophie -->
-  <ul>
-    <li>✨ Toujours en apprentissage</li>
-    <li>🌱 Je perfectionne React, Node.js, PostgreSQL, Docker et IA</li>
-    <li>💻 J’explore les projets open source et les applications réelles</li>
-  </ul>
+<!-- Points clés / Philosophie -->
+<ul>
+  <li>✨ Toujours en apprentissage et amélioration continue</li>
+  <li>🌱 Je perfectionne React, Node.js, PostgreSQL, Docker et IA</li>
+  <li>💻 J’explore les projets open source et les applications réelles</li>
+  <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
+  <li>🧪 J’applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
+  <li>🤖 J’intègre l’IA et l’automatisation pour gagner en productivité</li>
+  <li>🌐 Je crée des applications Full Stack modernes, de la SPA aux API REST/GraphQL</li>
+</ul>
 
   <!-- Clear float pour que tout ce qui suit ne se décale pas -->
   <div style="clear: both;"></div>
