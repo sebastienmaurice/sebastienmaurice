@@ -1,7 +1,9 @@
 <!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
-<!-- Inspiré du style Kiran1689 -->
+<!-- Version dynamique inspirée de Kiran1689 -->
 
 <div align="center">
+
+![Header GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif) <!-- Tu peux remplacer par un GIF plus perso -->
 
 # 👋 Salut, moi c’est **Sebastien Maurice**
 ### *Développeur Web Full Stack*
@@ -37,28 +39,52 @@
 
 ---
 
+## 📊 Mes stats GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
+
+## 🌐 Projets Full Stack & SPA
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <a href="https://ton-projet-live1.com" target="_blank" style="margin:10px; text-align:center; text-decoration:none;">
+    <img src="https://via.placeholder.com/250x150.png?text=Projet+1" width="250" style="border-radius: 8px; box-shadow:0 0 10px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <h4>Projet Full Stack 1</h4>
+    <p><i>React / Node.js / PostgreSQL</i></p>
+  </a>
+  <a href="https://ton-projet-live2.com" target="_blank" style="margin:10px; text-align:center; text-decoration:none;">
+    <img src="https://via.placeholder.com/250x150.png?text=Projet+2" width="250" style="border-radius: 8px; box-shadow:0 0 10px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+    <h4>Projet Full Stack 2</h4>
+    <p><i>React / Node.js / REST API</i></p>
+  </a>
+</div>
+
+---
+
 ## 🌐 Expérience freelance passée – CMS & E-commerce
-<small>Intégration WordPress, WooCommerce & Prestashop</small>
+<small>WordPress, WooCommerce & Prestashop</small>
 
 <table align="center" style="border-collapse: collapse;">
 <tr>
 <td align="center" style="padding: 10px;">
   <a href="https://rudylesaint-magnetiseur.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="200" style="border-radius: 8px; box-shadow:0 0 10px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <h4>Rudy Le Saint</h4>
   <p><i>Magnétiseur – WordPress / Elementor</i></p>
 </td>
 <td align="center" style="padding: 10px;">
   <a href="https://gsti62.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="200" style="border-radius: 8px; box-shadow:0 0 10px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <h4>GSTI62</h4>
   <p><i>Usinage sur machine – WordPress / Elementor</i></p>
 </td>
 <td align="center" style="padding: 10px;">
   <a href="https://www.palimpseste-urbain.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="200" style="border-radius: 8px; box-shadow:0 0 10px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <h4>Palimpseste Urbain</h4>
   <p><i>Architecte urbain – WordPress / Elementor</i></p>
@@ -67,21 +93,21 @@
 <tr>
 <td align="center" style="padding: 10px;">
   <a href="https://www.petitchateauvercourt.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="200" style="border-radius: 8px; box-shadow:0 0 10px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <h4>Petit Château Vercourt</h4>
   <p><i>Maison d’hôtes – WordPress / Elementor</i></p>
 </td>
 <td align="center" style="padding: 10px;">
   <a href="https://onaturel.eu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="200" style="border-radius: 8px; box-shadow:0 0 10px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <h4>Onaturel</h4>
   <p><i>E-commerce bien-être – WordPress / Elementor</i></p>
 </td>
 <td align="center" style="padding: 10px;">
   <a href="https://alternativ-uniforme.fr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="200" style="border-radius: 8px; box-shadow:0 0 10px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <h4>Alternativ Uniforme</h4>
   <p><i>Habillement pro – WordPress / Elementor</i></p>
@@ -90,7 +116,7 @@
 <tr>
 <td colspan="3" align="center" style="padding: 10px;">
   <a href="https://www.galaxy-uniforme.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="200" style="border-radius: 8px; box-shadow:0 0 10px rgba(0,0,0,0.3); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
   </a>
   <h4>Galaxy Uniforme</h4>
   <p><i>E-commerce B2B – Prestashop</i></p>
