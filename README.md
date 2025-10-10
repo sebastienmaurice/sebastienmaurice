@@ -36,6 +36,19 @@
 </tr>
 </table>
 
+<!-- Effet hover pour les images des sites réalisés -->
+<style>
+.site-image {
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.site-image:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+}
+</style>
+
 <!-- Section secondaire CMS / E-commerce -->
 <div align="center">
 <h3>🌐 Expérience freelance passée – CMS & E-commerce</h3>
