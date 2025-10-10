@@ -38,7 +38,6 @@ Formé chez [O’clock](https://oclock.io/), je me spécialise dans la création
 ![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/-Claude%20AI-ff6f61?logo=anthropic&logoColor=white)
-![Google AI Studio](https://img.shields.io/badge/-Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?logo=obsidian&logoColor=white)
 
