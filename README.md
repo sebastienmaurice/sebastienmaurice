@@ -59,6 +59,14 @@
 
 ---
 
+<!-- 💎 Badges GitHub -->
+<div align="center">
+  ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=radical&count_private=true&hide_title=true)
+  ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=radical)
+</div>
+
+---
+
 <!-- 🌐 Expérience freelance passée - CMS / E-commerce -->
 <div align="center">
 ## 🌐 Expérience freelance passée – CMS & E-commerce
