@@ -19,16 +19,24 @@
 <table align="center">
 <tr>
 <td align="center">
-🎯 <b>Full Stack JavaScript</b><br><small>React / Node.js / PostgreSQL</small>
+🎯 <b>Full Stack JavaScript</b><br>
+<small>React / Node.js / Express / PostgreSQL / REST & GraphQL API</small><br>
+<small><i>Projets O’Clock, applications web complètes & SPA</i></small>
 </td>
 <td align="center">
-🌐 <b>CMS & E-commerce</b><br><small>WordPress / WooCommerce / Prestashop</small>
+🌐 <b>CMS & E-commerce</b><br>
+<small>WordPress / WooCommerce / Prestashop</small><br>
+<small><i>Sites vitrine & boutiques en ligne</i></small>
 </td>
 <td align="center">
-🤖 <b>Automatisation & IA</b><br><small>Copilot / ChatGPT / Workflows</small>
+🤖 <b>Automatisation & IA</b><br>
+<small>Copilot / ChatGPT / Workflows</small><br>
+<small><i>Scripts, bots et intégration IA dans les projets</i></small>
 </td>
 <td align="center">
-🏗️ <b>Architecture & Tests</b><br><small>Clean code / CI / TDD</small>
+🏗️ <b>Architecture & Tests</b><br>
+<small>Clean code / CI / TDD / Design patterns</small><br>
+<small><i>Structure robuste, maintenable et scalable</i></small>
 </td>
 </tr>
 </table>
