@@ -81,49 +81,65 @@
 
 ## 🌐 Sites réalisés
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-<a href="https://rudylesaint-magnetiseur.com" style="text-decoration:none;margin:10px;">
-  <img src="./assets/rudylesaint.png" width="100px"/><br>
-  <b>rudylesaint-magnetiseur.com</b>
-</a>
-
-<a href="https://gsti62.com/" style="text-decoration:none;margin:10px;">
-  <img src="./assets/gsti62.png" width="100px"/><br>
-  <b>Gsti62</b>
-</a>
-
-<a href="https://www.palimpseste-urbain.com/" style="text-decoration:none;margin:10px;">
-  <img src="./assets/palimpseste.png" width="100px"/><br>
-  <b>Palimpseste Urbain</b>
-</a>
-
-<br>
-
-<a href="https://www.petitchateauvercourt.com/" style="text-decoration:none;margin:10px;">
-  <img src="./assets/petitchateau.png" width="100px"/><br>
-  <b>Petit Château Vercourt</b>
-</a>
-
-<a href="https://onaturel.eu/" style="text-decoration:none;margin:10px;">
-  <img src="./assets/onaturel.png" width="100px"/><br>
-  <b>Onaturel</b>
-</a>
-
-<a href="https://alternativ-uniforme.fr/" style="text-decoration:none;margin:10px;">
-  <img src="./assets/alternativ.png" width="100px"/><br>
-  <b>Alternativ Uniforme</b>
-</a>
-
-<br>
-
-<a href="https://www.galaxy-uniforme.com/" style="text-decoration:none;margin:10px;">
-  <img src="./assets/galaxy.png" width="100px"/><br>
-  <b>Galaxy Uniforme</b>
-</a>
-
+<!-- Card 1 -->
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://rudylesaint-magnetiseur.com" style="text-decoration:none; color:white;">
+    <img src="./assets/rudylesaint.png" width="120px" style="border-radius:8px;"/><br>
+    <b>rudylesaint-magnetiseur.com</b>
+  </a>
 </div>
 
+<!-- Card 2 -->
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://gsti62.com/" style="text-decoration:none; color:white;">
+    <img src="./assets/gsti62.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Gsti62</b>
+  </a>
+</div>
+
+<!-- Card 3 -->
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://www.palimpseste-urbain.com/" style="text-decoration:none; color:white;">
+    <img src="./assets/palimpseste.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Palimpseste Urbain</b>
+  </a>
+</div>
+
+<!-- Card 4 -->
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://www.petitchateauvercourt.com/" style="text-decoration:none; color:white;">
+    <img src="./assets/petitchateau.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Petit Château Vercourt</b>
+  </a>
+</div>
+
+<!-- Card 5 -->
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://onaturel.eu/" style="text-decoration:none; color:white;">
+    <img src="./assets/onaturel.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Onaturel</b>
+  </a>
+</div>
+
+<!-- Card 6 -->
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://alternativ-uniforme.fr/" style="text-decoration:none; color:white;">
+    <img src="./assets/alternativ.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Alternativ Uniforme</b>
+  </a>
+</div>
+
+<!-- Card 7 -->
+<div style="border:1px solid #444; border-radius:12px; padding:10px; width:150px; text-align:center;">
+  <a href="https://www.galaxy-uniforme.com/" style="text-decoration:none; color:white;">
+    <img src="./assets/galaxy.png" width="120px" style="border-radius:8px;"/><br>
+    <b>Galaxy Uniforme</b>
+  </a>
+</div>
+
+</div>
 
 ---
 
