@@ -75,9 +75,8 @@
 ---
 
 <!-- 🌐 Expérience freelance passée - CMS / E-commerce -->
-## 🌐 Expérience freelance passée – CMS & E-commerce
 <div align="center">
-<small>Intégration WordPress, WooCommerce & Prestashop</small>
+  <h2>🌐 Expérience freelance passée – CMS & E-commerce</h2>
 </div>
 
 <table align="center" style="border-collapse: collapse;">
