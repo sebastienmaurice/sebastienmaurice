@@ -1,6 +1,9 @@
+<!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
+<!-- Header horizontal style Kiran -->
+
 <div>
 
-<table width="100%" style="border-collapse: collapse; border: 0; margin:0; padding:0;">
+<table width="100%" style="border-collapse: collapse; margin:0; padding:0;">
 <tr>
 <td align="left" width="70%" style="padding:0; margin:0; border:0;">
   
@@ -22,7 +25,7 @@
 </tr>
 </table>
 
-</div>=
+</div>
 
 ---
 
