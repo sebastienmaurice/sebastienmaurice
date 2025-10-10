@@ -173,6 +173,6 @@ const developer = {
 
 <div align="center">
 [![LinkedIn](https://img.shields.io/badge/-Sebastien_Maurice-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/sebastien-maurice/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=github&logoColor=white&style
 ::contentReference[oaicite:1]{index=1}
  
