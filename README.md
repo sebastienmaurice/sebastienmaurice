@@ -11,6 +11,17 @@
 
 ---
 
+</div>
+
+## 🎓 Parcours
+
+- 🧭 **Formé chez [O’clock](https://oclock.io)** — Spécialisation *Full Stack JavaScript*  
+- 🏆 **Certification RNCP Niveau 5** — *Développeur Web & Web Mobile*  
+- 💼 **Expérience en freelance & projets clients** — Sites vitrine, e-commerce, outils internes  
+- 🚀 **Approche moderne du développement** — Automatisation, IA, productivité et design system
+
+---
+
 ## 💫 À propos
 
 👋 Développeur passionné par la création d’expériences web utiles, performantes et élégantes.  
