@@ -1,5 +1,5 @@
 <!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
-<!-- Inspiré du parcours O'clock / RNCP 37674 -->
+<!-- Inspiré du style Kiran1689 -->
 
 <div align="center">
 
@@ -13,15 +13,14 @@
 
 ---
 
-## ⚡ Ce que je fais
-</div>
+## ⚡ Compétences principales
 
 <table align="center">
 <tr>
 <td align="center">
 🎯 <b>Full Stack JavaScript</b><br>
 <small>React / Node.js / Express / PostgreSQL / REST & GraphQL API</small><br>
-<small><i>Projets O’Clock, applications web complètes & SPA</i></small>
+<small><i>Projets O’Clock & applications web complètes</i></small>
 </td>
 <td align="center">
 🤖 <b>Automatisation & IA</b><br>
@@ -36,73 +35,70 @@
 </tr>
 </table>
 
-<!-- Section secondaire CMS / E-commerce -->
-<div align="center">
-<h3>🌐 Expérience freelance passée – CMS & E-commerce</h3>
-<small>Intégration WordPress, WooCommerce & Prestashop pour clients divers</small>
-</div>
+---
+
+## 🌐 Expérience freelance passée – CMS & E-commerce
+<small>Intégration WordPress, WooCommerce & Prestashop</small>
 
 <table align="center" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://rudylesaint-magnetiseur.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="250" class="site-image">
-      </a>
-      <h4>Rudy Le Saint - Magnétiseur</h4>
-      <p><i>Site vitrine WordPress avec Elementor</i></p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://gsti62.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="250" class="site-image">
-      </a>
-      <h4>GSTI62</h4>
-      <p><i>Entreprise d’usinage sur machine de matériaux – WordPress / Elementor</i></p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.palimpseste-urbain.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="250" class="site-image">
-      </a>
-      <h4>Palimpseste Urbain</h4>
-      <p><i>Architecte urbain – WordPress / Elementor</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://www.petitchateauvercourt.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="250" class="site-image">
-      </a>
-      <h4>Petit Château Vercourt</h4>
-      <p><i>Site de réservation maison d’hôtes – WordPress / Elementor</i></p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://onaturel.eu/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="250" class="site-image">
-      </a>
-      <h4>Onaturel</h4>
-      <p><i>E-commerce bien-être – WordPress / Elementor</i></p>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://alternativ-uniforme.fr/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="250" class="site-image">
-      </a>
-      <h4>Alternativ Uniforme</h4>
-      <p><i>Personnalisation d’habillement pro – WordPress / Elementor</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" style="padding: 10px;">
-      <a href="https://www.galaxy-uniforme.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="250" class="site-image">
-      </a>
-      <h4>Galaxy Uniforme</h4>
-      <p><i>Entreprise de vente en ligne d’habillement pro – Prestashop</i></p>
-    </td>
-  </tr>
+<tr>
+<td align="center" style="padding: 10px;">
+  <a href="https://rudylesaint-magnetiseur.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  </a>
+  <h4>Rudy Le Saint</h4>
+  <p><i>Magnétiseur – WordPress / Elementor</i></p>
+</td>
+<td align="center" style="padding: 10px;">
+  <a href="https://gsti62.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  </a>
+  <h4>GSTI62</h4>
+  <p><i>Usinage sur machine – WordPress / Elementor</i></p>
+</td>
+<td align="center" style="padding: 10px;">
+  <a href="https://www.palimpseste-urbain.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  </a>
+  <h4>Palimpseste Urbain</h4>
+  <p><i>Architecte urbain – WordPress / Elementor</i></p>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 10px;">
+  <a href="https://www.petitchateauvercourt.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  </a>
+  <h4>Petit Château Vercourt</h4>
+  <p><i>Maison d’hôtes – WordPress / Elementor</i></p>
+</td>
+<td align="center" style="padding: 10px;">
+  <a href="https://onaturel.eu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  </a>
+  <h4>Onaturel</h4>
+  <p><i>E-commerce bien-être – WordPress / Elementor</i></p>
+</td>
+<td align="center" style="padding: 10px;">
+  <a href="https://alternativ-uniforme.fr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  </a>
+  <h4>Alternativ Uniforme</h4>
+  <p><i>Habillement pro – WordPress / Elementor</i></p>
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center" style="padding: 10px;">
+  <a href="https://www.galaxy-uniforme.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="200" style="border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+  </a>
+  <h4>Galaxy Uniforme</h4>
+  <p><i>E-commerce B2B – Prestashop</i></p>
+</td>
+</tr>
 </table>
 
 ---
-
-<div align="center">
 
 ## 🛠️ Stack Technique
 
@@ -125,22 +121,14 @@
 
 ---
 
-<div align="center">
-
 ## 🎓 Parcours
-</div>
-
 - 🧭 **Formé chez [O’clock](https://oclock.io)** — Spécialisation *Full Stack JavaScript*  
 - 🏆 **Certification RNCP Niveau 5** — *Développeur Web & Web Mobile*  
-- 💼 **Expérience freelance passée** — Intégration WordPress / Prestashop pour clients divers
+- 💼 **Expérience freelance passée** — WordPress / Prestashop (projets clients)
 
 ---
 
-<div align="center">
-
 ## 💡 Ma philosophie
-</div>
-
 ```js
 const developer = {
   name: "Sebastien Maurice",
