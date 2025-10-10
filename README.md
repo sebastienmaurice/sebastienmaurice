@@ -40,8 +40,8 @@
 ---
 
 <!-- ⚡ Ce que je fais -->
-<div align="center">
 ## ⚡ Ce que je fais
+<div align="center">
 </div>
 
 <table align="center">
@@ -75,8 +75,8 @@
 ---
 
 <!-- 🌐 Expérience freelance passée - CMS / E-commerce -->
-<div align="center">
 ## 🌐 Expérience freelance passée – CMS & E-commerce
+<div align="center">
 <small>Intégration WordPress, WooCommerce & Prestashop</small>
 </div>
 
@@ -141,8 +141,8 @@
 ---
 
 <!-- 🛠️ Stack technique -->
-<div align="center">
 ## 🛠️ Stack Technique
+<div align="center">
 </div>
 
 ### Frontend
@@ -166,8 +166,8 @@
 ---
 
 <!-- 🎓 Parcours -->
-<div align="center">
 ## 🎓 Parcours
+<div align="center">
 </div>
 
 - 🧭 **Formé chez [O’clock](https://oclock.io)** — Spécialisation *Full Stack JavaScript*  
