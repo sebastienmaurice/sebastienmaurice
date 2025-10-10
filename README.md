@@ -59,59 +59,75 @@
 
 ---
 
-## 🌐 Sites réalisés
+<!-- Section "Sites réalisés" -->
+  
+## 🌐 Sites réalisés  
+
 </div>
 
-<table align="center">
-<tr>
-<td>
-<img src="./assets/rudylesaint.jpg" width="250" style="border-radius:8px;">
-<h4 align="center">Rudy Le Saint</h4>
-<p align="center"><i>Site vitrine WordPress</i></p>
-</td>
+<table align="center" style="border-collapse:collapse;">
+  <tr>
+    <td align="center" style="padding:10px;">
+      <a href="https://rudylesaint-magnetiseur.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+      </a>
+      <h4>Rudy Le Saint</h4>
+      <p><i>Site vitrine WordPress</i></p>
+    </td>
 
-<td>
-<img src="./assets/gsti62.jpg" width="250" style="border-radius:8px;">
-<h4 align="center">GSTI62</h4>
-<p align="center"><i>Entreprise de sécurité</i></p>
-</td>
+    <td align="center" style="padding:10px;">
+      <a href="https://gsti62.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+      </a>
+      <h4>GSTI62</h4>
+      <p><i>Entreprise de sécurité</i></p>
+    </td>
 
-<td>
-<img src="./assets/palimpseste.jpg" width="250" style="border-radius:8px;">
-<h4 align="center">Palimpseste Urbain</h4>
-<p align="center"><i>Site artistique WordPress</i></p>
-</td>
-</tr>
+    <td align="center" style="padding:10px;">
+      <a href="https://www.palimpseste-urbain.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+      </a>
+      <h4>Palimpseste Urbain</h4>
+      <p><i>Site artistique WordPress</i></p>
+    </td>
+  </tr>
 
-<tr>
-<td>
-<img src="./assets/petitchateauvercourt.jpg" width="250" style="border-radius:8px;">
-<h4 align="center">Petit Château Vercourt</h4>
-<p align="center"><i>Hébergement & tourisme</i></p>
-</td>
+  <tr>
+    <td align="center" style="padding:10px;">
+      <a href="https://www.petitchateauvercourt.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+      </a>
+      <h4>Petit Château Vercourt</h4>
+      <p><i>Hébergement & tourisme</i></p>
+    </td>
 
-<td>
-<img src="./assets/onaturel.jpg" width="250" style="border-radius:8px;">
-<h4 align="center">Onaturel</h4>
-<p align="center"><i>E-commerce bien-être</i></p>
-</td>
+    <td align="center" style="padding:10px;">
+      <a href="https://onaturel.eu/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+      </a>
+      <h4>Onaturel</h4>
+      <p><i>E-commerce bien-être</i></p>
+    </td>
 
-<td>
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="250" style="border-radius:8px;">
-<h4 align="center">Alternativ Uniforme</h4>
-<p align="center"><i>Boutique textile pro</i></p>
-</td>
-</tr>
+    <td align="center" style="padding:10px;">
+      <a href="https://alternativ-uniforme.fr/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+      </a>
+      <h4>Alternativ Uniforme</h4>
+      <p><i>Boutique textile pro</i></p>
+    </td>
+  </tr>
 
-<tr>
-<td colspan="3" align="center">
-<img src="./assets/galaxy.jpg" width="250" style="border-radius:8px;">
-<h4>Galaxy Uniforme</h4>
-<p><i>E-commerce B2B - Prestashop</i></p>
-</td>
-</tr>
+  <tr>
+    <td colspan="3" align="center" style="padding:10px;">
+      <a href="https://www.galaxy-uniforme.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="250" style="border-radius:10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+      </a>
+      <h4>Galaxy Uniforme</h4>
+      <p><i>E-commerce B2B - Prestashop</i></p>
+    </td>
+  </tr>
 </table>
-
 
 ---
 
