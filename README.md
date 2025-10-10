@@ -22,13 +22,33 @@ Formé chez **O’clock**, j’aime concevoir du code lisible, durable et pensé
 
 ## 💼 Ce que je fais
 
-<ul style="list-style: none; padding: 0; text-align: center;">
-  <li>🚀 Développement web full stack (Node.js / React)</li>
-  <li>🧠 Intégration d’outils IA et automatisation</li>
-  <li>🪄 Conception de sites vitrines & e-commerce</li>
-  <li>🧱 Création d’API REST & d’applications SPA</li>
-  <li>🎨 Design d’interfaces ergonomiques & modernes</li>
-</ul>
+<table>
+  <tr>
+    <td style="border:1px solid #30363d; border-radius:10px; padding:10px; background:#161b22;">
+      🚀 <b>Développement web full stack</b><br>
+      <small>(Node.js / React)</small>
+    </td>
+    <td style="border:1px solid #30363d; border-radius:10px; padding:10px; background:#161b22;">
+      🧠 <b>Automatisation & IA</b><br>
+      <small>(Prompt engineering / API OpenAI)</small>
+    </td>
+    <td style="border:1px solid #30363d; border-radius:10px; padding:10px; background:#161b22;">
+      🪄 <b>Sites vitrines & e-commerce</b><br>
+      <small>(WordPress / Prestashop)</small>
+    </td>
+  </tr>
+  <tr>
+    <td style="border:1px solid #30363d; border-radius:10px; padding:10px; background:#161b22;">
+      🧱 <b>API REST & SPA</b><br>
+      <small>(Express / React / Axios)</small>
+    </td>
+    <td style="border:1px solid #30363d; border-radius:10px; padding:10px; background:#161b22;">
+      🎨 <b>UI/UX Design</b><br>
+      <small>(Figma / TailwindCSS)</small>
+    </td>
+    <td style="border:none;"></td>
+  </tr>
+</table>
 
 </div>
 
