@@ -24,11 +24,6 @@
 <small><i>Projets O’Clock, applications web complètes & SPA</i></small>
 </td>
 <td align="center">
-🌐 <b>CMS & E-commerce</b><br>
-<small>WordPress / WooCommerce / Prestashop</small><br>
-<small><i>Sites vitrine & boutiques en ligne</i></small>
-</td>
-<td align="center">
 🤖 <b>Automatisation & IA</b><br>
 <small>Copilot / ChatGPT / Workflows</small><br>
 <small><i>Scripts, bots et intégration IA dans les projets</i></small>
@@ -37,6 +32,21 @@
 🏗️ <b>Architecture & Tests</b><br>
 <small>Clean code / CI / TDD / Design patterns</small><br>
 <small><i>Structure robuste, maintenable et scalable</i></small>
+</td>
+</tr>
+</table>
+
+<!-- Section secondaire CMS / E-commerce -->
+<div align="center">
+<h3>🌐 Projets CMS & E-commerce (expérience passée)</h3>
+</div>
+
+<table align="center">
+<tr>
+<td align="center">
+🌐 <b>WordPress / WooCommerce / Prestashop</b><br>
+<small>Sites vitrine & boutiques en ligne</small><br>
+<small><i>Projets clients et expériences freelance</i></small>
 </td>
 </tr>
 </table>
