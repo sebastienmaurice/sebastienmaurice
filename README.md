@@ -83,60 +83,47 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<a href="https://rudylesaint-magnetiseur.com">
-  <img src="./assets/rudylesaint.png" width="80px"/><br>
-  rudylesaint-magnetiseur.com
+<a href="https://rudylesaint-magnetiseur.com" style="text-decoration:none;margin:10px;">
+  <img src="./assets/rudylesaint.png" width="100px"/><br>
+  <b>rudylesaint-magnetiseur.com</b>
 </a>
-</td>
-<td align="center">
-<a href="https://gsti62.com/">
-  <img src="./assets/gsti62.png" width="80px"/><br>
-  Gsti62
+
+<a href="https://gsti62.com/" style="text-decoration:none;margin:10px;">
+  <img src="./assets/gsti62.png" width="100px"/><br>
+  <b>Gsti62</b>
 </a>
-</td>
-<td align="center">
-<a href="https://www.palimpseste-urbain.com/">
-  <img src="./assets/palimpseste.png" width="80px"/><br>
-  Palimpseste Urbain
+
+<a href="https://www.palimpseste-urbain.com/" style="text-decoration:none;margin:10px;">
+  <img src="./assets/palimpseste.png" width="100px"/><br>
+  <b>Palimpseste Urbain</b>
 </a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://www.petitchateauvercourt.com/">
-  <img src="./assets/petitchateau.png" width="80px"/><br>
-  Petit Château Vercourt
+
+<br>
+
+<a href="https://www.petitchateauvercourt.com/" style="text-decoration:none;margin:10px;">
+  <img src="./assets/petitchateau.png" width="100px"/><br>
+  <b>Petit Château Vercourt</b>
 </a>
-</td>
-<td align="center">
-<a href="https://onaturel.eu/">
-  <img src="./assets/onaturel.png" width="80px"/><br>
-  Onaturel
+
+<a href="https://onaturel.eu/" style="text-decoration:none;margin:10px;">
+  <img src="./assets/onaturel.png" width="100px"/><br>
+  <b>Onaturel</b>
 </a>
-</td>
-<td align="center">
-<a href="https://alternativ-uniforme.fr/">
-  <img src="./assets/alternativ.png" width="80px"/><br>
-  Alternativ Uniforme
+
+<a href="https://alternativ-uniforme.fr/" style="text-decoration:none;margin:10px;">
+  <img src="./assets/alternativ.png" width="100px"/><br>
+  <b>Alternativ Uniforme</b>
 </a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://www.galaxy-uniforme.com/">
-  <img src="./assets/galaxy.png" width="80px"/><br>
-  Galaxy Uniforme
+
+<br>
+
+<a href="https://www.galaxy-uniforme.com/" style="text-decoration:none;margin:10px;">
+  <img src="./assets/galaxy.png" width="100px"/><br>
+  <b>Galaxy Uniforme</b>
 </a>
-</td>
-<td></td>
-<td></td>
-</tr>
-</table>
 
 </div>
+
 
 ---
 
