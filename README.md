@@ -1,8 +1,5 @@
 <!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
-<!-- Header horizontal style Kiran -->
-
-<!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
-<!-- Header horizontal style Kiran -->
+<!-- Version dynamique style Kiran, en français -->
 
 <div>
 
