@@ -1,9 +1,6 @@
 <!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
 <!-- Version dynamique style Kiran, en français -->
 
-<!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
-<!-- Version dynamique style Kiran, en français -->
-
 <div>
 
   <!-- Image animée à droite -->
@@ -28,13 +25,10 @@
     <li>💻 J’explore les projets open source et les applications réelles</li>
   </ul>
 
+  <!-- Clear float pour que tout ce qui suit ne se décale pas -->
+  <div style="clear: both;"></div>
+
 </div>
-
-<!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
-<!-- header ici comme avant -->
-
-<!-- Clear float pour que tout ce qui suit ne se décale pas -->
-<div style="clear: both;"></div>
 
 ---
 
