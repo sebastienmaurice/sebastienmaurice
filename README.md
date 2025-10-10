@@ -1,5 +1,5 @@
 <!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
-<!-- Inspiré du parcours O'clock / RNCP 37674 -->
+<!-- Inspiré du parcours O'clock / RNCP 37674 et du style André Leclercq -->
 
 <div align="center">
   
@@ -45,6 +45,7 @@ Formé chez [O’clock](https://oclock.io/), je me spécialise dans la création
 ---
 
 ### 🚀 Projets à venir
+
 *(en cours de déploiement)*  
 - **oKanban** — Application de gestion de tâches collaborative (API + SPA)  
 - **Regex Trainer** — Outil d’apprentissage interactif pour les expressions régulières  
