@@ -1,10 +1,13 @@
 <!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
 <!-- Version dynamique style Kiran, en français -->
-<div>
+<!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
+<!-- Version dynamique style Kiran, en français, sans bordures -->
 
-<table width="100%" style="border-collapse: collapse; border: 0; margin:0; padding:0;">
+<div align="center">
+
+<table width="100%" style="border-collapse: collapse; border:0;">
 <tr>
-<td align="left" width="70%" style="padding:0; margin:0; border:0;">
+<td align="left" width="70%" style="border:0; padding:0;">
   
 # 👋 Salut, moi c’est **Sebastien Maurice**
 ### Développeur Web Full Stack
@@ -14,12 +17,12 @@
 
 ✨ Toujours en apprentissage  
 🌱 Je perfectionne React, Node.js, PostgreSQL, Docker et IA  
-💻 J’explore les projets open source et les applications réelles  
+💻 J’explore les projets open source et les applications réelles
 
 </td>
 
-<td align="right" width="30%" style="padding:0; margin:0; border:0;">
-<img src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" style="width:100%; max-width:200px; display:block; border:0px;">
+<td align="right" width="30%" style="border:0; padding:0;">
+<img src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" width="150" style="border:0;">
 </td>
 </tr>
 </table>
