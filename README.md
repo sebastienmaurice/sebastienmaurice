@@ -65,25 +65,19 @@
 <table align="center">
 <tr>
 <td>
-<a href="https://rudylesaint-magnetiseur.com" target="_blank">
-<img src="./assets/rudylesaint.png" width="220" style="border-radius:8px;">
-</a>
+<img src="./assets/rudylesaint.jpg" width="250" style="border-radius:8px;">
 <h4 align="center">Rudy Le Saint</h4>
 <p align="center"><i>Site vitrine WordPress</i></p>
 </td>
 
 <td>
-<a href="https://gsti62.com/" target="_blank">
-<img src="./assets/gsti62.png" width="220" style="border-radius:8px;">
-</a>
+<img src="./assets/gsti62.jpg" width="250" style="border-radius:8px;">
 <h4 align="center">GSTI62</h4>
 <p align="center"><i>Entreprise de sécurité</i></p>
 </td>
 
 <td>
-<a href="https://www.palimpseste-urbain.com/" target="_blank">
-<img src="./assets/palimpseste.png" width="220" style="border-radius:8px;">
-</a>
+<img src="./assets/palimpseste.jpg" width="250" style="border-radius:8px;">
 <h4 align="center">Palimpseste Urbain</h4>
 <p align="center"><i>Site artistique WordPress</i></p>
 </td>
@@ -91,25 +85,19 @@
 
 <tr>
 <td>
-<a href="https://www.petitchateauvercourt.com/" target="_blank">
-<img src="./assets/petitchateau.png" width="220" style="border-radius:8px;">
-</a>
+<img src="./assets/petitchateauvercourt.jpg" width="250" style="border-radius:8px;">
 <h4 align="center">Petit Château Vercourt</h4>
 <p align="center"><i>Hébergement & tourisme</i></p>
 </td>
 
 <td>
-<a href="https://onaturel.eu/" target="_blank">
-<img src="./assets/onaturel.png" width="220" style="border-radius:8px;">
-</a>
+<img src="./assets/onaturel.jpg" width="250" style="border-radius:8px;">
 <h4 align="center">Onaturel</h4>
 <p align="center"><i>E-commerce bien-être</i></p>
 </td>
 
 <td>
-<a href="https://alternativ-uniforme.fr/" target="_blank">
-<img src="./assets/alternativ.png" width="220" style="border-radius:8px;">
-</a>
+<img src="./assets/alternativ.jpg" width="250" style="border-radius:8px;">
 <h4 align="center">Alternativ Uniforme</h4>
 <p align="center"><i>Boutique textile pro</i></p>
 </td>
@@ -117,14 +105,13 @@
 
 <tr>
 <td colspan="3" align="center">
-<a href="https://www.galaxy-uniforme.com/" target="_blank">
-<img src="./assets/galaxy.png" width="220" style="border-radius:8px;">
-</a>
+<img src="./assets/galaxy.jpg" width="250" style="border-radius:8px;">
 <h4>Galaxy Uniforme</h4>
 <p><i>E-commerce B2B - Prestashop</i></p>
 </td>
 </tr>
 </table>
+
 
 ---
 
