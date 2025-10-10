@@ -157,13 +157,18 @@
 
 ---
 
+<div align="center">
+
 ## 💡 Ma philosophie
 
-```javascript
+<pre>
 const developer = {
   name: "Sebastien Maurice",
-  mindset: "Apprendre en faisant",
-  approach: "Code lisible > Code clever",
-  tools: ["IA", "Documentation", "Communauté", "CMS"],
-  goal: "Créer de la valeur avec du code"
+  mindset: "Apprendre en faisant 🛠️",
+  approach: "Code lisible & maintenable > Code clever",
+  tools: ["IA 🤖", "Documentation 📚", "Communauté 🌐", "CMS 🖥️"],
+  goal: "Créer de la valeur avec du code et des projets utiles 🚀"
 };
+</pre>
+
+</div>
