@@ -40,8 +40,8 @@
 ---
 
 <!-- ⚡ Ce que je fais -->
-## ⚡ Ce que je fais
 <div align="center">
+  <h2>⚡ Ce que je fais</h2>
 </div>
 
 <table align="center">
