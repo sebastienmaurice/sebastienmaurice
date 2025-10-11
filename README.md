@@ -1,24 +1,25 @@
 <!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
 <!-- Version dynamique style Kiran, en français -->
 
-<table>
-  <tr>
-    <td>
-      <h1>
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-             alt="emoji-blob" 
-             width="40" 
-             style="vertical-align:middle; margin-right:8px;">
-        hello, moi c’est <strong>Sebastien</strong>
-      </h1>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco_dundee_1.png" 
-           width="150" 
-           style="vertical-align:middle; margin-top:50px;">
-    </td>
-  </tr>
-</table>
+<div>
+  <!-- Image à droite -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco_dundee_1.png">
+    <img align="right" width="35%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco_dundee_1.png" style="margin-top:50px; max-width:150px; display:block;">
+  </a>
+
+  <!-- Titre principal -->
+  <h1>
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
+         alt="emoji-blob" 
+         style="width:40px; vertical-align:middle; margin-right:8px;">
+    hello, moi c’est <strong>Sebastien</strong>
+  </h1>
+
+  <!-- Présentation -->
+  <p>
+    💻 Je conçois des applications web modernes et performantes, de la SPA full stack aux outils internes d’entreprise.<br>
+    💡 Passionné par les bonnes pratiques, l’apprentissage continu et l’efficacité augmentée par l’IA.
+  </p>
 
   <!-- Points clés / Philosophie -->
   <ul>
