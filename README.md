@@ -66,13 +66,32 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%">
   </p>
 </div>
-
 ---
-## 🛠️ Stack Technique
 
-| 🎨 Frontend | ⚙️ Backend | 🧠 Outils & DevOps |
-|------------|------------|-----------------|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) <br> ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) <br> ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white) <br> ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) <br> ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) <br> ![REST API](https://img.shields.io/badge/-REST_API-009688?logo=swagger&logoColor=white) <br> ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) <br> ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white) <br> ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) <br> ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
+<!-- 🛠️ Stack Technique -->
+<div align="center">
+  <h2>🛠️ Stack Technique</h2>
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td align="center">
+🎨 <b>Frontend</b><br>
+<small>HTML5 / CSS3 / Sass / JavaScript / Svelte / WordPress</small><br>
+<small><i>Interfaces modernes et réactives</i></small>
+</td>
+<td align="center">
+⚙️ <b>Backend</b><br>
+<small>Node.js / Express / PostgreSQL / REST & GraphQL API</small><br>
+<small><i>API robustes et performantes</i></small>
+</td>
+<td align="center">
+🧰 <b>Outils & DevOps</b><br>
+<small>Git / Docker / ChatGPT / Postman / Vercel</small><br>
+<small><i>Automatisation et intégration continue</i></small>
+</td>
+</tr>
+</table>
 
 ---
 
