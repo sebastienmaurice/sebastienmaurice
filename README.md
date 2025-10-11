@@ -2,9 +2,9 @@
 <!-- Version dynamique style Kiran, en français -->
 
 <div>
-  <!-- Image animée à droite -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67">
-    <img align="right" width="35%" src="https://camo.githubusercontent.com/b7d661ef1eda51454a7882bb4d5b33797ebc97a36bbbfc58cefbbb595bdae62b/68747470733a2f2f6f776c6265727473696f2d726573697a65642e73332e616d617a6f6e6177732e636f6d2f506f707065722e7073642e66756c6c2e706e67" style="max-width:150px; display:block; position:relative; top:-30px;">
+  <!-- Image hibou à droite -->
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/hibou.png">
+    <img align="right" width="35%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/hibou.png" style="max-width:150px; display:block; position:relative; top:-30px;">
   </a>
 
   <!-- Titre principal -->
