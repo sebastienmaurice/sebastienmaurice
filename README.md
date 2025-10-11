@@ -2,7 +2,7 @@
 <!-- Version dynamique style Kiran, en français -->
 
 <div>
-  <!-- Image hibou à droite -->
+  <!-- Image à droite -->
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/hibou.png">
     <img align="right" width="35%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/hibou.png" style="max-width:150px; display:block; position:relative; top:-30px;">
   </a>
@@ -10,7 +10,7 @@
   <!-- Titre principal -->
   <h1>
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-         alt="Hibou" 
+         alt="emoji-blob" 
          style="width:40px; vertical-align:middle; margin-right:8px;">
     Salut, moi c’est <strong>Sebastien Maurice</strong>
   </h1>
