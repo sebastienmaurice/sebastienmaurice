@@ -66,7 +66,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%">
   </p>
 </div>
----
+
 
 <!-- 🛠️ Stack Technique -->
 <div align="center">
