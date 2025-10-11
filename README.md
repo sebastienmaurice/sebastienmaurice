@@ -12,7 +12,7 @@
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
          alt="emoji-blob" 
          style="width:40px; vertical-align:middle; margin-right:8px;">
-    Salut, moi c’est <strong>Sebastien Maurice</strong>
+    hello, moi c’est <strong>Sebastien</strong>
   </h1>
 
   <!-- Présentation -->
