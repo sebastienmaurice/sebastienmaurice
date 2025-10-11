@@ -3,8 +3,8 @@
 
 <div>
   <!-- Image à droite -->
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-1.png">
-    <img align="right" width="35%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-1.png" style="max-width:150px; display:block;">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png">
+    <img align="right" width="35%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" style="max-width:150px; display:block;">
   </a>
 
   <!-- Titre principal -->
