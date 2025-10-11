@@ -68,51 +68,11 @@
 </div>
 
 ---
- <!-- 🛠️ Stack Technique -->
-<div align="center">
-  <h2>🛠️ Stack Technique</h2>
-</div>
+## 🛠️ Stack Technique
 
-<table align="center" width="100%" style="border-collapse: collapse; text-align:center;">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎨 Frontend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"><br>
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"><br>
-        <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" alt="Sass"><br>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"><br>
-        <img src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" alt="Svelte"><br>
-        <img src="https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white" alt="WordPress">
-      </p>
-      <small><i>UI dynamique, composants réactifs et intégration CMS</i></small>
-    </td>
-
-    <td width="33%" valign="top">
-      <h3>⚙️ Backend</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"><br>
-        <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express"><br>
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"><br>
-        <img src="https://img.shields.io/badge/-REST_API-009688?logo=swagger&logoColor=white" alt="REST API"><br>
-        <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" alt="GraphQL">
-      </p>
-      <small><i>APIs robustes, sécurité et gestion des données</i></small>
-    </td>
-
-    <td width="33%" valign="top">
-      <h3>🧠 Outils & DevOps</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git"><br>
-        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker"><br>
-        <img src="https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white" alt="ChatGPT"><br>
-        <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"><br>
-        <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white" alt="Vercel">
-      </p>
-      <small><i>Automatisation, intégration continue et IA augmentée</i></small>
-    </td>
-  </tr>
-</table>
+| 🎨 Frontend | ⚙️ Backend | 🧠 Outils & DevOps |
+|------------|------------|-----------------|
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) <br> ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) <br> ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) <br> ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white) <br> ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) <br> ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) <br> ![REST API](https://img.shields.io/badge/-REST_API-009688?logo=swagger&logoColor=white) <br> ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) <br> ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?logo=openai&logoColor=white) <br> ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) <br> ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) |
 
 ---
 
