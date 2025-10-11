@@ -32,10 +32,6 @@
     <li>🌐 Je crée des applications Full Stack modernes, de la SPA aux API REST/GraphQL</li>
   </ul>
 
-  <!-- Clear float -->
-  <div style="clear: both;"></div>
-</div>
-
 ---
 
 <!-- ⚡ Ce que je fais -->
