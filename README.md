@@ -4,7 +4,7 @@
 <div>
   <!-- Image à droite -->
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco_dundee_1.png">
-    <img align="right" width="35%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco_dundee_1.png" style="max-width:150px; display:block; position:relative; top:-150px;">
+    <img align="right" width="35%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco_dundee_1.png" style="max-width:150px; display:block; position:relative; margin-top:-150px;">
   </a>
 
   <!-- Titre principal -->
