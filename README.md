@@ -40,68 +40,64 @@
 </div>
 
 ---
-<!-- ⚡ Ce que je fais — CROCO À GAUCHE STYLE “SALUT” + ESPACEMENT VERTICAL -->
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — CROCO À GAUCHE -->
 <div>
   <!-- Croco à gauche -->
   <img 
     align="left" 
     src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
-    width="250" 
+    width="200" 
     style="margin-right:20px; margin-top:0;"
     alt="Croco Dundee">
 
   <!-- Titre et sections -->
-  <h2>⚡ Ce que je fais</h2>
+  <h2>⚡ Ce que je fais & 🛠️ Stack Technique</h2>
 
+  <!-- Ce que je fais -->
   <p>
     🎯 <b>Full Stack JavaScript</b><br>
-    Svelte / Node.js / Express / PostgreSQL / REST & GraphQL/ Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-    Projets complets, SPA & outils métiers
+    Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
+    Projets complets, SPA et outils métiers
   </p>
   <br>
 
   <p>
     🤖 <b>Automatisation & IA</b><br>
     Copilot / ChatGPT / Workflows<br>
-    Scripts, bots & intégrations IA
+    Scripts, bots et intégrations IA
   </p>
   <br>
 
   <p>
     🏗️ <b>Architecture & Tests</b><br>
-    Clean code / CI / TDD / Patterns<br>
-    Structures maintenables & scalables
+    Clean code, CI, TDD et patterns<br>
+    Structures maintenables et scalables
+  </p>
+  <br>
+
+  <!-- Stack Technique -->
+  <p>
+    🎨 <b>Frontend</b><br>
+    HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
+    Interfaces modernes et réactives
+  </p>
+  <br>
+
+  <p>
+    ⚙️ <b>Backend</b><br>
+    Node.js, Express, PostgreSQL, REST, GraphQL<br>
+    API robustes et performantes
+  </p>
+  <br>
+
+  <p>
+    🧰 <b>Outils & DevOps</b><br>
+    Git, Docker, Postman, Vercel, ChatGPT<br>
+    Automatisation et intégration continue
   </p>
 
   <div style="clear:both;"></div>
 </div>
-
-
-<!-- 🛠️ Stack Technique -->
-<div align="center">
-  <h2>🛠️ Stack Technique</h2>
-  <hr style="width:60%; border:0.5px solid #30363d;">
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-🎨 <b>Frontend</b><br>
-<small>HTML5 / CSS3 / Sass / JavaScript / Svelte / WordPress</small><br>
-<small><i>Interfaces modernes et réactives</i></small>
-</td>
-<td align="center" width="33%">
-⚙️ <b>Backend</b><br>
-<small>Node.js / Express / PostgreSQL / REST / GraphQL</small><br>
-<small><i>API robustes et performantes</i></small>
-</td>
-<td align="center" width="33%">
-🧰 <b>Outils & DevOps</b><br>
-<small>Git / Docker / Postman / Vercel / ChatGPT</small><br>
-<small><i>Automatisation et intégration continue</i></small>
-</td>
-</tr>
-</table>
 
 <!-- 📈 Stats GitHub -->
 <div align="center">
