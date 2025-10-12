@@ -143,39 +143,29 @@ const developer = {
 
 ---
 <!-- 🌐 Expérience freelance passée - CMS / E-commerce -->
-<!-- 🌟 Miniatures horizontales stylisées -->
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/alternativ.jpg">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/alternativ.jpg" 
-         width="200" 
-         style="border-radius: 12px; transition: transform 0.3s, box-shadow 0.3s;">
-  </a>
-
-  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/galaxy.jpg">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/galaxy.jpg" 
-         width="200" 
-         style="border-radius: 12px; transition: transform 0.3s, box-shadow 0.3s;">
-  </a>
-
-  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/gti62.jpg">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/gti62.jpg" 
-         width="200" 
-         style="border-radius: 12px; transition: transform 0.3s, box-shadow 0.3s;">
-  </a>
-
-  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/onature.jpg">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/onature.jpg" 
-         width="200" 
-         style="border-radius: 12px; transition: transform 0.3s, box-shadow 0.3s;">
-  </a>
-
-</div>
-
-<style>
-  div a img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-  }
-</style>
+<!-- 🌟 Miniatures horizontales compatibles GitHub -->
+<table align="center" cellspacing="20">
+  <tr>
+    <td>
+      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="200" style="border-radius:12px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="200" style="border-radius:12px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gti62.jpg">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gti62.jpg" width="200" style="border-radius:12px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onature.jpg">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onature.jpg" width="200" style="border-radius:12px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
