@@ -35,33 +35,7 @@
 
 <!-- ⚡ SECTION 2 — CROCO À GAUCHE AVEC ALIGNEMENT DU CONTENU À DROITE --> <div style="display:flex; align-items:flex-start; gap:30px; flex-wrap:wrap; margin:20px 0;"> <!-- 🐊 Crocodile à gauche -->
 
-<img
-src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png
-"
-alt="Croco Dundee"
-style="width:160px; border-radius:12px; flex-shrink:0;"
-
-<!-- 🧠 Contenu principal --> <div style="flex:1; min-width:250px;"> <h2>⚡ Ce que je fais</h2> <hr style="width:40%; border:0.5px solid #30363d;">
-<div style="display:flex; flex-direction:column; gap:15px;">
-  <div>
-    🎯 <b>Full Stack JavaScript</b><br>
-    <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br>
-    <i>Projets complets, SPA & outils métiers</i>
-  </div>
-
-  <div>
-    🤖 <b>Automatisation & IA</b><br>
-    <small>Copilot / ChatGPT / Workflows</small><br>
-    <i>Scripts, bots & intégrations IA</i>
-  </div>
-
-  <div>
-    🏗️ <b>Architecture & Tests</b><br>
-    <small>Clean code / CI / TDD / Patterns</small><br>
-    <i>Structures maintenables & scalables</i>
-  </div>
-</div>
-
+href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" target="_blank" rel="noopener noreferrer nofollow"> <img align="left" width="32%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" style="max-width:180px; display:block; margin-top:-10px; margin-right:20px;"> </a> <h2>⚡ Ce que je fais</h2> <hr style="width:40%; border:0.5px solid #30363d;"> <div align="left"> <p> 🎯 <strong>Full Stack JavaScript</strong><br> <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br> <i>Projets complets, SPA & outils métiers</i> </p> <p> 🤖 <strong>Automatisation & IA</strong><br> <small>Copilot / ChatGPT / Workflows</small><br> <i>Scripts, bots & intégrations IA</i> </p> <p> 🏗️ <strong>Architecture & Tests</strong><br> <small>Clean code / CI / TDD / Patterns</small><br> <i>Structures maintenables & scalables</i> </p> </div> <div style="clear:both;"></div> </div>
 ---
 
 <!-- 🛠️ SECTION 3 — CROCO À DROITE -->
