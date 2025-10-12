@@ -40,32 +40,39 @@
 </div>
 
 ---
-<!-- ⚡ Ce que je fais — CROCO À GAUCHE HORIZONTALEMENT -->
-<table align="center">
-<tr>
+<!-- ⚡ Ce que je fais — CROCO À GAUCHE STYLE “SALUT” -->
+<div>
   <!-- Croco à gauche -->
-  <td width="25%" align="center" valign="top">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="150" alt="Croco Dundee">
-  </td>
+  <img 
+    align="left" 
+    src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
+    width="120" 
+    style="margin-right:20px; margin-top:0;"
+    alt="Croco Dundee">
 
-  <!-- Sections verticales à droite -->
-  <td width="75%" align="left" valign="top">
-    <b>⚡ Ce que je fais</b><br><br>
+  <!-- Titre et sections -->
+  <h2>⚡ Ce que je fais</h2>
 
+  <p>
     🎯 <b>Full Stack JavaScript</b><br>
     Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-    Projets complets, SPA & outils métiers<br><br>
+    Projets complets, SPA & outils métiers
+  </p>
 
+  <p>
     🤖 <b>Automatisation & IA</b><br>
     Copilot / ChatGPT / Workflows<br>
-    Scripts, bots & intégrations IA<br><br>
+    Scripts, bots & intégrations IA
+  </p>
 
+  <p>
     🏗️ <b>Architecture & Tests</b><br>
     Clean code / CI / TDD / Patterns<br>
     Structures maintenables & scalables
-  </td>
-</tr>
-</table>
+  </p>
+
+  <div style="clear:both;"></div>
+</div>
 
 <!-- 🛠️ Stack Technique -->
 <div align="center">
