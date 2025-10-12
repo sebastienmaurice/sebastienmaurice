@@ -100,7 +100,7 @@
 </p>
 </td>
 <td valign="top" width="30%">
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-1.png" width="220" alt="Croco Dundee">
+<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="220" alt="Croco Dundee">
 </td>
 </tr></table>
 
