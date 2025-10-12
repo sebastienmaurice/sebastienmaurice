@@ -55,7 +55,7 @@
 
   <p>
     🎯 <b>Full Stack JavaScript</b><br>
-    Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
+    Svelte / Node.js / Express / PostgreSQL / REST & GraphQL/ Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
     Projets complets, SPA & outils métiers
   </p>
   <br>
