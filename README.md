@@ -92,35 +92,15 @@
 
 ---
 <!-- 📈 Statistiques GitHub enrichies — 2 COLONNES 70% / 30% -->
-<table align="center" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-  <!-- Statistiques GitHub -->
-  <td valign="top" width="70%" style="padding-right:20px;">
-    <h2>📈 Statistiques GitHub</h2>
-    <!-- Contribution Graph -->
-    <p style="margin:5px 0">
-      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%">
-    </p>
-    <!-- Badges Repos / Followers -->
-    <p style="margin:10px 0">
-      ![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-blue)
-      ![Followers](https://img.shields.io/badge/Followers-XX-green)
-      ![Following](https://img.shields.io/badge/Following-XX-orange)
-    </p>
-    <!-- Badges technos -->
-    <p style="margin:10px 0">
-      ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-      ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-      ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
-    </p>
-  </td>
-  
-  <!-- Croco -->
-  <td valign="top" width="30%">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="220" alt="Croco Dundee">
-  </td>
-</tr>
-</table>
+<table align="center" cellspacing="0" cellpadding="0" width="100%"><tr>
+<td valign="top" width="70%" style="padding-right:20px;">
+<h2>📈 Statistiques GitHub</h2>
+<p style="margin:5px 0"><img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"></p>
+<p style="margin:10px 0">![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-blue) ![Followers](https://img.shields.io/badge/Followers-XX-green) ![Following](https://img.shields.io/badge/Following-XX-orange)</p>
+<p style="margin:10px 0">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)</p>
+</td>
+<td valign="top" width="30%"><img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="220" alt="Croco Dundee"></td>
+</tr></table>
 
 ---
 
