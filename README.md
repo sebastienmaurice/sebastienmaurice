@@ -33,9 +33,42 @@
 
 ---
 
-<!-- ⚡ SECTION 2 — CROCO À GAUCHE AVEC ALIGNEMENT DU CONTENU À DROITE --> <div style="display:flex; align-items:flex-start; gap:30px; flex-wrap:wrap; margin:20px 0;"> <!-- 🐊 Crocodile à gauche -->
+<!-- 🐊 SECTION 2 — CROCO À GAUCHE -->
+<table>
+  <tr>
+    <!-- Image Croco à gauche -->
+    <td align="center" width="30%">
+      <img 
+        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" 
+        width="180"
+        alt="Croco Dundee à gauche">
+    </td>
 
-href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" target="_blank" rel="noopener noreferrer nofollow"> <img align="left" width="32%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" style="max-width:180px; display:block; margin-top:-10px; margin-right:20px;"> </a> <h2>⚡ Ce que je fais</h2> <hr style="width:40%; border:0.5px solid #30363d;"> <div align="left"> <p> 🎯 <strong>Full Stack JavaScript</strong><br> <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br> <i>Projets complets, SPA & outils métiers</i> </p> <p> 🤖 <strong>Automatisation & IA</strong><br> <small>Copilot / ChatGPT / Workflows</small><br> <i>Scripts, bots & intégrations IA</i> </p> <p> 🏗️ <strong>Architecture & Tests</strong><br> <small>Clean code / CI / TDD / Patterns</small><br> <i>Structures maintenables & scalables</i> </p> </div> <div style="clear:both;"></div> </div>
+    <!-- Contenu à droite -->
+    <td align="left" width="70%">
+      <h2>⚡ Ce que je fais</h2>
+      <hr style="border: 0.5px solid #30363d; width: 60%;">
+
+      <p>
+        🎯 <strong>Full Stack JavaScript</strong><br>
+        <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br>
+        <em>Projets complets, SPA & outils métiers</em>
+      </p>
+
+      <p>
+        🤖 <strong>Automatisation & IA</strong><br>
+        <small>Copilot / ChatGPT / Workflows</small><br>
+        <em>Scripts, bots & intégrations IA</em>
+      </p>
+
+      <p>
+        🏗️ <strong>Architecture & Tests</strong><br>
+        <small>Clean code / CI / TDD / Patterns</small><br>
+        <em>Structures maintenables & scalables</em>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
