@@ -46,7 +46,7 @@
   <img 
     align="left" 
     src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
-    width="120" 
+    width="200" 
     style="margin-right:20px; margin-top:0;"
     alt="Croco Dundee">
 
