@@ -91,27 +91,32 @@
 </table>
 
 ---
-<!-- 📈 Statistiques GitHub — 3 COLONNES 20% / 60% / 30% -->
+<!-- 📈 Statistiques GitHub — 3 COLONNES (Micro-badges / Stats / Croco) -->
 <table align="center" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<!-- 📈 Micro Badges — résumé rapide -->
-<table align="center" cellspacing="2" cellpadding="0">
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Repos-XX-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repos">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Followers-XX-green?style=for-the-badge&logo=github&logoColor=white" alt="Followers">
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Following-XX-orange?style=for-the-badge&logo=github&logoColor=white" alt="Following">
-    </td>
-  </tr>
-</table>
+  <!-- Micro-badges -->
+  <td valign="top" width="10%" align="center">
+    <table cellspacing="2" cellpadding="0">
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Repos-XX-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repos">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Followers-XX-green?style=for-the-badge&logo=github&logoColor=white" alt="Followers">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://img.shields.io/badge/Following-XX-orange?style=for-the-badge&logo=github&logoColor=white" alt="Following">
+        </td>
+      </tr>
+    </table>
+  </td>
 
-
-  <!-- Colonne principale — Stats -->
-  <td valign="top" width="60%" style="padding-right:10px;">
+  <!-- Stats principales -->
+  <td valign="top" width="60%" style="padding:0 20px;">
     <h2>📈 Statistiques GitHub</h2>
     <p style="margin:5px 0">
       <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%">
@@ -119,12 +124,11 @@
   </td>
 
   <!-- Croco -->
-  <td valign="top" width="30%" style="text-align:center;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-2.png" width="220" alt="Croco Dundee">
+  <td valign="top" width="30%" align="center">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="220" alt="Croco Dundee">
   </td>
 </tr>
 </table>
-
 ---
 
 <!-- 🎓 Parcours — 2 COLONNES 20% / 80% -->
