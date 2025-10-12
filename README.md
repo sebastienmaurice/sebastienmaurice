@@ -40,8 +40,9 @@
 </div>
 
 ---
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — 3 COLONNES -->
-<table align="center" cellspacing="20">
+
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — 3 COLONNES AÉRÉES -->
+<table align="center" cellspacing="30">
 <tr>
   <!-- Croco -->
   <td align="center" valign="top" width="25%">
@@ -83,6 +84,7 @@
 </table>
 
 
+---
 <!-- 📈 Stats GitHub -->
 <div align="center">
   <h2>📈 Statistiques GitHub</h2>
