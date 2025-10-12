@@ -56,7 +56,6 @@
       Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
       Projets complets, SPA et outils métiers
     </p>
-    ---
     <p style="margin:5px 0">
       🤖 <b>Automatisation & IA</b><br>
       Copilot / ChatGPT / Workflows<br>
