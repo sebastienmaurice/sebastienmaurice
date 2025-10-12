@@ -39,8 +39,6 @@
   </ul>
 </div>
 
----
-
 <!-- ⚡ Ce que je fais -->
 <div align="center">
   <h2>⚡ Ce que je fais</h2>
