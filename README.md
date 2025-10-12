@@ -91,11 +91,11 @@
 </table>
 
 ---
-<!-- 📈 Statistiques GitHub enrichies — 2 COLONNES 60% / 40% -->
+<!-- 📈 Statistiques GitHub enrichies — 2 COLONNES 70% / 30% -->
 <table align="center" cellspacing="0" cellpadding="0" width="100%">
 <tr>
   <!-- Statistiques GitHub -->
-  <td valign="top" width="60%" style="padding-right:20px;">
+  <td valign="top" width="70%" style="padding-right:20px;">
     <h2>📈 Statistiques GitHub</h2>
     <!-- Contribution Graph -->
     <p style="margin:5px 0">
@@ -114,10 +114,10 @@
       ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
     </p>
   </td>
-
+  
   <!-- Croco -->
-  <td valign="top" width="40%">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250" alt="Croco Dundee">
+  <td valign="top" width="30%">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="220" alt="Croco Dundee">
   </td>
 </tr>
 </table>
