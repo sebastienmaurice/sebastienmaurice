@@ -91,17 +91,17 @@
 </table>
 
 ---
-<!-- 📈 Statistiques GitHub — 2 COLONNES PLEINE LARGEUR -->
-<table cellspacing="0" cellpadding="0" width="100%">
+<!-- 📈 Statistiques GitHub — 2 COLONNES CENTRÉES -->
+<table align="center" cellspacing="0" cellpadding="0" width="100%">
 <tr>
   <!-- Stats GitHub -->
-  <td valign="top" width="70%" style="padding:0;">
+  <td valign="top" width="70%">
     <h2>📈 Statistiques GitHub</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" style="display:block;">
   </td>
 
   <!-- Croco -->
-  <td valign="top" width="30%" style="padding:0;">
+  <td valign="top" width="30%">
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="200" alt="Croco Dundee" style="display:block; margin:auto;">
   </td>
 </tr>
