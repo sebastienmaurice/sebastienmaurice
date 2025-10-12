@@ -40,16 +40,16 @@
 </div>
 
 ---
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — FLEX / DIV COMPACT -->
-<div style="display:flex; align-items:flex-start; justify-content:flex-start; margin-top:20px; gap:20px;">
-
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — TABLE 100% GitHub -->
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
   <!-- Croco -->
-  <div style="flex:0 0 250px;">
+  <td valign="top" style="padding-right:20px;">
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250" alt="Croco Dundee">
-  </div>
+  </td>
 
   <!-- Ce que je fais -->
-  <div style="flex:0 0 300px;">
+  <td valign="top" style="padding-right:20px;">
     <h2>⚡ Ce que je fais</h2>
     <p style="margin:5px 0">
       🎯 <b>Full Stack JavaScript</b><br>
@@ -66,10 +66,10 @@
       Clean code, CI, TDD et patterns<br>
       Structures maintenables et scalables
     </p>
-  </div>
+  </td>
 
   <!-- Stack Technique -->
-  <div style="flex:0 0 300px;">
+  <td valign="top">
     <h2>🛠️ Stack Technique</h2>
     <p style="margin:5px 0">
       🎨 <b>Frontend</b><br>
@@ -86,9 +86,9 @@
       Git, Docker, Postman, Vercel, ChatGPT<br>
       Automatisation et intégration continue
     </p>
-  </div>
-
-</div>
+  </td>
+</tr>
+</table>
 
 ---
 <!-- 📈 Stats GitHub -->
