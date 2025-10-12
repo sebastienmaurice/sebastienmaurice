@@ -109,13 +109,18 @@
 
 ---
 
-<!-- 🎓 Parcours — Croco diplômé fun -->
+<!-- 🎓 Parcours — Croco fun BD style -->
 <div style="position:relative; max-width:900px; margin:auto; background:#0d1117; color:#c9d1d9; border-radius:12px; padding:20px; overflow:hidden;">
-  
-  <!-- Croco flottant à droite -->
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-diplome.png" 
+
+  <!-- Croco BD style qui pointe -->
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-diplome-point.png" 
        style="position:absolute; top:10px; right:10px; width:180px; max-width:30%;" 
-       alt="Croco Diplômé">
+       alt="Croco Diplômé Pointant">
+
+  <!-- Étoiles décoratives -->
+  <span style="position:absolute; top:5px; left:10px; font-size:24px;">✨</span>
+  <span style="position:absolute; top:50px; left:80px; font-size:20px;">🌟</span>
+  <span style="position:absolute; top:120px; left:30px; font-size:18px;">⭐</span>
 
   <!-- Titre -->
   <h2 style="text-align:center; margin-top:0;">🎓 Parcours</h2>
@@ -127,7 +132,6 @@
     💼 <b>Expérience freelance</b> — Intégration WordPress / Prestashop
   </p>
 </div>
-
 
 ---
 <!-- 💡 Philosophie -->
