@@ -143,34 +143,40 @@ const developer = {
 
 ---
 
-<div align="center">
-  <h2>🌍 Expériences Web & Freelance</h2>
-  <p><small>Projets clients réalisés avant ma spécialisation Full Stack JavaScript</small></p>
-</div>
-
+<h2 align="center">🌐 Expérience freelance passée – CMS & E-commerce</h2>
 <p align="center">
-<b>Intégration, personnalisation et mise en ligne de sites WordPress / PrestaShop</b><br>
-<small><i>Focus sur la performance, le SEO et l’expérience utilisateur</i></small>
+  <i>Intégration & développement WordPress / WooCommerce / Prestashop</i>
 </p>
 
 <div align="center">
 
-<!-- Lignes de badges -->
-<a href="https://rudylesaint-magnetiseur.com" target="_blank">
-  <img src="https://img.shields.io/badge/Rudy%20Le%20Saint%20-%20Magnétiseur-21759B?logo=wordpress&logoColor=white" />
-</a>
-<a href="https://gsti62.com/" target="_blank">
-  <img src="https://img.shields.io/badge/GSTI62%20-%20Usinage-21759B?logo=wordpress&logoColor=white" />
-</a>
-<a href="https://onaturel.eu/" target="_blank">
-  <img src="https://img.shields.io/badge/Onaturel%20-%20Ecommerce%20Bien--être-DAA520?logo=woocommerce&logoColor=white" />
-</a>
-<a href="https://alternativ-uniforme.fr/" target="_blank">
-  <img src="https://img.shields.io/badge/Alternativ%20Uniforme%20-%20B2B%20Pro-6C63FF?logo=prestashop&logoColor=white" />
-</a>
+  <a href="https://rudylesaint-magnetiseur.com" target="_blank">
+    <img src="https://img.shields.io/badge/Rudy_Le_Saint-WordPress_%2F_Elementor-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  </a>
 
-<br><br>
-<small><i>Ces projets m’ont permis d’affiner ma vision produit et ma maîtrise du web end-to-end 🌐</i></small>
+  <a href="https://gsti62.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GSTI62-WordPress_%2F_Elementor-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  </a>
+
+  <a href="https://www.palimpseste-urbain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Palimpseste_Urbain-WordPress_%2F_Elementor-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  </a>
+
+  <a href="https://www.petitchateauvercourt.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Petit_Château_Vercourt-WordPress_%2F_Elementor-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  </a>
+
+  <a href="https://onaturel.eu/" target="_blank">
+    <img src="https://img.shields.io/badge/Onaturel-E--commerce_WordPress-21759B?style=flat-square&logo=woocommerce&logoColor=white" />
+  </a>
+
+  <a href="https://alternativ-uniforme.fr/" target="_blank">
+    <img src="https://img.shields.io/badge/Alternativ_Uniforme-WordPress_%2F_Elementor-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+  </a>
+
+  <a href="https://www.galaxy-uniforme.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Galaxy_Uniforme-Prestashop-EA4C89?style=flat-square&logo=prestashop&logoColor=white" />
+  </a>
 
 </div>
 
