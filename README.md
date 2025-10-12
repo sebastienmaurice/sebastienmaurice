@@ -40,43 +40,55 @@
 </div>
 
 ---
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — FLEX / DIV COMPACT -->
+<div style="display:flex; align-items:flex-start; justify-content:flex-start; margin-top:20px; gap:20px;">
+
   <!-- Croco -->
-  <td valign="top" style="padding-right:20px;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250">
-  </td>
+  <div style="flex:0 0 250px;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250" alt="Croco Dundee">
+  </div>
 
   <!-- Ce que je fais -->
-  <td valign="top" style="padding-right:20px;">
+  <div style="flex:0 0 300px;">
     <h2>⚡ Ce que je fais</h2>
-    🎯 <b>Full Stack JavaScript</b><br>
-    Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-    Projets complets, SPA et outils métiers<br><br>
-    🤖 <b>Automatisation & IA</b><br>
-    Copilot / ChatGPT / Workflows<br>
-    Scripts, bots et intégrations IA<br><br>
-    🏗️ <b>Architecture & Tests</b><br>
-    Clean code, CI, TDD et patterns<br>
-    Structures maintenables et scalables
-  </td>
+    <p style="margin:5px 0">
+      🎯 <b>Full Stack JavaScript</b><br>
+      Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
+      Projets complets, SPA et outils métiers
+    </p>
+    <p style="margin:5px 0">
+      🤖 <b>Automatisation & IA</b><br>
+      Copilot / ChatGPT / Workflows<br>
+      Scripts, bots et intégrations IA
+    </p>
+    <p style="margin:5px 0">
+      🏗️ <b>Architecture & Tests</b><br>
+      Clean code, CI, TDD et patterns<br>
+      Structures maintenables et scalables
+    </p>
+  </div>
 
   <!-- Stack Technique -->
-  <td valign="top">
+  <div style="flex:0 0 300px;">
     <h2>🛠️ Stack Technique</h2>
-    🎨 <b>Frontend</b><br>
-    HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
-    Interfaces modernes et réactives<br><br>
-    ⚙️ <b>Backend</b><br>
-    Node.js, Express, PostgreSQL, REST, GraphQL<br>
-    API robustes et performantes<br><br>
-    🧰 <b>Outils & DevOps</b><br>
-    Git, Docker, Postman, Vercel, ChatGPT<br>
-    Automatisation et intégration continue
-  </td>
-</tr>
-</table>
+    <p style="margin:5px 0">
+      🎨 <b>Frontend</b><br>
+      HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
+      Interfaces modernes et réactives
+    </p>
+    <p style="margin:5px 0">
+      ⚙️ <b>Backend</b><br>
+      Node.js, Express, PostgreSQL, REST, GraphQL<br>
+      API robustes et performantes
+    </p>
+    <p style="margin:5px 0">
+      🧰 <b>Outils & DevOps</b><br>
+      Git, Docker, Postman, Vercel, ChatGPT<br>
+      Automatisation et intégration continue
+    </p>
+  </div>
 
+</div>
 
 ---
 <!-- 📈 Stats GitHub -->
