@@ -91,8 +91,6 @@
 </tr>
 </table>
 
----
-
 <!-- 📈 Stats GitHub -->
 <div align="center">
   <h2>📈 Statistiques GitHub</h2>
