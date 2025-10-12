@@ -41,49 +41,64 @@
 
 ---
 
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — 3 COLONNES SIMPLES -->
-<table align="center" cellspacing="30">
-<tr>
-  <!-- Croco -->
-  <td align="center" valign="top" width="25%">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="150" alt="Croco Dundee">
-  </td>
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — CROCO À GAUCHE -->
+<div>
+  <!-- Croco à gauche -->
+  <img 
+    align="left" 
+    src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
+    width="200" 
+    style="margin-right:20px; margin-top:0;"
+    alt="Croco Dundee">
+
+  <!-- Titre de la section -->
+  <h2>⚡ Ce que je fais & 🛠️ Stack Technique</h2>
 
   <!-- Ce que je fais -->
-  <td align="left" valign="top" width="37%">
-    <b>⚡ Ce que je fais</b><br><br>
-
+  <p>
     🎯 <b>Full Stack JavaScript</b><br>
     Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-    Projets complets, SPA et outils métiers<br><br>
+    Projets complets, SPA et outils métiers
+  </p>
+  <br>
 
+  <p>
     🤖 <b>Automatisation & IA</b><br>
     Copilot / ChatGPT / Workflows<br>
-    Scripts, bots et intégrations IA<br><br>
+    Scripts, bots et intégrations IA
+  </p>
+  <br>
 
+  <p>
     🏗️ <b>Architecture & Tests</b><br>
     Clean code, CI, TDD et patterns<br>
     Structures maintenables et scalables
-  </td>
+  </p>
+  <br>
 
   <!-- Stack Technique -->
-  <td align="left" valign="top" width="38%">
-    <b>🛠️ Stack Technique</b><br><br>
-
+  <p>
     🎨 <b>Frontend</b><br>
     HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
-    Interfaces modernes et réactives<br><br>
+    Interfaces modernes et réactives
+  </p>
+  <br>
 
+  <p>
     ⚙️ <b>Backend</b><br>
     Node.js, Express, PostgreSQL, REST, GraphQL<br>
-    API robustes et performantes<br><br>
+    API robustes et performantes
+  </p>
+  <br>
 
+  <p>
     🧰 <b>Outils & DevOps</b><br>
     Git, Docker, Postman, Vercel, ChatGPT<br>
     Automatisation et intégration continue
-  </td>
-</tr>
-</table>
+  </p>
+
+  <div style="clear:both;"></div>
+</div>
 
 ---
 <!-- 📈 Stats GitHub -->
