@@ -140,3 +140,41 @@ const developer = {
 };
 </code>
 </pre>
+
+---
+
+<div align="center">
+  <h2>🌐 Expériences CMS & Freelance</h2>
+  <p><small>Avant de me spécialiser en JavaScript, j’ai conçu plusieurs sites web complets pour des clients pro.</small></p>
+</div>
+
+<table align="center" width="100%">
+<tr>
+<td align="center">
+  <a href="https://rudylesaint-magnetiseur.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="220">
+  </a><br>
+  <b>Rudy Le Saint</b><br><i>WordPress / Elementor</i>
+</td>
+<td align="center">
+  <a href="https://onaturel.eu/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="220">
+  </a><br>
+  <b>Onaturel</b><br><i>WooCommerce / SEO</i>
+</td>
+<td align="center">
+  <a href="https://alternativ-uniforme.fr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="220">
+  </a><br>
+  <b>Alternativ Uniforme</b><br><i>PrestaShop / B2B</i>
+</td>
+</tr>
+</table>
+
+<p align="center">
+<small><i>Ces projets m’ont donné une compréhension fine du cycle complet d’un site web, 
+de la conception à la mise en production 🚀</i></small>
+</p>
+
+---
+
