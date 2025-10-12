@@ -142,40 +142,40 @@ const developer = {
 </pre>
 
 ---
-<!-- 💡 XP passée -->
 <!-- 🌐 Expérience freelance passée - CMS / E-commerce -->
-<h2 align="center">🌐 Expérience freelance passée – CMS & E-commerce</h2>
+<!-- 🌟 Miniatures horizontales stylisées -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<p align="center"><em>Une expérience terrain sur WordPress, WooCommerce & Prestashop</em></p>
-
-<div align="center">
-
-  <a href="https://rudylesaint-magnetiseur.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/rudylesaint.jpg" width="140" alt="Rudy Le Saint" title="Rudy Le Saint - Magnétiseur" style="margin:10px; border-radius:10px;">
+  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/alternativ.jpg">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/alternativ.jpg" 
+         width="200" 
+         style="border-radius: 12px; transition: transform 0.3s, box-shadow 0.3s;">
   </a>
 
-  <a href="https://gsti62.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/gsti62.jpg" width="140" alt="GSTI62" title="GSTI62 - Usinage de précision" style="margin:10px; border-radius:10px;">
+  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/galaxy.jpg">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/galaxy.jpg" 
+         width="200" 
+         style="border-radius: 12px; transition: transform 0.3s, box-shadow 0.3s;">
   </a>
 
-  <a href="https://onaturel.eu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/onaturel.jpg" width="140" alt="Onaturel" title="Onaturel - E-commerce bien-être" style="margin:10px; border-radius:10px;">
+  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/gti62.jpg">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/gti62.jpg" 
+         width="200" 
+         style="border-radius: 12px; transition: transform 0.3s, box-shadow 0.3s;">
   </a>
 
-  <a href="https://www.palimpseste-urbain.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/palimpseste.jpg" width="140" alt="Palimpseste Urbain" title="Palimpseste Urbain - Architecte urbain" style="margin:10px; border-radius:10px;">
-  </a>
-
-  <a href="https://www.petitchateauvercourt.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/petitchateauvercourt.jpg" width="140" alt="Petit Château Vercourt" title="Petit Château Vercourt - Maison d’hôtes" style="margin:10px; border-radius:10px;">
-  </a>
-
-  <a href="https://alternativ-uniforme.fr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/alternativ.jpg" width="140" alt="Alternativ Uniforme" title="Alternativ Uniforme - Habillement pro" style="margin:10px; border-radius:10px;">
-  </a>
-
-  <a href="https://www.galaxy-uniforme.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/galaxy.jpg" width="140" alt="Galaxy Uniforme" title="Galaxy Uniforme - E-commerce B2B Prestashop" style="margin:10px; border-radius:10px;">
+  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/onature.jpg">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/onature.jpg" 
+         width="200" 
+         style="border-radius: 12px; transition: transform 0.3s, box-shadow 0.3s;">
   </a>
 
 </div>
+
+<style>
+  div a img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  }
+</style>
+
