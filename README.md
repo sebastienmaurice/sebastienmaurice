@@ -109,12 +109,23 @@
 
 ---
 
-<div>
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="150" style="float:right; margin-left:20px;" alt="Croco Diplômé">
-  <h2>🎓 Parcours</h2>
-  🧭 <b>Formé chez <a href="https://oclock.io">O’clock</a></b> — Spécialisation <i>Full Stack JavaScript</i><br>
-  🏆 <b>Certification RNCP Niveau 5</b> — <i>Développeur Web & Web Mobile</i><br>
-  💼 <b>Expérience freelance</b> — Intégration WordPress / Prestashop
+<!-- 🎓 Parcours — Croco diplômé fun -->
+<div style="position:relative; max-width:900px; margin:auto; background:#0d1117; color:#c9d1d9; border-radius:12px; padding:20px; overflow:hidden;">
+  
+  <!-- Croco flottant à droite -->
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-diplome.png" 
+       style="position:absolute; top:10px; right:10px; width:180px; max-width:30%;" 
+       alt="Croco Diplômé">
+
+  <!-- Titre -->
+  <h2 style="text-align:center; margin-top:0;">🎓 Parcours</h2>
+
+  <!-- Contenu -->
+  <p style="line-height:1.6; text-align:left; margin-top:20px;">
+    🧭 <b>Formé chez <a href="https://oclock.io" style="color:#58a6ff;">O’clock</a></b> — Spécialisation <i>Full Stack JavaScript</i><br>
+    🏆 <b>Certification RNCP Niveau 5</b> — <i>Développeur Web & Web Mobile</i><br>
+    💼 <b>Expérience freelance</b> — Intégration WordPress / Prestashop
+  </p>
 </div>
 
 
