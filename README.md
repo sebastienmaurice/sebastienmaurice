@@ -91,27 +91,44 @@
 </table>
 
 ---
-<!-- 📈 Stats GitHub -->
-<div align="center">
-  <h2>📈 Statistiques GitHub</h2>
-  <hr style="width:60%; border:0.5px solid #30363d;">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%">
-  </p>
-</div>
+<!-- 📈 Statistiques GitHub -->
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
+  <!-- Croco -->
+  <td valign="top" style="padding-right:20px;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250" alt="Croco Dundee">
+  </td>
+
+  <!-- Contenu -->
+  <td valign="top">
+    <h2>📈 Statistiques GitHub</h2>
+    <p style="margin:5px 0">
+      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="48%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%">
+    </p>
+  </td>
+</tr>
+</table>
 
 <!-- 🎓 Parcours -->
-<div align="center">
-  <h2>🎓 Parcours</h2>
-  <hr style="width:60%; border:0.5px solid #30363d;">
-</div>
+<table align="center" cellspacing="0" cellpadding="0" style="margin-top:30px;">
+<tr>
+  <!-- Croco -->
+  <td valign="top" style="padding-right:20px;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250" alt="Croco Dundee">
+  </td>
 
-<p align="center">
-🧭 <b>Formé chez <a href="https://oclock.io">O’clock</a></b> — Spécialisation <i>Full Stack JavaScript</i><br>
-🏆 <b>Certification RNCP Niveau 5</b> — <i>Développeur Web & Web Mobile</i><br>
-💼 <b>Expérience freelance</b> — Intégration WordPress / Prestashop
-</p>
+  <!-- Contenu -->
+  <td valign="top">
+    <h2>🎓 Parcours</h2>
+    <p style="margin:5px 0">
+      🧭 <b>Formé chez <a href="https://oclock.io">O’clock</a></b> — Spécialisation <i>Full Stack JavaScript</i><br>
+      🏆 <b>Certification RNCP Niveau 5</b> — <i>Développeur Web & Web Mobile</i><br>
+      💼 <b>Expérience freelance</b> — Intégration WordPress / Prestashop
+    </p>
+  </td>
+</tr>
+</table>
 
 <!-- 💡 Philosophie -->
 <div align="center">
