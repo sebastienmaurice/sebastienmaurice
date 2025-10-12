@@ -91,16 +91,16 @@
 </table>
 
 ---
-<!-- 📈 Statistiques GitHub — 3 COLONNES 10% / 60% / 30% -->
+<!-- 📈 Statistiques GitHub — 3 COLONNES 20% / 60% / 30% -->
 <table align="center" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-  <!-- Colonne mini badges -->
-  <td valign="top" width="10%" style="padding-right:10px; text-align:center;">
-    <p style="margin:5px 0; font-size:12px;">
-      ![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-blue?style=flat) <br>
-      ![Followers](https://img.shields.io/badge/Followers-XX-green?style=flat) <br>
-      ![Following](https://img.shields.io/badge/Following-XX-orange?style=flat)
-    </p>
+  <!-- Colonne badges -->
+  <td valign="top" width="20%" style="padding-right:10px; text-align:center;">
+    <table cellspacing="2" cellpadding="0" align="center">
+      <tr><td><img src="https://img.shields.io/badge/Public%20Repos-XX-blue?style=flat" alt="Public Repos"></td></tr>
+      <tr><td><img src="https://img.shields.io/badge/Followers-XX-green?style=flat" alt="Followers"></td></tr>
+      <tr><td><img src="https://img.shields.io/badge/Following-XX-orange?style=flat" alt="Following"></td></tr>
+    </table>
   </td>
 
   <!-- Colonne principale — Stats -->
@@ -113,7 +113,7 @@
 
   <!-- Croco -->
   <td valign="top" width="30%" style="text-align:center;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="220" alt="Croco Dundee">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-2.png" width="220" alt="Croco Dundee">
   </td>
 </tr>
 </table>
