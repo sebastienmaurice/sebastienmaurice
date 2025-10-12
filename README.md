@@ -109,14 +109,14 @@
 
 ---
 
-<!-- 🎓 Parcours — Croco au-dessus -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-diplome.png" width="200" alt="Croco Diplômé">
+<div>
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="150" style="float:right; margin-left:20px;" alt="Croco Diplômé">
   <h2>🎓 Parcours</h2>
   🧭 <b>Formé chez <a href="https://oclock.io">O’clock</a></b> — Spécialisation <i>Full Stack JavaScript</i><br>
   🏆 <b>Certification RNCP Niveau 5</b> — <i>Développeur Web & Web Mobile</i><br>
   💼 <b>Expérience freelance</b> — Intégration WordPress / Prestashop
 </div>
+
 
 ---
 <!-- 💡 Philosophie -->
