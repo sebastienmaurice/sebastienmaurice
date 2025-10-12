@@ -65,8 +65,6 @@
 </tr>
 </table>
 
----
-
 <!-- 🛠️ Stack Technique -->
 <div align="center">
   <h2>🛠️ Stack Technique</h2>
