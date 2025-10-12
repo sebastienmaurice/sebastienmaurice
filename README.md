@@ -40,47 +40,46 @@
 </div>
 
 ---
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — 3 COLONNES CORRECTE -->
-<table align="center" cellspacing="20">
-<tr>
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — FLEX / DIV -->
+<div style="display:flex; align-items:flex-start; justify-content:center; flex-wrap:wrap; margin-top:20px;">
+
   <!-- Croco -->
-  <td align="center" valign="top" width="25%">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="300" alt="Croco Dundee">
-  </td>
+  <div style="flex:0 0 250px; margin-right:20px;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250" alt="Croco Dundee">
+  </div>
 
   <!-- Ce que je fais -->
-  <td align="left" valign="top" width="37%">
-    <h2>⚡ Ce que je fais</h2><br><br>
+  <div style="flex:0 0 300px; margin-right:20px;">
+    <h2>⚡ Ce que je fais</h2>
     🎯 <b>Full Stack JavaScript</b><br>
     Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-    Projets complets, SPA et outils métiers<br>
-    <br>
+    Projets complets, SPA et outils métiers<br><br>
+
     🤖 <b>Automatisation & IA</b><br>
     Copilot / ChatGPT / Workflows<br>
-    Scripts, bots et intégrations IA<br>
-    <br>
+    Scripts, bots et intégrations IA<br><br>
+
     🏗️ <b>Architecture & Tests</b><br>
     Clean code, CI, TDD et patterns<br>
     Structures maintenables et scalables
-  </td>
+  </div>
 
   <!-- Stack Technique -->
-  <td align="left" valign="top" width="38%">
-    <h2>🛠️ Stack Technique</h2><br><br>
-    🎨 <b>Frontend</b><br>
+  <div style="flex:0 0 300px;">
+    <h2>🛠️ Stack Technique</h2>
+        🎨 <b>Frontend</b><br>
     HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
-    Interfaces modernes et réactives<br>
-    <br>
+    Interfaces modernes et réactives<br><br>
     ⚙️ <b>Backend</b><br>
     Node.js, Express, PostgreSQL, REST, GraphQL<br>
-    API robustes et performantes<br>
-    <br>
+    API robustes et performantes<br><br>
     🧰 <b>Outils & DevOps</b><br>
     Git, Docker, Postman, Vercel, ChatGPT<br>
     Automatisation et intégration continue
-  </td>
-</tr>
-</table>
+  </div>
+
+</div>
+
 
 ---
 <!-- 📈 Stats GitHub -->
