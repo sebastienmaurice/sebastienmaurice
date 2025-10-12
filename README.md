@@ -41,7 +41,7 @@
 
 ---
 
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — 3 COLONNES CORRECTE -->
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — 3 COLONNES AVEC TITRES H2 -->
 <table align="center" cellspacing="20">
 <tr>
   <!-- Croco -->
@@ -51,15 +51,15 @@
 
   <!-- Ce que je fais -->
   <td align="left" valign="top" width="37%">
-    <b>⚡ Ce que je fais</b><br><br>
+    <h2>⚡ Ce que je fais</h2>
     🎯 <b>Full Stack JavaScript</b><br>
     Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-    Projets complets, SPA et outils métiers<br>
-    <br>
+    Projets complets, SPA et outils métiers<br><br>
+
     🤖 <b>Automatisation & IA</b><br>
     Copilot / ChatGPT / Workflows<br>
-    Scripts, bots et intégrations IA<br>
-    <br>
+    Scripts, bots et intégrations IA<br><br>
+
     🏗️ <b>Architecture & Tests</b><br>
     Clean code, CI, TDD et patterns<br>
     Structures maintenables et scalables
@@ -67,15 +67,15 @@
 
   <!-- Stack Technique -->
   <td align="left" valign="top" width="38%">
-    <b>🛠️ Stack Technique</b><br><br>
+    <h2>🛠️ Stack Technique</h2>
     🎨 <b>Frontend</b><br>
     HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
-    Interfaces modernes et réactives<br>
-    <br>
+    Interfaces modernes et réactives<br><br>
+
     ⚙️ <b>Backend</b><br>
     Node.js, Express, PostgreSQL, REST, GraphQL<br>
-    API robustes et performantes<br>
-    <br>
+    API robustes et performantes<br><br>
+
     🧰 <b>Outils & DevOps</b><br>
     Git, Docker, Postman, Vercel, ChatGPT<br>
     Automatisation et intégration continue
