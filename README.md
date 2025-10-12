@@ -40,7 +40,7 @@
 </div>
 
 ---
-<!-- ⚡ Ce que je fais — CROCO À GAUCHE STYLE “SALUT” + ESPACEMENT -->
+<!-- ⚡ Ce que je fais — CROCO À GAUCHE STYLE “SALUT” + ESPACEMENT VERTICAL -->
 <div>
   <!-- Croco à gauche -->
   <img 
@@ -50,30 +50,28 @@
     style="margin-right:20px; margin-top:0;"
     alt="Croco Dundee">
 
-  <!-- Texte qui occupe le reste -->
-  <div style="overflow:hidden;">
+  <!-- Titre et sections -->
+  <h2>⚡ Ce que je fais</h2>
 
-    <h2>⚡ Ce que je fais</h2>
+  <p>
+    🎯 <b>Full Stack JavaScript</b><br>
+    Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
+    Projets complets, SPA & outils métiers
+  </p>
+  <br>
 
-    <p style="margin-bottom:15px;">
-      🎯 <b>Full Stack JavaScript</b><br>
-      Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-      Projets complets, SPA & outils métiers
-    </p>
+  <p>
+    🤖 <b>Automatisation & IA</b><br>
+    Copilot / ChatGPT / Workflows<br>
+    Scripts, bots & intégrations IA
+  </p>
+  <br>
 
-    <p style="margin-bottom:15px;">
-      🤖 <b>Automatisation & IA</b><br>
-      Copilot / ChatGPT / Workflows<br>
-      Scripts, bots & intégrations IA
-    </p>
-
-    <p style="margin-bottom:15px;">
-      🏗️ <b>Architecture & Tests</b><br>
-      Clean code / CI / TDD / Patterns<br>
-      Structures maintenables & scalables
-    </p>
-
-  </div>
+  <p>
+    🏗️ <b>Architecture & Tests</b><br>
+    Clean code / CI / TDD / Patterns<br>
+    Structures maintenables & scalables
+  </p>
 
   <div style="clear:both;"></div>
 </div>
