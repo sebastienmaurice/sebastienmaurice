@@ -147,6 +147,33 @@ const developer = {
 <table align="center" cellspacing="20">
   <tr>
     <td>
+      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="200" style="border-radius:12px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="200" style="border-radius:12px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="200" style="border-radius:12px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="200" style="border-radius:12px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="200" style="border-radius:12px;">
+      </a>
+    </td>
+    <td>
       <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg">
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="200" style="border-radius:12px;">
       </a>
@@ -156,16 +183,5 @@ const developer = {
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="200" style="border-radius:12px;">
       </a>
     </td>
-    <td>
-      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gti62.jpg">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gti62.jpg" width="200" style="border-radius:12px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onature.jpg">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onature.jpg" width="200" style="border-radius:12px;">
-      </a>
-    </td>
   </tr>
 </table>
-
