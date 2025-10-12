@@ -54,25 +54,19 @@
   </td>
 
   <!-- Sections verticales à droite -->
-  <td width="75%" align="left" valign="top" style="padding-left:20px;">
+  <td width="75%" align="left" valign="top">
 
-    <p>
-      🎯 <b>Full Stack JavaScript</b><br>
-      <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br>
-      <small><i>Projets complets, SPA & outils métiers</i></small>
-    </p>
+    🎯 <b>Full Stack JavaScript</b><br>
+    Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
+    <i>Projets complets, SPA & outils métiers</i><br><br>
 
-    <p>
-      🤖 <b>Automatisation & IA</b><br>
-      <small>Copilot / ChatGPT / Workflows</small><br>
-      <small><i>Scripts, bots & intégrations IA</i></small>
-    </p>
+    🤖 <b>Automatisation & IA</b><br>
+    Copilot / ChatGPT / Workflows<br>
+    <i>Scripts, bots & intégrations IA</i><br><br>
 
-    <p>
-      🏗️ <b>Architecture & Tests</b><br>
-      <small>Clean code / CI / TDD / Patterns</small><br>
-      <small><i>Structures maintenables & scalables</i></small>
-    </p>
+    🏗️ <b>Architecture & Tests</b><br>
+    Clean code / CI / TDD / Patterns<br>
+    <i>Structures maintenables & scalables</i>
 
   </td>
 </tr>
