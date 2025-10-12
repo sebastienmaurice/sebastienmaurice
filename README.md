@@ -91,18 +91,29 @@
 </table>
 
 ---
-<!-- 📈 Statistiques GitHub — 2 COLONNES CENTRÉES -->
+<!-- 📈 Statistiques GitHub — 3 COLONNES 10% / 60% / 30% -->
 <table align="center" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-  <!-- Stats GitHub -->
-  <td valign="top" width="70%">
+  <!-- Colonne mini badges -->
+  <td valign="top" width="10%" style="padding-right:10px; text-align:center;">
+    <p style="margin:5px 0; font-size:12px;">
+      ![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-blue?style=flat) <br>
+      ![Followers](https://img.shields.io/badge/Followers-XX-green?style=flat) <br>
+      ![Following](https://img.shields.io/badge/Following-XX-orange?style=flat)
+    </p>
+  </td>
+
+  <!-- Colonne principale — Stats -->
+  <td valign="top" width="60%" style="padding-right:10px;">
     <h2>📈 Statistiques GitHub</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" style="display:block;">
+    <p style="margin:5px 0">
+      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%">
+    </p>
   </td>
 
   <!-- Croco -->
-  <td valign="top" width="30%">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="200" alt="Croco Dundee" style="display:block; margin:auto;">
+  <td valign="top" width="30%" style="text-align:center;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="220" alt="Croco Dundee">
   </td>
 </tr>
 </table>
