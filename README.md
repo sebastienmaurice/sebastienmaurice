@@ -40,8 +40,8 @@
 </div>
 
 ---
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — FLEX / DIV -->
-<div style="display:flex; align-items:flex-start; justify-content:center; flex-wrap:wrap; margin-top:20px;">
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — FLEX / DIV FIX -->
+<div style="display:flex; align-items:flex-start; justify-content:center; margin-top:20px;">
 
   <!-- Croco -->
   <div style="flex:0 0 250px; margin-right:20px;">
@@ -49,25 +49,23 @@
   </div>
 
   <!-- Ce que je fais -->
-  <div style="flex:0 0 300px; margin-right:20px;">
+  <div style="flex:0 0 300px; margin-right:20px; min-width:300px;">
     <h2>⚡ Ce que je fais</h2>
     🎯 <b>Full Stack JavaScript</b><br>
     Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
     Projets complets, SPA et outils métiers<br><br>
-
     🤖 <b>Automatisation & IA</b><br>
     Copilot / ChatGPT / Workflows<br>
     Scripts, bots et intégrations IA<br><br>
-
     🏗️ <b>Architecture & Tests</b><br>
     Clean code, CI, TDD et patterns<br>
     Structures maintenables et scalables
   </div>
 
   <!-- Stack Technique -->
-  <div style="flex:0 0 300px;">
+  <div style="flex:0 0 300px; min-width:300px;">
     <h2>🛠️ Stack Technique</h2>
-        🎨 <b>Frontend</b><br>
+    🎨 <b>Frontend</b><br>
     HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
     Interfaces modernes et réactives<br><br>
     ⚙️ <b>Backend</b><br>
@@ -79,7 +77,6 @@
   </div>
 
 </div>
-
 
 ---
 <!-- 📈 Stats GitHub -->
