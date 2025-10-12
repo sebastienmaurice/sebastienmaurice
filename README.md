@@ -94,14 +94,21 @@
 <!-- 📈 Statistiques GitHub — 3 COLONNES 20% / 60% / 30% -->
 <table align="center" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-  <!-- Colonne badges -->
-  <td valign="top" width="20%" style="padding-right:10px; text-align:center;">
-    <table cellspacing="2" cellpadding="0" align="center">
-      <tr><td><img src="https://img.shields.io/badge/Public%20Repos-XX-blue?style=flat" alt="Public Repos"></td></tr>
-      <tr><td><img src="https://img.shields.io/badge/Followers-XX-green?style=flat" alt="Followers"></td></tr>
-      <tr><td><img src="https://img.shields.io/badge/Following-XX-orange?style=flat" alt="Following"></td></tr>
-    </table>
-  </td>
+<!-- 📈 Micro Badges — résumé rapide -->
+<table align="center" cellspacing="2" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Repos-XX-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repos">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Followers-XX-green?style=for-the-badge&logo=github&logoColor=white" alt="Followers">
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Following-XX-orange?style=for-the-badge&logo=github&logoColor=white" alt="Following">
+    </td>
+  </tr>
+</table>
+
 
   <!-- Colonne principale — Stats -->
   <td valign="top" width="60%" style="padding-right:10px;">
