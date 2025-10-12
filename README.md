@@ -144,37 +144,45 @@ const developer = {
 ---
 <!-- 💡 XP passée -->
 <h2 align="center">🌐 Expérience freelance passée – CMS & E-commerce</h2>
-<p align="center"><i>Une expérience terrain sur WordPress, WooCommerce & Prestashop</i></p>
+<p align="center">
+  <i>Une expérience terrain sur WordPress, WooCommerce & Prestashop</i>
+</p>
 
-<table align="center">
-<tr>
-<td align="center">
-  <a href="https://rudylesaint-magnetiseur.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/wordpress.png" width="32"/><br>
-    <b>Rudy Le Saint</b><br>
-    <sub>Site vitrine</sub>
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+
+  <a href="https://rudylesaint-magnetiseur.com" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="160" style="border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.3);">
+    <br><sub>🌀 Rudy Le Saint</sub>
   </a>
-</td>
-<td align="center">
-  <a href="https://gsti62.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/wordpress.png" width="32"/><br>
-    <b>GSTI62</b><br>
-    <sub>Industrie</sub>
+
+  <a href="https://gsti62.com" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="160" style="border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.3);">
+    <br><sub>🏭 GSTI62</sub>
   </a>
-</td>
-<td align="center">
-  <a href="https://onaturel.eu/" target="_blank">
-    <img src="https://img.icons8.com/color/48/woocommerce.png" width="32"/><br>
-    <b>Onaturel</b><br>
-    <sub>E-commerce</sub>
+
+  <a href="https://onaturel.eu" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="160" style="border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.3);">
+    <br><sub>🌿 Onaturel</sub>
   </a>
-</td>
-<td align="center">
-  <a href="https://galaxy-uniforme.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/prestashop.png" width="32"/><br>
-    <b>Galaxy Uniforme</b><br>
-    <sub>B2B</sub>
+
+  <a href="https://palimpseste-urbain.com" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="160" style="border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.3);">
+    <br><sub>🏙️ Palimpseste Urbain</sub>
   </a>
-</td>
-</tr>
-</table>
+
+  <a href="https://petitchateauvercourt.com" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="160" style="border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.3);">
+    <br><sub>🏡 Petit Château Vercourt</sub>
+  </a>
+
+  <a href="https://alternativ-uniforme.fr" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="160" style="border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.3);">
+    <br><sub>👕 Alternativ Uniforme</sub>
+  </a>
+
+  <a href="https://galaxy-uniforme.com" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="160" style="border-radius:10px; box-shadow:0 0 8px rgba(0,0,0,0.3);">
+    <br><sub>🚀 Galaxy Uniforme</sub>
+  </a>
+
+</div>
