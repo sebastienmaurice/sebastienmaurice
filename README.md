@@ -3,11 +3,11 @@
 
 <div>
   <!-- Image à droite -->
-  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" target="_blank" rel="noopener noreferrer nofollow">
+  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" target="_blank" rel="noopener noreferrer nofollow">
     <img 
       align="right" 
       width="32%" 
-      src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" 
+      src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
       style="max-width:180px; display:block; margin-top:-20px;">
   </a>
 
