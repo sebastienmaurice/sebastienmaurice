@@ -40,30 +40,45 @@
 </div>
 
 ---
-<!-- ⚡ Ce que je fais -->
+<!-- ⚡ Ce que je fais — CROCO À GAUCHE, SECTIONS VERTICALES -->
 <div align="center">
   <h2>⚡ Ce que je fais</h2>
   <hr style="width:60%; border:0.5px solid #30363d;">
 </div>
+
 <table align="center">
 <tr>
-<td align="center" width="33%">
-🎯 <b>Full Stack JavaScript</b><br>
-<small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br>
-<small><i>Projets complets, SPA & outils métiers</i></small>
-</td>
-<td align="center" width="33%">
-🤖 <b>Automatisation & IA</b><br>
-<small>Copilot / ChatGPT / Workflows</small><br>
-<small><i>Scripts, bots & intégrations IA</i></small>
-</td>
-<td align="center" width="33%">
-🏗️ <b>Architecture & Tests</b><br>
-<small>Clean code / CI / TDD / Patterns</small><br>
-<small><i>Structures maintenables & scalables</i></small>
-</td>
+  <!-- Croco à gauche -->
+  <td width="25%" align="center" valign="top">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" width="150" alt="Croco Dundee">
+  </td>
+
+  <!-- Sections verticales à droite -->
+  <td width="75%" align="left" valign="top" style="padding-left:20px;">
+
+    <p>
+      🎯 <b>Full Stack JavaScript</b><br>
+      <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br>
+      <small><i>Projets complets, SPA & outils métiers</i></small>
+    </p>
+
+    <p>
+      🤖 <b>Automatisation & IA</b><br>
+      <small>Copilot / ChatGPT / Workflows</small><br>
+      <small><i>Scripts, bots & intégrations IA</i></small>
+    </p>
+
+    <p>
+      🏗️ <b>Architecture & Tests</b><br>
+      <small>Clean code / CI / TDD / Patterns</small><br>
+      <small><i>Structures maintenables & scalables</i></small>
+    </p>
+
+  </td>
 </tr>
 </table>
+
+---
 
 <!-- 🛠️ Stack Technique -->
 <div align="center">
