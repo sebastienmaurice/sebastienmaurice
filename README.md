@@ -39,12 +39,12 @@
   </ul>
 </div>
 
+---
 <!-- ⚡ Ce que je fais -->
 <div align="center">
   <h2>⚡ Ce que je fais</h2>
   <hr style="width:60%; border:0.5px solid #30363d;">
 </div>
-
 <table align="center">
 <tr>
 <td align="center" width="33%">
