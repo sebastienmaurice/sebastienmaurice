@@ -150,27 +150,27 @@ const developer = {
 <div align="center">
 
   <a href="https://rudylesaint.fr" target="_blank">
-    <img src="https://sebastienmaurice.github.io/assets/rudy.png" width="140" alt="Rudy Le Saint" title="Rudy Le Saint" />
+    <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/rudy.png?raw=true" width="140" alt="Rudy Le Saint" title="Rudy Le Saint" />
   </a>
 
   <a href="https://gsti62.fr" target="_blank">
-    <img src="https://sebastienmaurice.github.io/assets/gsti62.png" width="140" alt="GSTI62" title="GSTI62" />
+    <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/gsti62.png?raw=true" width="140" alt="GSTI62" title="GSTI62" />
   </a>
 
   <a href="https://onaturel.fr" target="_blank">
-    <img src="https://sebastienmaurice.github.io/assets/onaturel.png" width="140" alt="Onaturel" title="Onaturel" />
+    <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/onaturel.png?raw=true" width="140" alt="Onaturel" title="Onaturel" />
   </a>
 
   <a href="https://palimpseste-urbain.fr" target="_blank">
-    <img src="https://sebastienmaurice.github.io/assets/palimpseste.png" width="140" alt="Palimpseste Urbain" title="Palimpseste Urbain" />
+    <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/palimpseste.png?raw=true" width="140" alt="Palimpseste Urbain" title="Palimpseste Urbain" />
   </a>
 
   <a href="https://petitchateauveronst.fr" target="_blank">
-    <img src="https://sebastienmaurice.github.io/assets/petit-chateau.png" width="140" alt="Petit Château Véronst" title="Petit Château Véronst" />
+    <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/petit-chateau.png?raw=true" width="140" alt="Petit Château Véronst" title="Petit Château Véronst" />
   </a>
 
   <a href="https://uniformepro.fr" target="_blank">
-    <img src="https://sebastienmaurice.github.io/assets/uniformepro.png" width="140" alt="Uniforme Pro" title="Uniforme Pro" />
+    <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/uniformepro.png?raw=true" width="140" alt="Uniforme Pro" title="Uniforme Pro" />
   </a>
 
 </div>
