@@ -33,36 +33,46 @@
 
 ---
 
-<!-- ⚡ SECTION 2 — CROCO À GAUCHE -->
+<!-- ⚡ SECTION 2 — CROCO À GAUCHE AVEC ALIGNEMENT DU CONTENU À DROITE -->
 <div>
-  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" target="_blank" rel="noopener noreferrer nofollow">
-    <img align="left" width="30%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" style="max-width:160px; margin-right:20px;">
+  <!-- Crocodile à gauche -->
+  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" target="_blank" rel="noopener noreferrer nofollow">
+    <img 
+      align="left" 
+      width="28%" 
+      src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" 
+      style="max-width:160px; margin-right:30px; margin-top:10px;">
   </a>
 
-  <div align="center">
-    <h2>⚡ Ce que je fais</h2>
-    <hr style="width:60%; border:0.5px solid #30363d;">
-  </div>
+  <!-- Contenu principal aligné à droite -->
+  <div>
+    <h2 align="left">⚡ Ce que je fais</h2>
+    <hr style="width:40%; border:0.5px solid #30363d; margin-left:0;">
 
-  <table align="center">
-    <tr>
-      <td align="center" width="33%">
-        🎯 <b>Full Stack JavaScript</b><br>
-        <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br>
-        <small><i>Projets complets, SPA & outils métiers</i></small>
-      </td>
-      <td align="center" width="33%">
-        🤖 <b>Automatisation & IA</b><br>
-        <small>Copilot / ChatGPT / Workflows</small><br>
-        <small><i>Scripts, bots & intégrations IA</i></small>
-      </td>
-      <td align="center" width="33%">
-        🏗️ <b>Architecture & Tests</b><br>
-        <small>Clean code / CI / TDD / Patterns</small><br>
-        <small><i>Structures maintenables & scalables</i></small>
-      </td>
-    </tr>
-  </table>
+    <table style="width:70%;" cellspacing="15">
+      <tr>
+        <td align="left" valign="top" width="33%">
+          🎯 <b>Full Stack JavaScript</b><br>
+          <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br>
+          <small><i>Projets complets, SPA & outils métiers</i></small>
+        </td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" width="33%">
+          🤖 <b>Automatisation & IA</b><br>
+          <small>Copilot / ChatGPT / Workflows</small><br>
+          <small><i>Scripts, bots & intégrations IA</i></small>
+        </td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" width="33%">
+          🏗️ <b>Architecture & Tests</b><br>
+          <small>Clean code / CI / TDD / Patterns</small><br>
+          <small><i>Structures maintenables & scalables</i></small>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ---
