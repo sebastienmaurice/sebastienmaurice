@@ -104,9 +104,9 @@
   </td>
 
   <!-- Croco -->
-  <td valign="top" width="50%">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250" alt="Croco Dundee">
-  </td>
+<td valign="top" width="50%">
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="350" alt="Croco Dundee">
+</td>
 </tr>
 </table>
 
