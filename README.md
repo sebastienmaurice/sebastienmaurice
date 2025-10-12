@@ -14,7 +14,7 @@
         </p>
       </td>
       <td>
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco_dundee.png" width="120">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" width="120">
       </td>
     </tr>
   </table>
@@ -32,7 +32,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco_dundee.png" width="120">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" width="120">
       </td>
       <td style="max-width:500px; text-align:justify;">
         <p>
