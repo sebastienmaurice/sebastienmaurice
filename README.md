@@ -99,14 +99,13 @@
     <h2>📈 Statistiques GitHub</h2>
     <p style="margin:5px 0">
       <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="100%">
     </p>
   </td>
 
   <!-- Croco -->
-<td valign="top" width="50%">
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="350" alt="Croco Dundee">
-</td>
+  <td valign="top" width="50%">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="350" alt="Croco Dundee">
+  </td>
 </tr>
 </table>
 
