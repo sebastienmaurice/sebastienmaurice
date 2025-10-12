@@ -144,37 +144,35 @@ const developer = {
 ---
 
 <div align="center">
-  <h2>🌐 Expériences CMS & Freelance</h2>
-  <p><small>Avant de me spécialiser en JavaScript, j’ai conçu plusieurs sites web complets pour des clients pro.</small></p>
+  <h2>🌍 Expériences Web & Freelance</h2>
+  <p><small>Projets clients réalisés avant ma spécialisation Full Stack JavaScript</small></p>
 </div>
 
-<table align="center" width="100%">
-<tr>
-<td align="center">
-  <a href="https://rudylesaint-magnetiseur.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="220">
-  </a><br>
-  <b>Rudy Le Saint</b><br><i>WordPress / Elementor</i>
-</td>
-<td align="center">
-  <a href="https://onaturel.eu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="220">
-  </a><br>
-  <b>Onaturel</b><br><i>WooCommerce / SEO</i>
-</td>
-<td align="center">
-  <a href="https://alternativ-uniforme.fr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="220">
-  </a><br>
-  <b>Alternativ Uniforme</b><br><i>PrestaShop / B2B</i>
-</td>
-</tr>
-</table>
-
 <p align="center">
-<small><i>Ces projets m’ont donné une compréhension fine du cycle complet d’un site web, 
-de la conception à la mise en production 🚀</i></small>
+<b>Intégration, personnalisation et mise en ligne de sites WordPress / PrestaShop</b><br>
+<small><i>Focus sur la performance, le SEO et l’expérience utilisateur</i></small>
 </p>
+
+<div align="center">
+
+<!-- Lignes de badges -->
+<a href="https://rudylesaint-magnetiseur.com" target="_blank">
+  <img src="https://img.shields.io/badge/Rudy%20Le%20Saint%20-%20Magnétiseur-21759B?logo=wordpress&logoColor=white" />
+</a>
+<a href="https://gsti62.com/" target="_blank">
+  <img src="https://img.shields.io/badge/GSTI62%20-%20Usinage-21759B?logo=wordpress&logoColor=white" />
+</a>
+<a href="https://onaturel.eu/" target="_blank">
+  <img src="https://img.shields.io/badge/Onaturel%20-%20Ecommerce%20Bien--être-DAA520?logo=woocommerce&logoColor=white" />
+</a>
+<a href="https://alternativ-uniforme.fr/" target="_blank">
+  <img src="https://img.shields.io/badge/Alternativ%20Uniforme%20-%20B2B%20Pro-6C63FF?logo=prestashop&logoColor=white" />
+</a>
+
+<br><br>
+<small><i>Ces projets m’ont permis d’affiner ma vision produit et ma maîtrise du web end-to-end 🌐</i></small>
+
+</div>
 
 ---
 
