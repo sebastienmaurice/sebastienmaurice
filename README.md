@@ -33,45 +33,32 @@
 
 ---
 
-<!-- ⚡ SECTION 2 — CROCO À GAUCHE AVEC ALIGNEMENT DU CONTENU À DROITE -->
-<div>
-  <!-- Crocodile à gauche -->
-  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" target="_blank" rel="noopener noreferrer nofollow">
-    <img 
-      align="left" 
-      width="28%" 
-      src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" 
-      style="max-width:160px; margin-right:30px; margin-top:10px;">
-  </a>
+<!-- ⚡ SECTION 2 — CROCO À GAUCHE AVEC ALIGNEMENT DU CONTENU À DROITE --> <div style="display:flex; align-items:flex-start; gap:30px; flex-wrap:wrap; margin:20px 0;"> <!-- 🐊 Crocodile à gauche -->
 
-  <!-- Contenu principal aligné à droite -->
+<img
+src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png
+"
+alt="Croco Dundee"
+style="width:160px; border-radius:12px; flex-shrink:0;"
+
+<!-- 🧠 Contenu principal --> <div style="flex:1; min-width:250px;"> <h2>⚡ Ce que je fais</h2> <hr style="width:40%; border:0.5px solid #30363d;">
+<div style="display:flex; flex-direction:column; gap:15px;">
   <div>
-    <h2 align="left">⚡ Ce que je fais</h2>
-    <hr style="width:40%; border:0.5px solid #30363d; margin-left:0;">
+    🎯 <b>Full Stack JavaScript</b><br>
+    <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br>
+    <i>Projets complets, SPA & outils métiers</i>
+  </div>
 
-    <table style="width:70%;" cellspacing="15">
-      <tr>
-        <td align="left" valign="top" width="33%">
-          🎯 <b>Full Stack JavaScript</b><br>
-          <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br>
-          <small><i>Projets complets, SPA & outils métiers</i></small>
-        </td>
-      </tr>
-      <tr>
-        <td align="left" valign="top" width="33%">
-          🤖 <b>Automatisation & IA</b><br>
-          <small>Copilot / ChatGPT / Workflows</small><br>
-          <small><i>Scripts, bots & intégrations IA</i></small>
-        </td>
-      </tr>
-      <tr>
-        <td align="left" valign="top" width="33%">
-          🏗️ <b>Architecture & Tests</b><br>
-          <small>Clean code / CI / TDD / Patterns</small><br>
-          <small><i>Structures maintenables & scalables</i></small>
-        </td>
-      </tr>
-    </table>
+  <div>
+    🤖 <b>Automatisation & IA</b><br>
+    <small>Copilot / ChatGPT / Workflows</small><br>
+    <i>Scripts, bots & intégrations IA</i>
+  </div>
+
+  <div>
+    🏗️ <b>Architecture & Tests</b><br>
+    <small>Clean code / CI / TDD / Patterns</small><br>
+    <i>Structures maintenables & scalables</i>
   </div>
 </div>
 
