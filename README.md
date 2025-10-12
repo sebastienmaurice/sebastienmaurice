@@ -36,34 +36,36 @@
 <!-- 🐊 SECTION 2 — CROCO À GAUCHE -->
 <table>
   <tr>
-    <!-- Image Croco à gauche -->
+    <!-- Croco à gauche -->
     <td align="center" width="30%">
       <img 
         src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" 
-        width="180"
+        width="200"
         alt="Croco Dundee à gauche">
     </td>
 
-    <!-- Contenu à droite -->
+    <!-- Texte à droite -->
     <td align="left" width="70%">
       <h2>⚡ Ce que je fais</h2>
-      <hr style="border: 0.5px solid #30363d; width: 60%;">
+      <hr width="60%" style="border: 0.5px solid #30363d;">
 
       <p>
         🎯 <strong>Full Stack JavaScript</strong><br>
-        <small>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</small><br>
+        <sub>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</sub><br>
         <em>Projets complets, SPA & outils métiers</em>
       </p>
+      <br>
 
       <p>
         🤖 <strong>Automatisation & IA</strong><br>
-        <small>Copilot / ChatGPT / Workflows</small><br>
+        <sub>Copilot / ChatGPT / Workflows</sub><br>
         <em>Scripts, bots & intégrations IA</em>
       </p>
+      <br>
 
       <p>
         🏗️ <strong>Architecture & Tests</strong><br>
-        <small>Clean code / CI / TDD / Patterns</small><br>
+        <sub>Clean code / CI / TDD / Patterns</sub><br>
         <em>Structures maintenables & scalables</em>
       </p>
     </td>
