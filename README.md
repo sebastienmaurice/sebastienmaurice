@@ -97,19 +97,16 @@
   <!-- Statistiques GitHub -->
   <td valign="top" width="60%" style="padding-right:20px;">
     <h2>📈 Statistiques GitHub</h2>
-
     <!-- Contribution Graph -->
     <p style="margin:5px 0">
       <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%">
     </p>
-
     <!-- Badges Repos / Followers -->
     <p style="margin:10px 0">
       ![Public Repos](https://img.shields.io/badge/Public%20Repos-XX-blue)
       ![Followers](https://img.shields.io/badge/Followers-XX-green)
       ![Following](https://img.shields.io/badge/Following-XX-orange)
     </p>
-
     <!-- Badges technos -->
     <p style="margin:10px 0">
       ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
