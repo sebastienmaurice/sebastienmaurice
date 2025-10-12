@@ -41,11 +41,6 @@
 
 ---
 <!-- ⚡ Ce que je fais — CROCO À GAUCHE, SECTIONS VERTICALES -->
-<div align="center">
-  <h2>⚡ Ce que je fais</h2>
-  <hr style="width:60%; border:0.5px solid #30363d;">
-</div>
-
 <table align="center">
 <tr>
   <!-- Croco à gauche -->
@@ -55,19 +50,19 @@
 
   <!-- Sections verticales à droite -->
   <td width="75%" align="left" valign="top">
+    <b>⚡ Ce que je fais</b><br><br>
 
     🎯 <b>Full Stack JavaScript</b><br>
     Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-    <i>Projets complets, SPA & outils métiers</i><br><br>
+    Projets complets, SPA & outils métiers<br><br>
 
     🤖 <b>Automatisation & IA</b><br>
     Copilot / ChatGPT / Workflows<br>
-    <i>Scripts, bots & intégrations IA</i><br><br>
+    Scripts, bots & intégrations IA<br><br>
 
     🏗️ <b>Architecture & Tests</b><br>
     Clean code / CI / TDD / Patterns<br>
-    <i>Structures maintenables & scalables</i>
-
+    Structures maintenables & scalables
   </td>
 </tr>
 </table>
