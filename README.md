@@ -91,7 +91,7 @@
 </table>
 
 ---
-<!-- 📈 Statistiques GitHub + 🎓 Parcours — 3 COLONNES -->
+<!-- 📈 Statistiques GitHub — 2 COLONNES -->
 <table align="center" cellspacing="0" cellpadding="0">
 <tr>
   <!-- Statistiques GitHub -->
@@ -103,22 +103,26 @@
     </p>
   </td>
 
-  <!-- Parcours -->
-  <td valign="top" style="padding-right:20px;">
-    <h2>🎓 Parcours</h2>
-    <p style="margin:5px 0">
-      🧭 <b>Formé chez <a href="https://oclock.io">O’clock</a></b> — Spécialisation <i>Full Stack JavaScript</i><br>
-      🏆 <b>Certification RNCP Niveau 5</b> — <i>Développeur Web & Web Mobile</i><br>
-      💼 <b>Expérience freelance</b> — Intégration WordPress / Prestashop
-    </p>
-  </td>
-
   <!-- Croco -->
   <td valign="top">
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250" alt="Croco Dundee">
   </td>
 </tr>
 </table>
+
+---
+
+<!-- 🎓 Parcours -->
+<div align="center">
+  <h2>🎓 Parcours</h2>
+  <hr style="width:60%; border:0.5px solid #30363d;">
+</div>
+
+<p align="center">
+🧭 <b>Formé chez <a href="https://oclock.io">O’clock</a></b> — Spécialisation <i>Full Stack JavaScript</i><br>
+🏆 <b>Certification RNCP Niveau 5</b> — <i>Développeur Web & Web Mobile</i><br>
+💼 <b>Expérience freelance</b> — Intégration WordPress / Prestashop
+</p>
 
 ---
 <!-- 💡 Philosophie -->
