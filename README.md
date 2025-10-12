@@ -40,16 +40,15 @@
 </div>
 
 ---
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — FLEX / DIV FIX -->
-<div style="display:flex; align-items:flex-start; justify-content:center; margin-top:20px;">
-
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
   <!-- Croco -->
-  <div style="flex:0 0 250px; margin-right:20px;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250" alt="Croco Dundee">
-  </div>
+  <td valign="top" style="padding-right:20px;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="250">
+  </td>
 
   <!-- Ce que je fais -->
-  <div style="flex:0 0 300px; margin-right:20px; min-width:300px;">
+  <td valign="top" style="padding-right:20px;">
     <h2>⚡ Ce que je fais</h2>
     🎯 <b>Full Stack JavaScript</b><br>
     Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
@@ -60,10 +59,10 @@
     🏗️ <b>Architecture & Tests</b><br>
     Clean code, CI, TDD et patterns<br>
     Structures maintenables et scalables
-  </div>
+  </td>
 
   <!-- Stack Technique -->
-  <div style="flex:0 0 300px; min-width:300px;">
+  <td valign="top">
     <h2>🛠️ Stack Technique</h2>
     🎨 <b>Frontend</b><br>
     HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
@@ -74,9 +73,10 @@
     🧰 <b>Outils & DevOps</b><br>
     Git, Docker, Postman, Vercel, ChatGPT<br>
     Automatisation et intégration continue
-  </div>
+  </td>
+</tr>
+</table>
 
-</div>
 
 ---
 <!-- 📈 Stats GitHub -->
