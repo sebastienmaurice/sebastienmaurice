@@ -35,8 +35,8 @@
 
 <!-- ⚡ SECTION 2 — CROCO À GAUCHE -->
 <div>
-  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" target="_blank" rel="noopener noreferrer nofollow">
-    <img align="left" width="30%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/dundee-croco-profil-left-1.png" style="max-width:160px; margin-right:20px;">
+  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" target="_blank" rel="noopener noreferrer nofollow">
+    <img align="left" width="30%" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" style="max-width:160px; margin-right:20px;">
   </a>
 
   <div align="center">
