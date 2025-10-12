@@ -41,7 +41,7 @@
 
 ---
 
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — 3 COLONNES AÉRÉES -->
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — 3 COLONNES SIMPLES -->
 <table align="center" cellspacing="30">
 <tr>
   <!-- Croco -->
@@ -52,6 +52,7 @@
   <!-- Ce que je fais -->
   <td align="left" valign="top" width="37%">
     <b>⚡ Ce que je fais</b><br><br>
+
     🎯 <b>Full Stack JavaScript</b><br>
     Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
     Projets complets, SPA et outils métiers<br><br>
@@ -68,6 +69,7 @@
   <!-- Stack Technique -->
   <td align="left" valign="top" width="38%">
     <b>🛠️ Stack Technique</b><br><br>
+
     🎨 <b>Frontend</b><br>
     HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
     Interfaces modernes et réactives<br><br>
@@ -82,7 +84,6 @@
   </td>
 </tr>
 </table>
-
 
 ---
 <!-- 📈 Stats GitHub -->
