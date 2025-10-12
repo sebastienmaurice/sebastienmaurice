@@ -101,8 +101,6 @@
   </p>
 </div>
 
----
-
 <!-- 🎓 Parcours -->
 <div align="center">
   <h2>🎓 Parcours</h2>
@@ -114,8 +112,6 @@
 🏆 <b>Certification RNCP Niveau 5</b> — <i>Développeur Web & Web Mobile</i><br>
 💼 <b>Expérience freelance</b> — Intégration WordPress / Prestashop
 </p>
-
----
 
 <!-- 💡 Philosophie -->
 <div align="center">
