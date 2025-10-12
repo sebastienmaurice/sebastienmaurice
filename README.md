@@ -40,64 +40,48 @@
 </div>
 
 ---
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — CROCO À GAUCHE -->
-<div>
-  <!-- Croco à gauche -->
-  <img 
-    align="left" 
-    src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
-    width="200" 
-    style="margin-right:20px; margin-top:0;"
-    alt="Croco Dundee">
-
-  <!-- Titre et sections -->
-  <h2>⚡ Ce que je fais & 🛠️ Stack Technique</h2>
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — 3 COLONNES -->
+<table align="center" cellspacing="20">
+<tr>
+  <!-- Croco -->
+  <td align="center" valign="top" width="25%">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="150" alt="Croco Dundee">
+  </td>
 
   <!-- Ce que je fais -->
-  <p>
+  <td align="left" valign="top" width="37%">
+    <b>⚡ Ce que je fais</b><br><br>
     🎯 <b>Full Stack JavaScript</b><br>
     Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-    Projets complets, SPA et outils métiers
-  </p>
-  <br>
+    Projets complets, SPA et outils métiers<br><br>
 
-  <p>
     🤖 <b>Automatisation & IA</b><br>
     Copilot / ChatGPT / Workflows<br>
-    Scripts, bots et intégrations IA
-  </p>
-  <br>
+    Scripts, bots et intégrations IA<br><br>
 
-  <p>
     🏗️ <b>Architecture & Tests</b><br>
     Clean code, CI, TDD et patterns<br>
     Structures maintenables et scalables
-  </p>
-  <br>
+  </td>
 
   <!-- Stack Technique -->
-  <p>
+  <td align="left" valign="top" width="38%">
+    <b>🛠️ Stack Technique</b><br><br>
     🎨 <b>Frontend</b><br>
     HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
-    Interfaces modernes et réactives
-  </p>
-  <br>
+    Interfaces modernes et réactives<br><br>
 
-  <p>
     ⚙️ <b>Backend</b><br>
     Node.js, Express, PostgreSQL, REST, GraphQL<br>
-    API robustes et performantes
-  </p>
-  <br>
+    API robustes et performantes<br><br>
 
-  <p>
     🧰 <b>Outils & DevOps</b><br>
     Git, Docker, Postman, Vercel, ChatGPT<br>
     Automatisation et intégration continue
-  </p>
+  </td>
+</tr>
+</table>
 
-  <div style="clear:both;"></div>
-</div>
 
 <!-- 📈 Stats GitHub -->
 <div align="center">
