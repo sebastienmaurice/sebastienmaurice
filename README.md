@@ -143,6 +143,11 @@ const developer = {
 
 ---
 <!-- 🌐 Expérience freelance passée - CMS / E-commerce -->
+<div align="center">
+  <h2>🌐 Expérience freelance passée - CMS / E-commerce</h2>
+  <hr style="width:60%; border:0.5px solid #30363d;">
+</div>
+
 <!-- 🌟 Miniatures horizontales compatibles GitHub -->
 <table align="center" cellspacing="20">
   <tr>
