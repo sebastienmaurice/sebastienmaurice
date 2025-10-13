@@ -123,10 +123,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
            width="95%" alt="Stats GitHub">
     </p>
-                <!-- ✨ TROPHÉES GITHUB - Affiche des badges pour commits, étoiles, followers, etc. -->
-    <p align="center" style="margin-bottom:15px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=sebastienmaurice&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" 
-           width="95%" alt="Trophées GitHub"></p>
         <!-- Streak -->
     <p align="center" style="margin-bottom:15px;">
       <img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
