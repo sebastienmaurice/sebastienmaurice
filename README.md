@@ -114,11 +114,11 @@
   ---
 
 <!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
-<table align="center" cellspacing="0" cellpadding="0" width="100%">
+<table align="center" cellspacing="0" cellpadding="0">
 <tr>
 
   <!-- Colonne gauche : Stats GitHub -->
-  <td valign="top" width="70%" style="padding-right:20px;">
+  <td valign="top" width="60%" style="padding-right:20px;">
     <h2 align="center">📈 Statistiques GitHub</h2>
     <!-- Stats principales -->
     <p align="center" style="margin-bottom:15px;">
@@ -133,7 +133,7 @@
   </td>
 
   <!-- Colonne droite : Badges + Croco -->
-  <td valign="top" width="30%" align="center">
+  <td valign="top" width="40%" align="center">
     <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
