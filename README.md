@@ -95,15 +95,18 @@
 
 ---
 
-<td valign="top" width="100%" align="center">
-
-  <!-- Titre des badges avec Croco -->
-  <h2 style="margin-bottom:15px;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/good-croco.png" 
-         width="40" alt="Croco"> Mes mini-badges
-  </h2>
-
-  <!-- 💎 Mini badges alignés horizontalement -->
+<div align="center"> <!-- Ce div centre le tableau entier -->
+  <table width="100%"> <!-- Ce tableau prend toute la largeur disponible -->
+    <tr>
+      <!-- Tes autres cellules de tableau ici (par exemple, pour le texte d'en-tête et le crocodile) -->
+            <!-- Puis, la section que tu veux centrer -->
+      <td valign="top" width="100%" align="center"> 
+        <!-- Titre des badges avec Croco -->
+        <h2 style="margin-bottom:15px;">
+          <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/good-croco.png" 
+               width="40" alt="Croco"> Mes mini-badges
+        </h2>
+        <!-- 💎 Mini badges alignés horizontalement -->
   <div style="display:flex; justify-content:center; align-items:center; gap:2em; flex-wrap:wrap; margin:25px 0;">
     <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" />
     <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" />
@@ -111,10 +114,12 @@
     <img src="https://img.shields.io/badge/Stars-37-yellow?style=for-the-badge&logo=starship" alt="Stars" />
     <img src="https://img.shields.io/badge/Commits-1.2k-purple?style=for-the-badge&logo=git" alt="Commits" />
     <img src="https://img.shields.io/badge/Contributions-2.5k%2B-informational?style=for-the-badge&logo=github" alt="Contributions" /> <!-- NOUVEAU BADGE -->
-  </div>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-</td>
-  
   ---
 
 <!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
