@@ -163,8 +163,7 @@
   </p>
 
 </td>
-
-
+</tr> </table>
 ---
 
 <!-- 📊 Activité récente -->
