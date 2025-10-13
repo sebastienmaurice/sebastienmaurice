@@ -146,8 +146,7 @@
     <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
-    
-    <!-- Section Actuellement -->
+        <!-- Section Actuellement -->
     <h3>🎯 Actuellement</h3>
     <ul style="text-align:left; display:inline-block; margin:0;">
       <li>🔭 Je travaille sur des projets <b>Full Stack JavaScript</b></li>
