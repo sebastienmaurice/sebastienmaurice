@@ -42,43 +42,56 @@
 
 ---
 
-<!-- Section Stack Technique -->
-<h2 align="center">🛠️ Stack Technique</h2>
-
-<table align="center">
+<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — TABLE 100% GitHub -->
+<table align="center" cellspacing="0" cellpadding="0">
 <tr>
-  <!-- Frontend -->
-  <td width="33%" valign="top">
-    <h3 align="center">🎨 Frontend</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+  <!-- Croco -->
+  <td valign="top" style="padding-right:20px;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="250" alt="Croco Dundee">
+  </td>
+
+  <!-- Ce que je fais -->
+  <td valign="top" style="padding-right:20px;">
+    <h2>⚡ Ce que je fais</h2>
+    <p style="margin:5px 0">
+      🎯 <b>Full Stack JavaScript</b><br>
+      Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
+      Projets complets, SPA et outils métiers
+    </p>
+    <p style="margin:5px 0">
+      🤖 <b>Automatisation & IA</b><br>
+      Copilot / ChatGPT / Workflows<br>
+      Scripts, bots et intégrations IA
+    </p>
+    <p style="margin:5px 0">
+      🏗️ <b>Architecture & Tests</b><br>
+      Clean code, CI, TDD et patterns<br>
+      Structures maintenables et scalables
     </p>
   </td>
-  
-  <!-- Backend -->
-  <td width="33%" valign="top">
-    <h3 align="center">⚙️ Backend</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+  <!-- Stack Technique -->
+  <td valign="top">
+    <h2>🛠️ Stack Technique</h2>
+    <p style="margin:5px 0">
+      🎨 <b>Frontend</b><br>
+      HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
+      Interfaces modernes et réactives
     </p>
-  </td>
-  
-  <!-- Outils -->
-  <td width="33%" valign="top">
-    <h3 align="center">🧰 Outils</h3>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+    <p style="margin:5px 0">
+      ⚙️ <b>Backend</b><br>
+      Node.js, Express, PostgreSQL, REST, GraphQL<br>
+      API robustes et performantes
+    </p>
+    <p style="margin:5px 0">
+      🧰 <b>Outils & DevOps</b><br>
+      Git, Docker, Postman, Vercel, ChatGPT<br>
+      Automatisation et intégration continue
     </p>
   </td>
 </tr>
 </table>
+
 
 ---
 
