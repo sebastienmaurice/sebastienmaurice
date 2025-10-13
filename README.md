@@ -143,7 +143,7 @@
   <!-- Colonne droite : Croco + ICÔNES TECH STACK -->
   <td valign="top" width="40%" align="center">
     <!-- Croco -->
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/flash-croco.png" 
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco.png" 
          width="250" alt="Croco Dundee">
             <!-- 🎨 ICÔNES TECH STACK - Icônes colorées de tes technos -->
     <p align="center" style="margin-top:20px;">
