@@ -38,24 +38,6 @@
 *   🤖 **Next Level :** J'intègre l'IA et l'automatisation pour booster la productivité.
 *   🌐 **Full Stack :** Développement de SPA modernes, API REST & GraphQL.
 
-### 🎯 Ma philosophie
-
-> 💡 *"Je conçois des architectures robustes en appliquant le TDD, le CI/CD et l'automatisation par l'IA."*
-
-*   🌱 Actuellement en train d'approfondir l'écosystème **Svelte** et **l'IA générative**.
-*   💻 J'explore les projets open source et les cas d'usage réels.
-
----
-
-### ⚡ Ce que je fais
-
-*   ✨ **Apprentissage continu :** Toujours en veille technologique.
-*   🌱 **Stack actuelle :** Je perfectionne Svelte, Node.js, PostgreSQL et Docker.
-*   🏗️ **Architecture :** Conception de systèmes robustes, scalables et maintenables.
-*   🧪 **Best Practices :** TDD, CI/CD et Clean Code sont mes standards.
-*   🤖 **Next Level :** J'intègre l'IA et l'automatisation pour booster la productivité.
-*   🌐 **Full Stack :** Développement de SPA modernes, API REST & GraphQL.
-
 ---
 
 <!-- ⚡ Ce que je fais + 🛠️ Stack Technique — TABLE 100% GitHub -->
