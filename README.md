@@ -139,20 +139,17 @@
       <img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
            width="95%" alt="Streak Stats">
     </p>
-    
-    <!-- ✨ TROPHÉES GITHUB - Affiche des badges pour commits, étoiles, followers, etc. -->
+        <!-- ✨ TROPHÉES GITHUB - Affiche des badges pour commits, étoiles, followers, etc. -->
     <p align="center" style="margin-bottom:15px;">
       <img src="https://github-profile-trophy.vercel.app/?username=sebastienmaurice&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" 
            width="95%" alt="Trophées GitHub">
     </p>
-    
-    <!-- 📊 CARTE RÉSUMÉ DU PROFIL - Vue d'ensemble de l'activité -->
+        <!-- 📊 CARTE RÉSUMÉ DU PROFIL - Vue d'ensemble de l'activité -->
     <!-- <p align="center" style="margin-bottom:15px;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebastienmaurice&theme=tokyonight" 
            width="95%" alt="Résumé du profil">
     </p> -->
-    
-    <!-- ⏰ TEMPS PRODUCTIF - Heures de contribution par jour -->
+        <!-- ⏰ TEMPS PRODUCTIF - Heures de contribution par jour -->
     <!-- <p align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sebastienmaurice&theme=tokyonight" 
            width="95%" alt="Temps productif">
