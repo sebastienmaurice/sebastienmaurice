@@ -152,16 +152,10 @@
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
            <!-- Liste des compétences -->
-        <ul>
-          <li>✨ Apprentissage et amélioration continue</li>
-          <li>🌱 Svelte, Node.js, PostgreSQL, Docker, IA</li>
-          <li>💻 Projets open source et apps réelles</li>
-          <li>🏗️ Architectures robustes et scalables</li>
-          <li>🤖 IA et automatisation pour gagner en productivité</li>
-        </ul>
+
     <!-- 🎯 Actuellement -->
 <h2 align="center">🎯 Actuellement</h2>
-<p align="center">
+<p align="left">
   🔭 Je travaille sur des projets <b>Full Stack JavaScript</b><br>
   🌱 J'apprends <b>TypeScript avancé & architecture microservices</b><br>
   👯 Ouvert aux collaborations sur des projets <b>open source</b><br>
