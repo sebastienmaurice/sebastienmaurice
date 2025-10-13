@@ -37,6 +37,12 @@
 
 ---
 
+<!-- Croco au-dessus -->
+<div align="center" style="margin-bottom:15px;">
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="150" alt="Croco Dundee">
+</div>
+
+<!-- ================== CE QUE JE FAIS + STACK 2 COLONNES ================== -->
 <table width="100%">
 <tr valign="top">
 
