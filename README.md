@@ -139,11 +139,6 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
            width="95%" alt="Streak Stats">
     </p>
-    <!-- Langages les plus utilisés -->
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
-           width="95%" alt="Langages les plus utilisés">
-    </p>
   </td>
 
   <!-- Colonne droite : Croco -->
