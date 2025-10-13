@@ -31,7 +31,7 @@
         <!-- Image du crocodile alignée à droite -->
         <img 
           width="180" 
-          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
+          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-2.png" 
           alt="Crocodile Dundee">
       </td>
     </tr>
