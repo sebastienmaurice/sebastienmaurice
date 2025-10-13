@@ -147,11 +147,7 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebastienmaurice&theme=tokyonight" 
            width="95%" alt="Résumé du profil">
     </p> -->
-        <!-- ⏰ TEMPS PRODUCTIF - Heures de contribution par jour -->
- <p align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sebastienmaurice&theme=tokyonight" 
-           width="95%" alt="Temps productif">
-    </p> -->
+
   </td>
 
   <!-- Colonne droite : Croco + Actuellement -->
