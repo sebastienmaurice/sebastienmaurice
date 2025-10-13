@@ -1,7 +1,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td valign="top" width="50%">
+      <td valign="top" width="70%">
         <!-- Titre avec emoji animé -->
         <h1>
           <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
@@ -27,10 +27,10 @@
 *   🤖 J'intègre l'IA et l'automatisation pour gagner en productivité
 *   🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)
       </td>
-      <td valign="top" align="right" width="50%">
+      <td valign="top" align="right" width="30%">
         <!-- Image du crocodile alignée à droite -->
         <img 
-          width="180" 
+          width="350" 
           src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" 
           alt="Crocodile Dundee">
       </td>
