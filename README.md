@@ -7,7 +7,7 @@
           <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
                width="45" 
                alt="emoji-blob">
-          Salut, moi c'est <strong>Sebastien Maurice</strong> 👋
+          Helo, moi c'est <strong>Sebastien</strong>
         </h1>
         <!-- Sous-titre -->
         <h3>
