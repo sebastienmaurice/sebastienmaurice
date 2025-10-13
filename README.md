@@ -1,166 +1,110 @@
-<!-- 💻 Profil GitHub Pro - Sebastien Maurice -->
-<!-- Version harmonisée & responsive - 2025 -->
-
-<div>
-  <!-- Image à droite -->
-  <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" target="_blank" rel="noopener noreferrer nofollow">
-    <img 
-      align="right" 
-      width="32%" 
-      src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
-      style="max-width:180px; display:block; margin-top:-20px;">
-  </a>
-
-  <!-- Titre principal -->
-  <h1>
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-         alt="emoji-blob" 
-         style="width:45px; vertical-align:middle; margin-right:10px;">
-    Salut, moi c’est <strong>Sebastien Maurice</strong> 👋
-  </h1>
-
-  <h3>
-    🚀 Développeur Full Stack JavaScript — Passionné par l’IA, l’automatisation et les apps modernes.
-  </h3>
-
-  <p>
-    💻 Je conçois des applications web performantes et scalables — de la SPA à l’API complète.<br>
-    💡 Amoureux du clean code, de l’efficacité et de l’apprentissage continu.
-  </p>
-
-  <ul>
-    <li>✨ Toujours en apprentissage et amélioration continue</li>
-    <li>🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l’IA</li>
-    <li>💻 J’explore les projets open source et les applications réelles</li>
-    <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
-    <li>🧪 J’applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
-    <li>🤖 J’intègre l’IA et l’automatisation pour gagner en productivité</li>
-    <li>🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)</li>
-  </ul>
-</div>
-
----
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — TABLE 100% GitHub -->
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-  <!-- Croco -->
-  <td valign="top" style="padding-right:20px;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="250" alt="Croco Dundee">
-  </td>
-
-  <!-- Ce que je fais -->
-  <td valign="top" style="padding-right:20px;">
-    <h2>⚡ Ce que je fais</h2>
-    <p style="margin:5px 0">
-      🎯 <b>Full Stack JavaScript</b><br>
-      Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-      Projets complets, SPA et outils métiers
-    </p>
-    <p style="margin:5px 0">
-      🤖 <b>Automatisation & IA</b><br>
-      Copilot / ChatGPT / Workflows<br>
-      Scripts, bots et intégrations IA
-    </p>
-    <p style="margin:5px 0">
-      🏗️ <b>Architecture & Tests</b><br>
-      Clean code, CI, TDD et patterns<br>
-      Structures maintenables et scalables
-    </p>
-  </td>
-
-  <!-- Stack Technique -->
-  <td valign="top">
-    <h2>🛠️ Stack Technique</h2>
-    <p style="margin:5px 0">
-      🎨 <b>Frontend</b><br>
-      HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
-      Interfaces modernes et réactives
-    </p>
-    <p style="margin:5px 0">
-      ⚙️ <b>Backend</b><br>
-      Node.js, Express, PostgreSQL, REST, GraphQL<br>
-      API robustes et performantes
-    </p>
-    <p style="margin:5px 0">
-      🧰 <b>Outils & DevOps</b><br>
-      Git, Docker, Postman, Vercel, ChatGPT<br>
-      Automatisation et intégration continue
-    </p>
-  </td>
-</tr>
-</table>
-
----
-<!-- 📈 Statistiques GitHub — 3 COLONNES (Micro-badges / Stats / Croco) -->
-<table align="center" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-  <!-- Micro-badges -->
-  <td valign="top" width="10%" align="center">
-    <table cellspacing="2" cellpadding="0">
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/Repos-XX-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repos">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/Followers-XX-green?style=for-the-badge&logo=github&logoColor=white" alt="Followers">
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <img src="https://img.shields.io/badge/Following-XX-orange?style=for-the-badge&logo=github&logoColor=white" alt="Following">
-        </td>
-      </tr>
-    </table>
-  </td>
-
-  <!-- Stats principales -->
-  <td valign="top" width="60%" style="padding:0 20px;">
-    <h2>📈 Statistiques GitHub</h2>
-    <p style="margin:5px 0">
-      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%">
-    </p>
-  </td>
-
-  <!-- Croco -->
-  <td valign="top" width="30%" align="center">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="220" alt="Croco Dundee">
-  </td>
-</tr>
-</table>
----
-
-<!-- 🎓 Parcours — 2 COLONNES 20% / 80% -->
-<table align="center" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-  <!-- Croco -->
-  <td valign="top" width="20%" style="padding-right:10px;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-diplome.png" 
-         width="120" alt="Croco Diplômé">
-  </td>
-
-  <!-- Parcours -->
-  <td valign="top" width="80%">
-    <h2>🎓 Parcours</h2>
-    <p style="line-height:1.6;">
-      🧭 <b>Formé chez <a href="https://oclock.io" style="color:#58a6ff;">O’clock</a></b> — Spécialisation <i>Full Stack JavaScript</i><br>
-      🏆 <b>Certification RNCP Niveau 5</b> — <i>Développeur Web & Web Mobile</i><br>
-      💼 <b>Expérience freelance</b> — Intégration WordPress / Prestashop
-    </p>
-  </td>
-</tr>
-</table>
-
----
-<!-- 💡 Philosophie -->
+<!-- En-tête avec image à droite -->
 <div align="center">
-  <h2>💡 Ma philosophie</h2>
-  <hr style="width:60%; border:0.5px solid #30363d;">
+  
+<!-- Image du crocodile alignée à droite -->
+<img 
+  align="right" 
+  width="180" 
+  src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
+  alt="Crocodile Dundee">
+
+<!-- Titre avec emoji animé -->
+<h1>
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
+       width="45" 
+       alt="emoji-blob">
+  Salut, moi c'est <strong>Sebastien Maurice</strong> 👋
+</h1>
+
+<!-- Sous-titre -->
+<h3>
+  🚀 Développeur Full Stack JavaScript — Passionné par l'IA, l'automatisation et les apps modernes.
+</h3>
+
 </div>
 
-<pre style="background:#161b22; color:#c9d1d9; padding:15px; border-radius:8px; text-align:left; width:80%; margin:auto; font-size:14px;">
-<code>
+<!-- Présentation -->
+<p align="center">
+  💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
+  💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
+</p>
+
+<!-- Liste des compétences -->
+<ul>
+  <li>✨ Toujours en apprentissage et amélioration continue</li>
+  <li>🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA</li>
+  <li>💻 J'explore les projets open source et les applications réelles</li>
+  <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
+  <li>🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
+  <li>🤖 J'intègre l'IA et l'automatisation pour gagner en productivité</li>
+  <li>🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)</li>
+</ul>
+
+---
+
+<!-- Section Stack Technique -->
+<h2 align="center">🛠️ Stack Technique</h2>
+
+<table align="center">
+<tr>
+  <!-- Frontend -->
+  <td width="33%" valign="top">
+    <h3 align="center">🎨 Frontend</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte">
+    </p>
+  </td>
+  
+  <!-- Backend -->
+  <td width="33%" valign="top">
+    <h3 align="center">⚙️ Backend</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+    </p>
+  </td>
+  
+  <!-- Outils -->
+  <td width="33%" valign="top">
+    <h3 align="center">🧰 Outils</h3>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+    </p>
+  </td>
+</tr>
+</table>
+
+---
+
+<!-- Statistiques GitHub -->
+<h2 align="center">📈 Statistiques GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+       width="49%" 
+       alt="Stats GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
+       width="49%" 
+       alt="Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" 
+       width="49%" 
+       alt="Langages les plus utilisés">
+</p>
+
+---
+
+<!-- Philosophie de développement -->
+<h2 align="center">💡 Ma philosophie</h2>
+```javascript
 const developer = {
   name: "Sebastien Maurice",
   mindset: "Apprendre en faisant 🛠️",
@@ -168,55 +112,3 @@ const developer = {
   tools: ["IA 🤖", "Documentation 📚", "Communauté 🌐", "CMS 🖥️"],
   goal: "Créer de la valeur avec du code et des projets utiles 🚀"
 };
-</code>
-</pre>
-
----
-<!-- 🌐 Expérience freelance passée - CMS / E-commerce -->
-<div align="center">
-  <h2>🌐 Expérience freelance passée - CMS / E-commerce</h2>
-  <hr style="width:60%; border:0.5px solid #30363d;">
-</div>
-
-<!-- 🌟 Miniatures horizontales compatibles GitHub -->
-<table align="center" cellspacing="20">
-  <tr>
-    <td>
-      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" width="200" style="border-radius:12px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" width="200" style="border-radius:12px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" width="200" style="border-radius:12px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" width="200" style="border-radius:12px;">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" width="200" style="border-radius:12px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/alternativ.jpg" width="200" style="border-radius:12px;">
-      </a>
-    </td>
-    <td>
-      <a href="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg">
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/galaxy.jpg" width="200" style="border-radius:12px;">
-      </a>
-    </td>
-  </tr>
-</table>
