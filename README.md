@@ -18,6 +18,14 @@
           💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
           💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
         </p>
+        <!-- Liste des compétences (convertie en Markdown pour plus de lisibilité) -->
+*   ✨ Toujours en apprentissage et amélioration continue
+*   🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA
+*   💻 J'explore les projets open source et les applications réelles
+*   🏗️ Je conçois des architectures robustes, scalables et maintenables
+*   🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code
+*   🤖 J'intègre l'IA et l'automatisation pour gagner en productivité
+*   🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)
       </td>
       <td valign="top" align="right" width="30%">
         <!-- Image du crocodile alignée à droite -->
@@ -30,14 +38,6 @@
   </table>
 </div>
 
-<!-- Liste des compétences (convertie en Markdown pour plus de lisibilité) -->
-*   ✨ Toujours en apprentissage et amélioration continue
-*   🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA
-*   💻 J'explore les projets open source et les applications réelles
-*   🏗️ Je conçois des architectures robustes, scalables et maintenables
-*   🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code
-*   🤖 J'intègre l'IA et l'automatisation pour gagner en productivité
-*   🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)
 
 ---
 
