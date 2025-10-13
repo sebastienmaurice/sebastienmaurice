@@ -111,17 +111,6 @@
 
 ---
 
-<!-- 🎯 Actuellement -->
-<h2 align="center">🎯 Actuellement</h2>
-<p align="center">
-  🔭 Je travaille sur des projets <b>Full Stack JavaScript</b><br>
-  🌱 J'apprends <b>TypeScript avancé & architecture microservices</b><br>
-  👯 Ouvert aux collaborations sur des projets <b>open source</b><br>
-  💬 Demande-moi des conseils sur <b>Svelte, Node.js, PostgreSQL</b>
-</p>
-
----
-
 <!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
 <table align="center" cellspacing="0" cellpadding="0">
 <tr>
