@@ -149,14 +149,6 @@
     <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
-        <!-- Section Actuellement -->
-    <h3>🎯 Actuellement</h3>
-    <ul style="text-align:left; display:inline-block; margin:0;">
-      <li>🔭 Je travaille sur des projets <b>Full Stack JavaScript</b></li>
-      <li>🌱 J'apprends <b>TypeScript avancé & architecture microservices</b></li>
-      <li>👯 Ouvert aux collaborations sur des projets <b>open source</b></li>
-      <li>💬 Demande-moi des conseils sur <b>Svelte, Node.js, PostgreSQL</b></li>
-    </ul>
         <!-- 🎨 ICÔNES TECH STACK - Icônes colorées de tes technos -->
     <p align="center" style="margin-top:20px;">
       <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,docker,git,html,css,sass" alt="Tech Stack" />
