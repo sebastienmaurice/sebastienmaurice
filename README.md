@@ -19,15 +19,13 @@
           💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
         </p>
         <!-- Liste des compétences -->
-        <ul>
-          <li>✨ Toujours en apprentissage et amélioration continue</li>
-          <li>🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA</li>
-          <li>💻 J'explore les projets open source et les applications réelles</li>
-          <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
-          <li>🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
-          <li>🤖 J'intègre l'IA et l'automatisation pour gagner en productivité</li>
-          <li>🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)</li>
-        </ul>
+<ul>
+  <li>✨ Apprentissage et amélioration continue</li>
+  <li>🌱 Svelte, Node.js, PostgreSQL, Docker, IA</li>
+  <li>💻 Projets open source et apps réelles</li>
+  <li>🏗️ Architectures robustes et scalables</li>
+  <li>🤖 IA et automatisation pour gagner en productivité</li>
+</ul>
       </td>
       <td valign="top" align="right" width="30%">
         <!-- Image du crocodile alignée à droite -->
