@@ -98,12 +98,6 @@
 <div align="center"> <!-- Ce div centre le tableau entier -->
   <table width="100%"> <!-- Ce tableau prend toute la largeur disponible -->
     <tr>
-      <!-- Tes autres cellules de tableau ici (par exemple, pour le texte d'en-tête et le crocodile) -->
-  <!-- Titre des badges avec Croco -->
-  <h2 style="margin-bottom:15px;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/good-croco.png" 
-         width="40" alt="Croco"> Mes mini-badges
-  </h2>
         <!-- 💎 Mini badges alignés horizontalement -->
   <div style="display:flex; justify-content:center; align-items:center; gap:2em; flex-wrap:wrap; margin:25px 0;">
     <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" />
