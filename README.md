@@ -140,27 +140,30 @@
            width="95%" alt="Trophées GitHub"></p>
   </td>
 
-  <!-- Colonne droite : Croco + ICÔNES TECH STACK -->
-  <td valign="top" width="40%" align="center">
-    <!-- 🎯 Actuellement -->
-<h2 align="center">🎯 Actuellement</h2>
-<p align="center">
-  🔭 Je travaille sur des projets <b>Full Stack JavaScript</b><br>
-  🌱 J'apprends <b>TypeScript avancé & architecture microservices</b><br>
-  👯 Ouvert aux collaborations sur des projets <b>open source</b><br>
-  💬 Demande-moi des conseils sur <b>Svelte, Node.js, PostgreSQL</b>
-</p>
-    <!-- Croco -->
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco.png" 
-         width="250" alt="Croco Dundee">
-            <!-- 🎨 ICÔNES TECH STACK - Icônes colorées de tes technos -->
-    <p align="center" style="margin-top:20px;">
-      <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,docker,git,html,css,sass" alt="Tech Stack" />
-    </p>
-  </td>
+<!-- Colonne droite : Croco + ICÔNES TECH STACK -->
+<td valign="top" width="40%" align="center">
 
-</tr>
-</table>
+  <!-- 🎯 Actuellement -->
+  <h2 align="center">🎯 Actuellement</h2>
+
+  <ul align="left" style="list-style-type: '✨ '; padding-left: 1.5em; text-align:left; margin: 0 auto; display:inline-block;">
+    <li>Projets <b>Full Stack JavaScript</b></li>
+    <li>Apprentissage de <b>TypeScript & microservices</b></li>
+    <li>Collaborations <b>open source</b></li>
+    <li>Conseils sur <b>Svelte, Node.js, PostgreSQL</b></li>
+  </ul>
+
+  <!-- Croco -->
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco.png" 
+       width="250" alt="Croco Dundee" style="margin-top:20px;">
+
+  <!-- 🎨 ICÔNES TECH STACK -->
+  <p align="center" style="margin-top:20px;">
+    <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,docker,git,html,css,sass" alt="Tech Stack" />
+  </p>
+
+</td>
+
 
 ---
 
