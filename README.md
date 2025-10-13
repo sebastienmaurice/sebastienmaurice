@@ -1,46 +1,46 @@
-<!-- En-tête avec image à droite -->
+<!-- ================== HEADER ================== -->
 <div align="center">
-  
-<!-- Image du crocodile alignée à droite -->
-<img 
-  align="right" 
-  width="180" 
-  src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
-  alt="Crocodile Dundee">
 
-<!-- Titre avec emoji animé -->
-<h1>
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-       width="45" 
-       alt="emoji-blob">
-  Salut, moi c'est <strong>Sebastien Maurice</strong> 👋
-</h1>
+# 👋 Salut, moi c’est Sebastien Maurice
+### Développeur full-stack | Passionné de tech, musique & nature
 
-<!-- Sous-titre -->
-<h3>
-  🚀 Développeur Full Stack JavaScript — Passionné par l'IA, l'automatisation et les apps modernes.
-</h3>
+<!-- ===== Badges ronds avec effet hover ===== -->
+<table>
+<tr>
+<td align="center">
+  <b>💻 Compétences</b><br>
+  <a href="#"><img src="https://img.shields.io/badge/React-20232F?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</td>
+<td align="center">
+  <b>📈 Stats GitHub</b><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=radical&count_private=true&hide_title=true" width="220"/>
+</td>
+<td align="center">
+  <b>🌐 Top Langages</b><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=radical" width="220"/>
+</td>
+</tr>
+</table>
 
 </div>
 
-<!-- Présentation -->
-<p align="center">
-  💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
-  💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
-</p>
+---
 
-<!-- Liste des compétences -->
-<ul>
-  <li>✨ Toujours en apprentissage et amélioration continue</li>
-  <li>🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA</li>
-  <li>💻 J'explore les projets open source et les applications réelles</li>
-  <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
-  <li>🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
-  <li>🤖 J'intègre l'IA et l'automatisation pour gagner en productivité</li>
-  <li>🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)</li>
-</ul>
+## 👨‍💻 Qui suis-je ?
+Développeur full-stack, curieux de tout et passionné par l'IA, les jeux vidéo, et le développement d'expériences web immersives.
 
 ---
+
+## 🛠️ Compétences techniques
+| Frontend | Backend | Autres |
+|----------|--------|-------|
+| React, Vue | Node.js, Express | Git, GitHub, Docker |
+| HTML, CSS, JS | SQL, MongoDB | CI/CD, Vercel, Netlify |
+
+---
+
 
 <!-- ⚡ Ce que je fais + 🛠️ Stack Technique — TABLE 100% GitHub -->
 <table align="center" cellspacing="0" cellpadding="0">
