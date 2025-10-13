@@ -14,6 +14,14 @@
          Passionné par l'IA, l'automatisation et les apps modernes.<br>
          Je conçois des applications web performantes et scalables.
       </p>
+      ### ⚡ Ce que je fais
+
+*   ✨ **Apprentissage continu :** Toujours en veille technologique.
+*   🌱 **Stack actuelle :** Je perfectionne Svelte, Node.js, PostgreSQL et Docker.
+*   🏗️ **Architecture :** Conception de systèmes robustes, scalables et maintenables.
+*   🧪 **Best Practices :** TDD, CI/CD et Clean Code sont mes standards.
+*   🤖 **Next Level :** J'intègre l'IA et l'automatisation pour booster la productivité.
+*   🌐 **Full Stack :** Développement de SPA modernes, API REST & GraphQL.
     </td>
     <td valign="center" align="center" width="35%">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" width="160" alt="Sebastien avatar">
@@ -27,16 +35,6 @@
 
 </div>
 
----
-
-### ⚡ Ce que je fais
-
-*   ✨ **Apprentissage continu :** Toujours en veille technologique.
-*   🌱 **Stack actuelle :** Je perfectionne Svelte, Node.js, PostgreSQL et Docker.
-*   🏗️ **Architecture :** Conception de systèmes robustes, scalables et maintenables.
-*   🧪 **Best Practices :** TDD, CI/CD et Clean Code sont mes standards.
-*   🤖 **Next Level :** J'intègre l'IA et l'automatisation pour booster la productivité.
-*   🌐 **Full Stack :** Développement de SPA modernes, API REST & GraphQL.
 
 ---
 
