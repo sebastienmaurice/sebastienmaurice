@@ -152,7 +152,7 @@
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
            <!-- Liste des compétences -->
- </td>
+    
 <!-- 🎯 Actuellement -->
 <h2 align="center">🎯 Actuellement</h2>
 <p align="center">
@@ -161,6 +161,7 @@
   👯 Ouvert aux collaborations sur des projets <b>open source</b><br>
   💬 Demande-moi des conseils sur <b>Svelte, Node.js, PostgreSQL</b>
 </p>
+ </td>
 </tr>
 </table>
 
