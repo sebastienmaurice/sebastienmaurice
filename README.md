@@ -47,7 +47,7 @@
 <tr>
   <!-- Croco -->
   <td valign="top" style="padding-right:20px;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="250" alt="Croco Dundee">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="250" gap="5em" alt="Croco Dundee">
   </td>
 
   <!-- Ce que je fais -->
