@@ -135,10 +135,28 @@
            width="95%" alt="Stats GitHub">
     </p>
     <!-- Streak -->
-    <p align="center">
+    <p align="center" style="margin-bottom:15px;">
       <img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
            width="95%" alt="Streak Stats">
     </p>
+    
+    <!-- ✨ TROPHÉES GITHUB - Affiche des badges pour commits, étoiles, followers, etc. -->
+    <p align="center" style="margin-bottom:15px;">
+      <img src="https://github-profile-trophy.vercel.app/?username=sebastienmaurice&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" 
+           width="95%" alt="Trophées GitHub">
+    </p>
+    
+    <!-- 📊 CARTE RÉSUMÉ DU PROFIL - Vue d'ensemble de l'activité -->
+    <!-- <p align="center" style="margin-bottom:15px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sebastienmaurice&theme=tokyonight" 
+           width="95%" alt="Résumé du profil">
+    </p> -->
+    
+    <!-- ⏰ TEMPS PRODUCTIF - Heures de contribution par jour -->
+    <!-- <p align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sebastienmaurice&theme=tokyonight" 
+           width="95%" alt="Temps productif">
+    </p> -->
   </td>
 
   <!-- Colonne droite : Croco + Actuellement -->
@@ -146,7 +164,8 @@
     <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
-        <!-- Section Actuellement -->
+    
+    <!-- Section Actuellement -->
     <h3>🎯 Actuellement</h3>
     <ul style="text-align:left; display:inline-block; margin:0;">
       <li>🔭 Je travaille sur des projets <b>Full Stack JavaScript</b></li>
@@ -154,6 +173,11 @@
       <li>👯 Ouvert aux collaborations sur des projets <b>open source</b></li>
       <li>💬 Demande-moi des conseils sur <b>Svelte, Node.js, PostgreSQL</b></li>
     </ul>
+    
+    <!-- 🎨 ICÔNES TECH STACK - Icônes colorées de tes technos -->
+    <p align="center" style="margin-top:20px;">
+      <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,docker,git,html,css,sass" alt="Tech Stack" />
+    </p>
   </td>
 
 </tr>
@@ -163,10 +187,27 @@
 
 <!-- 📊 Activité récente -->
 <h2 align="center">📊 Activité récente</h2>
+
+<!-- 🐍 SNAKE ANIMATION - Mange tes contributions (nécessite GitHub Action) -->
+<!-- Pour activer : crée le fichier .github/workflows/snake.yml avec le workflow -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-dark.svg" 
+       alt="Snake animation" />
+</p> -->
+
+<!-- 📈 GRAPHIQUE D'ACTIVITÉ - Historique des contributions -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastienmaurice&theme=tokyo-night&hide_border=true" 
        width="95%" alt="Graphique d'activité">
 </p>
+
+<!-- 📅 CONTRIBUTIONS PAR MOIS/SEMAINE (Alternative au graphique) -->
+<!-- <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sebastienmaurice&theme=tokyonight" 
+       width="47%" alt="Repos par langage">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sebastienmaurice&theme=tokyonight" 
+       width="47%" alt="Langages de commits">
+</p> -->
 
 ---
 
