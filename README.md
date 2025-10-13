@@ -1,44 +1,29 @@
-<!-- En-tête avec image à droite -->
+<!-- ================== HEADER ================== -->
 <div align="center">
-  
-<!-- Image du crocodile alignée à droite -->
-<img 
-  align="right" 
-  width="180" 
-  src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
-  alt="Crocodile Dundee">
 
-<!-- Titre avec emoji animé -->
-<h1>
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-       width="45" 
-       alt="emoji-blob">
-  Salut, moi c'est <strong>Sebastien Maurice</strong> 👋
-</h1>
+# 👋 Salut, moi c’est Sebastien Maurice
+### Développeur full-stack | Passionné de tech, musique & nature
 
-<!-- Sous-titre -->
-<h3>
-  🚀 Développeur Full Stack JavaScript — Passionné par l'IA, l'automatisation et les apps modernes.
-</h3>
+<!-- ===== 3 premières sections alignées ===== -->
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+  ## 👨‍💻 Qui suis-je ?
+  Développeur full-stack, curieux de tout et passionné par l'IA, les jeux vidéo, et le développement web.
+</td>
+<td align="center" width="33%">
+  ## 🛠️ Compétences techniques
+  React, Vue, Node.js, Express, SQL, MongoDB, Git, Docker...
+</td>
+<td align="center" width="33%">
+  ## 📈 Statistiques GitHub
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=radical&count_private=true&hide_title=true" width="220"/>
+</td>
+</tr>
+</table>
 
 </div>
 
-<!-- Présentation -->
-<p align="center">
-  💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
-  💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
-</p>
-
-<!-- Liste des compétences -->
-<ul>
-  <li>✨ Toujours en apprentissage et amélioration continue</li>
-  <li>🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA</li>
-  <li>💻 J'explore les projets open source et les applications réelles</li>
-  <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
-  <li>🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
-  <li>🤖 J'intègre l'IA et l'automatisation pour gagner en productivité</li>
-  <li>🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)</li>
-</ul>
 
 ---
 
