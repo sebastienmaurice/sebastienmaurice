@@ -181,10 +181,9 @@
 <!-- 📊 Activité récente -->
 <h2 align="center">📊 Activité récente</h2>
 <!-- 🐍 SNAKE ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-dark.svg" 
-       alt="Snake animation" />
-</p>
+### 🐍 Mon activité GitHub
+![snake animation](https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/snake.svg)
+
 
 <!-- 📈 GRAPHIQUE D'ACTIVITÉ - Historique des contributions -->
 <p align="center">
