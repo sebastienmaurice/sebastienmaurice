@@ -1,40 +1,44 @@
+<!-- En-tête avec image à droite -->
 <div align="center">
+  
+<!-- Image du crocodile alignée à droite -->
+<img 
+  align="right" 
+  width="180" 
+  src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
+  alt="Crocodile Dundee">
 
-<table width="100%">  <!-- J'ai ajouté width="100%" ici -->
-  <tr>
-    <td valign="center" width="65%">
-      <h1>
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" width="35" alt="cool emoji">
-        Salut, c'est <strong>Sebastien Maurice</strong> 👋
-      </h1>
-      <h3>
-        🚀 Développeur Full Stack JS
-      </h3>
-      <p>
-         Passionné par l'IA, l'automatisation et les apps modernes.<br>
-         Je conçois des applications web performantes et scalables.
-      </p>
-      ### ⚡ Ce que je fais
+<!-- Titre avec emoji animé -->
+<h1>
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
+       width="45" 
+       alt="emoji-blob">
+  Salut, moi c'est <strong>Sebastien Maurice</strong> 👋
+</h1>
 
-*   ✨ **Apprentissage continu :** Toujours en veille technologique.
-*   🌱 **Stack actuelle :** Je perfectionne Svelte, Node.js, PostgreSQL et Docker.
-*   🏗️ **Architecture :** Conception de systèmes robustes, scalables et maintenables.
-*   🧪 **Best Practices :** TDD, CI/CD et Clean Code sont mes standards.
-*   🤖 **Next Level :** J'intègre l'IA et l'automatisation pour booster la productivité.
-*   🌐 **Full Stack :** Développement de SPA modernes, API REST & GraphQL.
-    </td>
-    <td valign="center" align="center" width="35%">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" width="160" alt="Sebastien avatar">
-    </td>
-  </tr>
-</table>
-
-<p>
-  Example: <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.</i>
-</p>
+<!-- Sous-titre -->
+<h3>
+  🚀 Développeur Full Stack JavaScript — Passionné par l'IA, l'automatisation et les apps modernes.
+</h3>
 
 </div>
 
+<!-- Présentation -->
+<p align="center">
+  💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
+  💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
+</p>
+
+<!-- Liste des compétences -->
+<ul>
+  <li>✨ Toujours en apprentissage et amélioration continue</li>
+  <li>🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA</li>
+  <li>💻 J'explore les projets open source et les applications réelles</li>
+  <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
+  <li>🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
+  <li>🤖 J'intègre l'IA et l'automatisation pour gagner en productivité</li>
+  <li>🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)</li>
+</ul>
 
 ---
 
