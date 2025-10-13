@@ -18,26 +18,26 @@
           💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
         </p>
         <!-- Liste des compétences -->
-<ul>
-  <li>✨ Apprentissage et amélioration continue</li>
-  <li>🌱 Svelte, Node.js, PostgreSQL, Docker, IA</li>
-  <li>💻 Projets open source et apps réelles</li>
-  <li>🏗️ Architectures robustes et scalables</li>
-  <li>🤖 IA et automatisation pour gagner en productivité</li>
-</ul>
+        <ul>
+          <li>✨ Apprentissage et amélioration continue</li>
+          <li>🌱 Svelte, Node.js, PostgreSQL, Docker, IA</li>
+          <li>💻 Projets open source et apps réelles</li>
+          <li>🏗️ Architectures robustes et scalables</li>
+          <li>🤖 IA et automatisation pour gagner en productivité</li>
+        </ul>
       </td>
       <td valign="top" align="right" width="40%">
         <!-- Image du crocodile alignée à droite -->
         <img 
-          width="500" 
+          width="350" 
           src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" 
           alt="Crocodile Dundee">
       </td>
     </tr>
   </table>
   <p>
-  <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.</i>
-</p>
+    <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.</i>
+  </p>
 </div>
 
 ---
@@ -62,7 +62,7 @@
     </ul>
     <p style="margin:5px 0">
       ⚡ <b>Automatisation & Productivité</b><br>
-      Intégration d’outils et workflows pour gagner en efficacité
+      Intégration d'outils et workflows pour gagner en efficacité
     </p>
     <p style="margin:5px 0">
       🏗️ <b>Architecture & Tests</b><br>
@@ -94,33 +94,33 @@
       <li>Git, Docker, Postman, Vercel</li>
       <li>Automatisation et intégration continue</li>
     </ul>
-
   </td>
 </tr>
 </table>
 
+---
 
+<!-- 💎 Mini badges alignés horizontalement -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" />
+  <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
+  <img src="https://img.shields.io/badge/Stars-37-yellow?style=for-the-badge&logo=starship" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet" alt="Vues du profil" />
+</p>
 
 ---
 
-<div align="center"> <!-- Ce div centre le tableau entier -->
-  <table width="100%"> <!-- Ce tableau prend toute la largeur disponible -->
-    <tr>
-        <!-- 💎 Mini badges alignés horizontalement -->
-  <div style="display:flex; justify-content:center; align-items:center; gap:2em; flex-wrap:wrap; margin:25px 0;">
-    <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" />
-    <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" />
-    <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
-    <img src="https://img.shields.io/badge/Stars-37-yellow?style=for-the-badge&logo=starship" alt="Stars" />
-    <img src="https://img.shields.io/badge/Commits-1.2k-purple?style=for-the-badge&logo=git" alt="Commits" />
-    <img src="https://img.shields.io/badge/Contributions-2.5k%2B-informational?style=for-the-badge&logo=github" alt="Contributions" /> <!-- NOUVEAU BADGE -->
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- 🎯 Actuellement -->
+<h2 align="center">🎯 Actuellement</h2>
+<p align="center">
+  🔭 Je travaille sur des projets <b>Full Stack JavaScript</b><br>
+  🌱 J'apprends <b>TypeScript avancé & architecture microservices</b><br>
+  👯 Ouvert aux collaborations sur des projets <b>open source</b><br>
+  💬 Demande-moi des conseils sur <b>Svelte, Node.js, PostgreSQL</b>
+</p>
 
-  ---
+---
 
 <!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
 <table align="center" cellspacing="0" cellpadding="0">
@@ -135,13 +135,18 @@
            width="95%" alt="Stats GitHub">
     </p>
     <!-- Streak -->
-    <p align="center">
+    <p align="center" style="margin-bottom:15px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
            width="95%" alt="Streak Stats">
     </p>
+    <!-- Langages les plus utilisés -->
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
+           width="95%" alt="Langages les plus utilisés">
+    </p>
   </td>
 
-  <!-- Colonne droite : Badges + Croco -->
+  <!-- Colonne droite : Croco -->
   <td valign="top" width="40%" align="center">
     <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
@@ -151,10 +156,21 @@
 </tr>
 </table>
 
+---
+
+<!-- 📊 Activité récente -->
+<h2 align="center">📊 Activité récente</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastienmaurice&theme=tokyo-night&hide_border=true" 
+       width="95%" alt="Graphique d'activité">
+</p>
+
+---
 
 <!-- 💡 Philosophie de développement -->
 <h2 align="center">💡 Ma philosophie</h2>
-<pre><code class="language-javascript">
+
+```javascript
 const developer = {
   name: "Sebastien Maurice",
   mindset: "Apprendre en faisant 🛠️",
@@ -162,4 +178,26 @@ const developer = {
   tools: ["Documentation 📚", "Communauté 🌐", "CMS & Frameworks 🖥️"],
   goal: "Créer de la valeur avec du code et des projets utiles 🚀"
 };
-</code></pre>
+```
+
+---
+
+<!-- 📫 Me contacter -->
+<h2 align="center">📫 Me contacter</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/ton-profil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ton-email@exemple.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://ton-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ N'hésite pas à explorer mes repos et à mettre une étoile si quelque chose t'intéresse !</i>
+</p>
