@@ -16,7 +16,6 @@
         <!-- Présentation -->
         <p>
           💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
-          💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
         </p>
         <!-- Liste des compétences -->
 <ul>
@@ -37,7 +36,7 @@
     </tr>
   </table>
   <p>
-  Example: <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.</i>
+  <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.</i>
 </p>
 </div>
 
