@@ -177,13 +177,14 @@
 </table>
 
 ---
+
 <!-- 📊 Activité récente -->
 <h2 align="center">📊 Activité récente</h2>
-<!-- 🐍 SNAKE ANIMATION - Mange tes contributions (nécessite GitHub Action) -->
- <p align="center">
+<!-- 🐍 SNAKE ANIMATION -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-dark.svg" 
        alt="Snake animation" />
-</p> -->
+</p>
 
 <!-- 📈 GRAPHIQUE D'ACTIVITÉ - Historique des contributions -->
 <p align="center">
