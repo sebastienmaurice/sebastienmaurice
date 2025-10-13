@@ -154,7 +154,7 @@
   </ul>
 
   <!-- Croco -->
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco.png" 
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
        width="250" alt="Croco Dundee" style="margin-top:20px;">
 
   <!-- 🎨 ICÔNES TECH STACK -->
