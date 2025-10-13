@@ -37,38 +37,39 @@
 
 ---
 
-<!-- ================== CE QUE JE FAIS + STACK 2 COLONNES ================== -->
-<div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:30px;">
+<table width="100%">
+<tr valign="top">
 
   <!-- ⚡ Ce que je fais -->
-  <div style="flex:1; min-width:250px; border:2px solid #ccc; border-radius:10px; padding:15px;">
+  <td width="50%" style="padding-right:10px; border:2px solid #ccc; border-radius:10px; padding:15px;">
     <h2>⚡ Ce que je fais</h2>
-    <p>🎯 <b>Full Stack JavaScript</b><br>
+    🎯 <b>Full Stack JavaScript</b><br>
     Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-    Projets complets, SPA et outils métiers</p>
-    <p>🤖 <b>Automatisation & IA</b><br>
+    Projets complets, SPA et outils métiers<br><br>
+    🤖 <b>Automatisation & IA</b><br>
     Copilot / ChatGPT / Workflows<br>
-    Scripts, bots et intégrations IA</p>
-    <p>🏗️ <b>Architecture & Tests</b><br>
+    Scripts, bots et intégrations IA<br><br>
+    🏗️ <b>Architecture & Tests</b><br>
     Clean code, CI, TDD et patterns<br>
-    Structures maintenables et scalables</p>
-  </div>
+    Structures maintenables et scalables
+  </td>
 
   <!-- 🛠️ Stack Technique -->
-  <div style="flex:1; min-width:250px; border:2px solid #ccc; border-radius:10px; padding:15px;">
+  <td width="50%" style="padding-left:10px; border:2px solid #ccc; border-radius:10px; padding:15px;">
     <h2>🛠️ Stack Technique</h2>
-    <p>🎨 <b>Frontend</b><br>
+    🎨 <b>Frontend</b><br>
     HTML5, CSS3, Sass, JS, Svelte, WordPress<br>
-    Interfaces modernes et réactives</p>
-    <p>⚙️ <b>Backend</b><br>
+    Interfaces modernes et réactives<br><br>
+    ⚙️ <b>Backend</b><br>
     Node.js, Express, PostgreSQL, REST, GraphQL<br>
-    API robustes et performantes</p>
-    <p>🧰 <b>Outils & DevOps</b><br>
+    API robustes et performantes<br><br>
+    🧰 <b>Outils & DevOps</b><br>
     Git, Docker, Postman, Vercel, ChatGPT<br>
-    Automatisation et intégration continue</p>
-  </div>
+    Automatisation et intégration continue
+  </td>
 
-</div>
+</tr>
+</table>
 
 
 ---
