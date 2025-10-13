@@ -95,6 +95,19 @@
 
 ---
 
+
+  <td valign="top" width="40%" align="center">
+    <!-- Mini badges -->
+    <div style="margin-bottom:15px;">
+      <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" /><br>
+      <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" /><br>
+      <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
+    </div>
+  </td>
+
+  
+  ---
+
 <!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
 <table align="center" cellspacing="0" cellpadding="0" width="100%">
 <tr>
