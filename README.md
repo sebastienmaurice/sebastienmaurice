@@ -127,7 +127,7 @@
 <tr>
 
   <!-- Colonne gauche : Stats GitHub -->
-  <td valign="top" width="50%" style="padding-right:20px;">
+  <td valign="top" width="60%" style="padding-right:20px;">
     <h2 align="center">📈 Statistiques GitHub</h2>
     <!-- Stats principales -->
     <p align="center" style="margin-bottom:15px;">
@@ -140,8 +140,8 @@
            width="95%" alt="Trophées GitHub"></p>
   </td>
 
-  <!-- Colonne droite : Croco + Actuellement -->
-  <td valign="top" width="50%" align="center">
+  <!-- Colonne droite : Croco + ICÔNES TECH STACK -->
+  <td valign="top" width="40%" align="center">
     <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/flash-croco.png" 
          width="250" alt="Croco Dundee">
