@@ -56,17 +56,15 @@
     <p style="margin:5px 0">
       🎯 <b>Full Stack JavaScript</b><br>
       Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-      Projets complets, SPA et outils métiers
+      Projets complets et applications métier
     </p>
     <p style="margin:5px 0">
-      🤖 <b>Automatisation & IA</b><br>
-      Copilot / ChatGPT / Workflows<br>
-      Scripts, bots et intégrations IA
+      ⚡ <b>Automatisation & Productivité</b><br>
+      Intégration d’outils et workflows pour gagner en efficacité
     </p>
     <p style="margin:5px 0">
       🏗️ <b>Architecture & Tests</b><br>
-      Clean code, CI, TDD et patterns<br>
-      Structures maintenables et scalables
+      Clean code, CI, TDD et structures maintenables
     </p>
   </td>
 
@@ -85,7 +83,7 @@
     </p>
     <p style="margin:5px 0">
       🧰 <b>Outils & DevOps</b><br>
-      Git, Docker, Postman, Vercel, ChatGPT<br>
+      Git, Docker, Postman, Vercel<br>
       Automatisation et intégration continue
     </p>
   </td>
