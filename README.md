@@ -1,6 +1,6 @@
 <div align="center">
 
-<table>
+<table width="100%">  <!-- J'ai ajouté width="100%" ici -->
   <tr>
     <td valign="center" width="65%">
       <h1>
