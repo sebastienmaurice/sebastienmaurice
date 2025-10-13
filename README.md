@@ -145,10 +145,10 @@
     <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
-        <!-- 🎨 ICÔNES TECH STACK - Icônes colorées de tes technos -->
-    <p align="center" style="margin-top:20px;">
-      <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,docker,git,html,css,sass" alt="Tech Stack" />
-    </p>
+            <!-- ✨ TROPHÉES GITHUB - Affiche des badges pour commits, étoiles, followers, etc. -->
+    <p align="center" style="margin-bottom:15px;">
+      <img src="https://github-profile-trophy.vercel.app/?username=sebastienmaurice&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" 
+           width="95%" alt="Trophées GitHub"></p>
   </td>
 
 </tr>
