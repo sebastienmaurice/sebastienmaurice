@@ -54,10 +54,12 @@
   <td valign="top" style="padding-right:20px;">
     <h2>⚡ Ce que je fais</h2>
     <p style="margin:5px 0">
-      🎯 <b>Full Stack JavaScript</b><br>
-      Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
-      Projets complets et applications métier
+      🎯 <b>Full Stack JavaScript</b>
     </p>
+    <ul style="margin:5px 0 15px 20px; padding:0;">
+      <li>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</li>
+      <li>Projets complets et applications métier</li>
+    </ul>
     <p style="margin:5px 0">
       ⚡ <b>Automatisation & Productivité</b><br>
       Intégration d’outils et workflows pour gagner en efficacité
@@ -72,23 +74,31 @@
   <td valign="top">
     <h2>🛠️ Stack Technique</h2>
     <p style="margin:5px 0">
-      🎨 <b>Frontend</b><br>
-      HTML5, CSS3, Sass, JavaScript, Svelte, WordPress<br>
-      Interfaces modernes et réactives
+      🎨 <b>Frontend</b>
     </p>
+    <ul style="margin:5px 0 15px 20px; padding:0;">
+      <li>HTML5, CSS3, Sass, JavaScript, Svelte, WordPress</li>
+      <li>Interfaces modernes et réactives</li>
+    </ul>
     <p style="margin:5px 0">
-      ⚙️ <b>Backend</b><br>
-      Node.js, Express, PostgreSQL, REST, GraphQL<br>
-      API robustes et performantes
+      ⚙️ <b>Backend</b>
     </p>
+    <ul style="margin:5px 0 15px 20px; padding:0;">
+      <li>Node.js, Express, PostgreSQL, REST, GraphQL</li>
+      <li>API robustes et performantes</li>
+    </ul>
     <p style="margin:5px 0">
-      🧰 <b>Outils & DevOps</b><br>
-      Git, Docker, Postman, Vercel<br>
-      Automatisation et intégration continue
+      🧰 <b>Outils & DevOps</b>
     </p>
+    <ul style="margin:5px 0 15px 20px; padding:0;">
+      <li>Git, Docker, Postman, Vercel</li>
+      <li>Automatisation et intégration continue</li>
+    </ul>
+
   </td>
 </tr>
 </table>
+
 
 
 ---
