@@ -192,14 +192,6 @@
        width="95%" alt="Graphique d'activité">
 </p>
 
-<!-- 📅 CONTRIBUTIONS PAR MOIS/SEMAINE (Alternative au graphique) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sebastienmaurice&theme=tokyonight" 
-       width="47%" alt="Repos par langage">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sebastienmaurice&theme=tokyonight" 
-       width="47%" alt="Langages de commits">
-</p> -->
-
 ---
 
 <!-- 💡 Philosophie de développement -->
