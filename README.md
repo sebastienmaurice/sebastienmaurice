@@ -37,32 +37,39 @@
 
 ---
 
-<!-- ================== CE QUE JE FAIS + STACK ================== -->
+<!-- ================== CE QUE JE FAIS + STACK 2 COLONNES ================== -->
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-bottom:30px;">
 
-  <!-- Croco à gauche + quote -->
-  <div style="flex:1; min-width:250px; text-align:center;">
-    <blockquote>“Chaque projet est une nouvelle aventure” 🐊</blockquote>
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="250" alt="Croco Dundee">
+  <!-- ⚡ Ce que je fais -->
+  <div style="flex:1; min-width:250px; border:2px solid #ccc; border-radius:10px; padding:15px;">
+    <h2>⚡ Ce que je fais</h2>
+    <p>🎯 <b>Full Stack JavaScript</b><br>
+    Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>
+    Projets complets, SPA et outils métiers</p>
+    <p>🤖 <b>Automatisation & IA</b><br>
+    Copilot / ChatGPT / Workflows<br>
+    Scripts, bots et intégrations IA</p>
+    <p>🏗️ <b>Architecture & Tests</b><br>
+    Clean code, CI, TDD et patterns<br>
+    Structures maintenables et scalables</p>
   </div>
 
-  <!-- ⚡ Ce que je fais + 🛠️ Stack Technique -->
-  <div style="flex:2; min-width:300px;">
-    <div style="border:2px solid #ccc; border-radius:10px; padding:15px; margin-bottom:15px;">
-      <h2>⚡ Ce que je fais</h2>
-      <p>🎯 <b>Full Stack JavaScript</b><br>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>Projets complets, SPA et outils métiers</p>
-      <p>🤖 <b>Automatisation & IA</b><br>Copilot / ChatGPT / Workflows<br>Scripts, bots et intégrations IA</p>
-      <p>🏗️ <b>Architecture & Tests</b><br>Clean code, CI, TDD et patterns<br>Structures maintenables et scalables</p>
-    </div>
-    <div style="border:2px solid #ccc; border-radius:10px; padding:15px;">
-      <h2>🛠️ Stack Technique</h2>
-      <p>🎨 <b>Frontend</b><br>HTML5, CSS3, Sass, JS, Svelte, WordPress<br>Interfaces modernes et réactives</p>
-      <p>⚙️ <b>Backend</b><br>Node.js, Express, PostgreSQL, REST, GraphQL<br>API robustes et performantes</p>
-      <p>🧰 <b>Outils & DevOps</b><br>Git, Docker, Postman, Vercel, ChatGPT<br>Automatisation et intégration continue</p>
-    </div>
+  <!-- 🛠️ Stack Technique -->
+  <div style="flex:1; min-width:250px; border:2px solid #ccc; border-radius:10px; padding:15px;">
+    <h2>🛠️ Stack Technique</h2>
+    <p>🎨 <b>Frontend</b><br>
+    HTML5, CSS3, Sass, JS, Svelte, WordPress<br>
+    Interfaces modernes et réactives</p>
+    <p>⚙️ <b>Backend</b><br>
+    Node.js, Express, PostgreSQL, REST, GraphQL<br>
+    API robustes et performantes</p>
+    <p>🧰 <b>Outils & DevOps</b><br>
+    Git, Docker, Postman, Vercel, ChatGPT<br>
+    Automatisation et intégration continue</p>
   </div>
 
 </div>
+
 
 ---
 
