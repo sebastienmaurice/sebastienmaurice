@@ -32,7 +32,7 @@
       <td valign="top" align="right" width="30%">
         <!-- Image du crocodile alignée à droite -->
         <img 
-          width="350" 
+          width="100%" 
           src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" 
           alt="Crocodile Dundee">
       </td>
