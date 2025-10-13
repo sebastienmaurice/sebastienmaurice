@@ -146,6 +146,21 @@
     <li>Conseils sur <b>Svelte, Node.js, PostgreSQL</b></li>
   </ul>
 
+  <!-- 📫 Me contacter -->
+<h2 align="center">📫 Me contacter</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/ton-profil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ton-email@exemple.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://ton-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+
   <!-- Croco -->
   <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
        width="250" alt="Croco Dundee" style="margin-top:20px;">
@@ -223,10 +238,4 @@ const developer = {
   <a href="https://ton-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>⭐ N'hésite pas à explorer mes repos et à mettre une étoile si quelque chose t'intéresse !</i>
 </p>
