@@ -134,10 +134,10 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
            width="95%" alt="Stats GitHub">
     </p>
-    <!-- Streak -->
+                <!-- ✨ TROPHÉES GITHUB - Affiche des badges pour commits, étoiles, followers, etc. -->
     <p align="center" style="margin-bottom:15px;">
-      <img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
-           width="95%" alt="Streak Stats"></p>
+      <img src="https://github-profile-trophy.vercel.app/?username=sebastienmaurice&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" 
+           width="95%" alt="Trophées GitHub"></p>
   </td>
 
   <!-- Colonne droite : Croco + Actuellement -->
@@ -145,10 +145,10 @@
     <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
-            <!-- ✨ TROPHÉES GITHUB - Affiche des badges pour commits, étoiles, followers, etc. -->
-    <p align="center" style="margin-bottom:15px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=sebastienmaurice&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" 
-           width="95%" alt="Trophées GitHub"></p>
+            <!-- 🎨 ICÔNES TECH STACK - Icônes colorées de tes technos -->
+    <p align="center" style="margin-top:20px;">
+      <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,docker,git,html,css,sass" alt="Tech Stack" />
+    </p>
   </td>
 
 </tr>
