@@ -2,49 +2,41 @@
 
 <table>
   <tr>
-    <td valign="center" width="60%">
-      <h1>Salut, c'est <strong>Sebastien</strong> 👋</h1>
+    <td valign="center" width="65%">
+      <h1>
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" width="35" alt="cool emoji">
+        Salut, c'est <strong>Sebastien Maurice</strong> 👋
+      </h1>
+      <h3>
+        🚀 Développeur Full Stack JS
+      </h3>
       <p>
-        <strong>🚀 Développeur Full Stack JavaScript</strong><br>
-        Passionné par l'IA, l'automatisation et le Clean Code.
-      </p>
-      <p>
-        <a href="https://www.linkedin.com/in/ton-profil" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-        <!-- Ajoute ton site web ou twitter ici si tu veux -->
+         Passionné par l'IA, l'automatisation et les apps modernes.<br>
+         Je conçois des applications web performantes et scalables.
       </p>
     </td>
-    <td valign="center" align="center" width="40%">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" width="150" alt="Avatar">
-      <br>
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" width="30">
+    <td valign="center" align="center" width="35%">
+      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" width="160" alt="Sebastien avatar">
     </td>
   </tr>
 </table>
 
-</div>
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Front-end & UI**<br>
-<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-**Back-end & Data**<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-
-**DevOps & Tools**<br>
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<p>
+  Example: <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.</i>
+</p>
 
 </div>
+
+---
+
+### ⚡ Ce que je fais
+
+*   ✨ **Apprentissage continu :** Toujours en veille technologique.
+*   🌱 **Stack actuelle :** Je perfectionne Svelte, Node.js, PostgreSQL et Docker.
+*   🏗️ **Architecture :** Conception de systèmes robustes, scalables et maintenables.
+*   🧪 **Best Practices :** TDD, CI/CD et Clean Code sont mes standards.
+*   🤖 **Next Level :** J'intègre l'IA et l'automatisation pour booster la productivité.
+*   🌐 **Full Stack :** Développement de SPA modernes, API REST & GraphQL.
 
 ### 🎯 Ma philosophie
 
