@@ -82,23 +82,41 @@
 
 ---
 
-<!-- Statistiques GitHub -->
-<h2 align="center">📈 Statistiques GitHub</h2>
+<!-- 📈 Statistiques GitHub — 3 COLONNES (10% / 60% / 30%) -->
+<table align="center" cellspacing="0" cellpadding="0" width="100%">
+<tr>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-       width="49%" 
-       alt="Stats GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
-       width="49%" 
-       alt="Streak Stats">
-</p>
+  <!-- Colonne 1 : Mini badges -->
+  <td valign="top" width="10%" align="center" style="vertical-align:middle;">
+    <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" /><br>
+    <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" /><br>
+    <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
+  </td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" 
-       width="49%" 
-       alt="Langages les plus utilisés">
-</p>
+  <!-- Colonne 2 : Statistiques principales -->
+  <td valign="top" width="60%" style="padding:0 20px;">
+    <h2 align="center">📈 Statistiques GitHub</h2>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+           width="49%" alt="Stats GitHub">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
+           width="49%" alt="Streak Stats">
+    </p>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" 
+           width="60%" alt="Langages les plus utilisés">
+    </p>
+  </td>
+
+  <!-- Colonne 3 : Croco -->
+  <td valign="top" width="30%" align="center">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" 
+         width="220" alt="Croco Dundee">
+  </td>
+
+</tr>
+</table>
+****
 
 ---
 
