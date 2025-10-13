@@ -1,7 +1,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td valign="top" width="65%"> <!-- J'ai légèrement ajusté la largeur de la cellule de texte à 65% -->
+      <td valign="top" width="70%">
         <!-- Titre avec emoji animé -->
         <h1>
           <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
@@ -18,28 +18,27 @@
           💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
           💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
         </p>
+        <!-- Liste des compétences -->
+        <ul>
+          <li>✨ Toujours en apprentissage et amélioration continue</li>
+          <li>🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA</li>
+          <li>💻 J'explore les projets open source et les applications réelles</li>
+          <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
+          <li>🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
+          <li>🤖 J'intègre l'IA et l'automatisation pour gagner en productivité</li>
+          <li>🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)</li>
+        </ul>
       </td>
-      <td valign="top" align="right" width="35%"> <!-- Et celle de l'image à 35% pour lui donner un peu plus de place -->
+      <td valign="top" align="right" width="30%">
         <!-- Image du crocodile alignée à droite -->
         <img 
-          width="250"  <!-- J'ai ramené la largeur à 250px pour un meilleur ajustement -->
-          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
+          width="500" 
+          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" 
           alt="Crocodile Dundee">
       </td>
     </tr>
   </table>
 </div>
-
-<!-- Liste des compétences (gardée en Markdown pour la lisibilité) -->
-*   ✨ Toujours en apprentissage et amélioration continue
-*   🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA
-*   💻 J'explore les projets open source et les applications réelles
-*   🏗️ Je conçois des architectures robustes, scalables et maintenables
-*   🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code
-*   🤖 J'intègre l'IA et l'automatisation pour gagner en productivité
-*   🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)
-
-
 
 ---
 
