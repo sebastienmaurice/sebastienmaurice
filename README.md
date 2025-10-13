@@ -84,11 +84,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" />
-  <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
-  <img src="https://img.shields.io/badge/Stars-37-yellow?style=for-the-badge&logo=starship" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet" alt="Vues du profil" />
+  <img src="https://img.shields.io/github/followers/sebastienmaurice?style=for-the-badge&logo=github&label=Followers&color=success" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sebastienmaurice?style=for-the-badge&logo=starship&label=Stars&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet&label=Visiteurs" alt="Vues du profil" />
 </p>
 
 ---
@@ -104,6 +102,10 @@
     <p align="center">
       <img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
            width="100%" alt="Streak Stats">
+    </p>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" 
+           width="100%" alt="Top Languages">
     </p>
   </td>
 
@@ -130,6 +132,59 @@
 
 ---
 
+<h2 align="center">🚀 Projets Phares</h2>
+
+<table align="center">
+<tr>
+  <td align="center" width="25%">
+    <a href="https://www.petitchateauvercourt.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" 
+           width="200" 
+           alt="Petit Château Vercourt">
+    </a>
+    <br>
+    <strong>Petit Château Vercourt</strong>
+    <br>
+    <sub>Gîte de charme pour se ressourcer — Destination de détente et d'évasion en pleine nature</sub>
+  </td>
+  <td align="center" width="25%">
+    <a href="https://rudylesaint-magnetiseur.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" 
+           width="200" 
+           alt="Rudy Le Saint">
+    </a>
+    <br>
+    <strong>Rudy Le Saint</strong>
+    <br>
+    <sub>Site de magnétiseur — Soins énergétiques et bien-être par imposition des mains</sub>
+  </td>
+  <td align="center" width="25%">
+    <a href="https://www.palimpseste-urbain.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" 
+           width="200" 
+           alt="Palimpseste Urbain">
+    </a>
+    <br>
+    <strong>Palimpseste Urbain</strong>
+    <br>
+    <sub>Agence d'architecture et urbanisme — Projets de ville résiliente et santé urbaine</sub>
+  </td>
+  <td align="center" width="25%">
+    <a href="https://onaturel.eu/" target="_blank">
+      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" 
+           width="200" 
+           alt="Ô Natur'EL">
+    </a>
+    <br>
+    <strong>Ô Natur'EL</strong>
+    <br>
+    <sub>Praticienne en naturopathie et hypnose — Accompagnement holistique vers le bien-être naturel</sub>
+  </td>
+</tr>
+</table>
+
+---
+
 <h2 align="center">💡 Ma philosophie</h2>
 
 ```javascript
@@ -141,6 +196,29 @@ const developer = {
   goal: "Créer de la valeur avec du code et des projets utiles 🚀"
 };
 ```
+
+---
+
+<h2 align="center">🐊 Fun Facts - Mode Croco Dundee</h2>
+
+<table align="center">
+<tr>
+  <td width="30%" align="center">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" 
+         width="150" 
+         alt="Croco">
+  </td>
+  <td width="70%">
+    <ul>
+      <li>🐊 <strong>"That's not a bug... THAT's a bug!"</strong> — Je chasse les bugs comme Dundee chasse les crocos</li>
+      <li>🔪 <strong>Mon couteau suisse ?</strong> VS Code, Docker et une bonne tasse de café</li>
+      <li>🌏 <strong>De l'outback au web :</strong> J'explore les territoires du code avec la même audace</li>
+      <li>🪃 <strong>Mon boomerang :</strong> Les bonnes pratiques reviennent toujours !</li>
+      <li>🎯 <strong>Philosophie Dundee :</strong> Simple, efficace, et toujours avec le sourire</li>
+    </ul>
+  </td>
+</tr>
+</table>
 
 ---
 
@@ -178,5 +256,11 @@ const developer = {
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
+       width="120" 
+       alt="Super Croco">
+  <br>
   <i>🐊 "That's not a code... THAT's a code!" 🐊</i>
+  <br><br>
+  <sub>Fait avec ❤️ et beaucoup de ☕ par Sebastien Maurice</sub>
 </div>
