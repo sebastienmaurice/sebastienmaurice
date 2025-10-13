@@ -163,7 +163,24 @@
   </p>
 
 </td>
-</tr> </table>
+</tr>
+</table>
+
+---
+
+<!-- 💡 Philosophie de développement -->
+<h2 align="center">💡 Ma philosophie</h2>
+
+```javascript
+const developer = {
+  name: "Sebastien Maurice",
+  mindset: "Apprendre en faisant 🛠️",
+  approach: "Code lisible & maintenable > Code clever",
+  tools: ["Documentation 📚", "Communauté 🌐", "CMS & Frameworks 🖥️"],
+  goal: "Créer de la valeur avec du code et des projets utiles 🚀"
+};
+```
+
 ---
 
 <!-- 📊 Activité récente -->
