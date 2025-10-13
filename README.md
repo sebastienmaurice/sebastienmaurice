@@ -123,7 +123,7 @@
       <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
     </div>
     <!-- Croco -->
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" 
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-2.png" 
          width="250" alt="Croco Dundee">
   </td>
 
