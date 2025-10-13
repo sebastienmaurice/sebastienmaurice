@@ -109,15 +109,8 @@
   <img src="https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet" alt="Vues du profil" />
 </p>
 
----
-
-<!-- 🎯 Actuellement -->
-<h2 align="center">🎯 Actuellement</h2>
 <p align="center">
-  🔭 Je travaille sur des projets <b>Full Stack JavaScript</b><br>
-  🌱 J'apprends <b>TypeScript avancé & architecture microservices</b><br>
-  👯 Ouvert aux collaborations sur des projets <b>open source</b><br>
-  💬 Demande-moi des conseils sur <b>Svelte, Node.js, PostgreSQL</b>
+  <i>⭐ N'hésite pas à explorer mes repos et à mettre une étoile si quelque chose t'intéresse !</i>
 </p>
 
 ---
