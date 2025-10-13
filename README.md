@@ -103,7 +103,6 @@
       <td valign="top" width="100%" align="center"> 
         <!-- Titre des badges avec Croco -->
         <h2 style="margin-bottom:15px;">
-          <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/good-croco.png" 
                width="40" alt="Croco"> Mes mini-badges
         </h2>
         <!-- 💎 Mini badges alignés horizontalement -->
