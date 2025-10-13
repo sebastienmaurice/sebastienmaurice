@@ -1,40 +1,39 @@
-<!-- ================== HEADER ================== -->
-<div align="center">
+<!-- ================== SECTION 1 ================== -->
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:20px; margin-bottom:40px;">
 
-<!-- Image du crocodile à droite sur grand écran -->
-<img 
-  src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
-  width="180" 
-  alt="Crocodile Dundee"
-  style="float:right; margin:0 0 10px 20px;">
+  <!-- Croco à gauche -->
+  <div style="flex:1; min-width:200px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="200" alt="Croco Dundee">
+  </div>
 
-<h1>
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-       width="45" 
-       alt="emoji-blob">
-  Salut, moi c'est <strong>Sebastien Maurice</strong> 👋
-</h1>
-
-<h3>
-  🚀 Développeur Full Stack JavaScript — Passionné par l'IA, l'automatisation et les apps modernes.
-</h3>
+  <!-- Titre + description dans un cadre -->
+  <div style="flex:2; min-width:250px; border:2px solid #ccc; border-radius:10px; padding:15px;">
+    <h2>⚡ Ce que je fais</h2>
+    <p>🎯 <b>Full Stack JavaScript</b><br>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL<br>Projets complets, SPA et outils métiers</p>
+    <p>🤖 <b>Automatisation & IA</b><br>Copilot / ChatGPT / Workflows<br>Scripts, bots et intégrations IA</p>
+    <p>🏗️ <b>Architecture & Tests</b><br>Clean code, CI, TDD et patterns<br>Structures maintenables et scalables</p>
+  </div>
 
 </div>
 
-<p align="center">
-  💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
-  💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
-</p>
+<!-- ================== SECTION 2 ================== -->
+<div style="display:flex; flex-wrap:wrap; align-items:flex-start; gap:20px; margin-bottom:40px;">
 
-<ul>
-  <li>✨ Toujours en apprentissage et amélioration continue</li>
-  <li>🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA</li>
-  <li>💻 J'explore les projets open source et les applications réelles</li>
-  <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
-  <li>🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
-  <li>🤖 J'intègre l'IA et l'automatisation pour gagner en productivité</li>
-  <li>🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)</li>
-</ul>
+  <!-- Titre + description dans un cadre -->
+  <div style="flex:2; min-width:250px; border:2px solid #ccc; border-radius:10px; padding:15px;">
+    <h2>🛠️ Stack Technique</h2>
+    <p>🎨 <b>Frontend</b><br>HTML5, CSS3, Sass, JS, Svelte, WordPress<br>Interfaces modernes et réactives</p>
+    <p>⚙️ <b>Backend</b><br>Node.js, Express, PostgreSQL, REST, GraphQL<br>API robustes et performantes</p>
+    <p>🧰 <b>Outils & DevOps</b><br>Git, Docker, Postman, Vercel, ChatGPT<br>Automatisation et intégration continue</p>
+  </div>
+
+  <!-- Croco à droite -->
+  <div style="flex:1; min-width:200px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" width="200" alt="Croco Dundee">
+  </div>
+
+</div>
+
 
 ---
 
