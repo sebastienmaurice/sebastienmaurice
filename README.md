@@ -99,7 +99,7 @@
 
   <!-- Titre des badges avec Croco -->
   <h2 style="margin-bottom:15px;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" 
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/good-croco.png" 
          width="40" alt="Croco"> Mes mini-badges
   </h2>
 
