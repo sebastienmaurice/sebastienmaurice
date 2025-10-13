@@ -143,46 +143,6 @@
 
 ---
 
-<!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-
-  <!-- Colonne gauche : Stats GitHub -->
-  <td valign="top" width="60%" style="padding-right:20px;">
-    <h2 align="center">📈 Statistiques GitHub</h2>
-    <!-- Stats principales -->
-    <p align="center" style="margin-bottom:15px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-           width="95%" alt="Stats GitHub">
-    </p>
-    <!-- Streak -->
-    <p align="center" style="margin-bottom:15px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
-           width="95%" alt="Streak Stats">
-    </p>
-  </td>
-
-  <!-- Colonne droite : Croco -->
-  <td valign="top" width="40%" align="center">
-    <!-- Croco -->
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
-         width="250" alt="Croco Dundee">
-           <!-- Liste des compétences -->
-    
-<!-- 🎯 Actuellement -->
-<h2 align="center">🎯 Actuellement</h2>
-<p align="center">
-  🔭 Je travaille sur des projets <b>Full Stack JavaScript</b><br>
-  🌱 J'apprends <b>TypeScript avancé & architecture microservices</b><br>
-  👯 Ouvert aux collaborations sur des projets <b>open source</b><br>
-  💬 Demande-moi des conseils sur <b>Svelte, Node.js, PostgreSQL</b>
-</p>
- </td>
-</tr>
-</table>
-
----
-
 <!-- 📊 Activité récente -->
 <h2 align="center">📊 Activité récente</h2>
 <p align="center">
