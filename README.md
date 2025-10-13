@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td valign="center" width="65%">
+    <td valign="center" width="100%">
       <h1>
         <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" width="35" alt="cool emoji">
         Salut, c'est <strong>Sebastien Maurice</strong> 👋
