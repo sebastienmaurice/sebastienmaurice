@@ -152,16 +152,15 @@
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
            <!-- Liste des compétences -->
-
-    <!-- 🎯 Actuellement -->
+ </td>
+<!-- 🎯 Actuellement -->
 <h2 align="center">🎯 Actuellement</h2>
-<p align="left">
+<p align="center">
   🔭 Je travaille sur des projets <b>Full Stack JavaScript</b><br>
   🌱 J'apprends <b>TypeScript avancé & architecture microservices</b><br>
   👯 Ouvert aux collaborations sur des projets <b>open source</b><br>
   💬 Demande-moi des conseils sur <b>Svelte, Node.js, PostgreSQL</b>
 </p>
- </td>
 </tr>
 </table>
 
@@ -178,7 +177,6 @@
 
 <!-- 💡 Philosophie de développement -->
 <h2 align="center">💡 Ma philosophie</h2>
-
 ```javascript
 const developer = {
   name: "Sebastien Maurice",
