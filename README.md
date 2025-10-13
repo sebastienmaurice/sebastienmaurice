@@ -1,166 +1,111 @@
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td valign="top" width="60%">
-        <!-- Titre avec emoji animé -->
-        <h1>
-          <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-               width="45" 
-               alt="emoji-blob">
-          Hello, moi c'est <strong>Sebastien</strong>
-        </h1>
-        <!-- Sous-titre -->
-        <h3>
-          🚀 Développeur Full Stack JavaScript — Passionné par l'IA, l'automatisation et les apps modernes.
-        </h3>
-        <!-- Présentation -->
-        <p>
-          💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
-        </p>
-        <!-- Liste des compétences -->
-        <ul>
-          <li>✨ Apprentissage et amélioration continue</li>
-          <li>🌱 Svelte, Node.js, PostgreSQL, Docker, IA</li>
-          <li>💻 Projets open source et apps réelles</li>
-          <li>🏗️ Architectures robustes et scalables</li>
-          <li>🤖 IA et automatisation pour gagner en productivité</li>
-        </ul>
-      </td>
-      <td valign="top" align="right" width="40%">
-        <!-- Image du crocodile alignée à droite -->
-        <img 
-          width="350" 
-          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" 
-          alt="Crocodile Dundee">
-      </td>
-    </tr>
-  </table>
-  <p>
-    <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.</i>
-  </p>
+
+# <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" width="45" alt="emoji-blob"> Hello, moi c'est **Sebastien**
+
+### 🚀 Développeur Full Stack JavaScript — Passionné par l'IA, l'automatisation et les apps modernes
+
+💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.
+
+✨ Apprentissage et amélioration continue  
+🌱 Svelte, Node.js, PostgreSQL, Docker, IA  
+💻 Projets open source et apps réelles  
+🏗️ Architectures robustes et scalables  
+🤖 IA et automatisation pour gagner en productivité
+
+<img width="350" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" alt="Crocodile Dundee">
+
+*💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.*
+
 </div>
 
 ---
 
-<!-- ⚡ Ce que je fais + 🛠️ Stack Technique — TABLE 100% GitHub -->
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
-  <!-- Croco -->
-  <td valign="top" style="padding-right:20px;">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="250" alt="Croco Dundee">
-  </td>
+## ⚡ Ce que je fais
 
-  <!-- Ce que je fais -->
-  <td valign="top" style="padding-right:20px;">
-    <h2>⚡ Ce que je fais</h2>
-    <p style="margin:5px 0">
-      🎯 <b>Full Stack JavaScript</b>
-    </p>
-    <ul style="margin:5px 0 15px 20px; padding:0;">
-      <li>Svelte / Node.js / Express / PostgreSQL / REST & GraphQL</li>
-      <li>Projets complets et applications métier</li>
-    </ul>
-    <p style="margin:5px 0">
-      ⚡ <b>Automatisation & Productivité</b><br>
-      Intégration d'outils et workflows pour gagner en efficacité
-    </p>
-    <p style="margin:5px 0">
-      🏗️ <b>Architecture & Tests</b><br>
-      Clean code, CI, TDD et structures maintenables
-    </p>
-  </td>
+<img align="right" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="200" alt="Croco Dundee">
 
-  <!-- Stack Technique -->
-  <td valign="top">
-    <h2>🛠️ Stack Technique</h2>
-    <p style="margin:5px 0">
-      🎨 <b>Frontend</b>
-    </p>
-    <ul style="margin:5px 0 15px 20px; padding:0;">
-      <li>HTML5, CSS3, Sass, JavaScript, Svelte, WordPress</li>
-      <li>Interfaces modernes et réactives</li>
-    </ul>
-    <p style="margin:5px 0">
-      ⚙️ <b>Backend</b>
-    </p>
-    <ul style="margin:5px 0 15px 20px; padding:0;">
-      <li>Node.js, Express, PostgreSQL, REST, GraphQL</li>
-      <li>API robustes et performantes</li>
-    </ul>
-    <p style="margin:5px 0">
-      🧰 <b>Outils & DevOps</b>
-    </p>
-    <ul style="margin:5px 0 15px 20px; padding:0;">
-      <li>Git, Docker, Postman, Vercel</li>
-      <li>Automatisation et intégration continue</li>
-    </ul>
-  </td>
-</tr>
-</table>
+### 🎯 Full Stack JavaScript
+- Svelte / Node.js / Express / PostgreSQL / REST & GraphQL
+- Projets complets et applications métier
+
+### ⚡ Automatisation & Productivité
+Intégration d'outils et workflows pour gagner en efficacité
+
+### 🏗️ Architecture & Tests
+Clean code, CI, TDD et structures maintenables
+
+<br clear="right"/>
 
 ---
 
-<!-- 💎 Mini badges alignés horizontalement -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" />
-  <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
-  <img src="https://img.shields.io/badge/Stars-37-yellow?style=for-the-badge&logo=starship" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet" alt="Vues du profil" />
-</p>
+## 🛠️ Stack Technique
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### 🧰 Outils & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
-<!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
-<table align="center" cellspacing="0" cellpadding="0">
-<tr>
+<div align="center">
 
-  <!-- Colonne gauche : Stats GitHub -->
-  <td valign="top" width="60%" style="padding-right:20px;">
-    <h2 align="center">📈 Statistiques GitHub</h2>
-    <!-- Stats principales -->
-    <p align="center" style="margin-bottom:15px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-           width="95%" alt="Stats GitHub">
-    </p>
-        <!-- Streak -->
-    <p align="center" style="margin-bottom:15px;">
-      <img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
-           width="95%" alt="Streak Stats"></p>
+## 💎 Profil en chiffres
 
-  </td>
-  </td>
+![Public Repos](https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github)
+![Following](https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-37-yellow?style=for-the-badge&logo=starship)
+![Profile Views](https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet)
 
-<!-- Colonne droite : Croco + ICÔNES TECH STACK -->
-<td valign="top" width="40%" align="center">
-
-  <!-- 🎯 Actuellement -->
-  <h2 align="center">🎯 Actuellement</h2>
-
-  <ul align="left" style="list-style-type: '✨ '; padding-left: 1.5em; text-align:left; margin: 0 auto; display:inline-block;">
-    <li>Projets <b>Full Stack JavaScript</b></li>
-    <li>Apprentissage de <b>TypeScript & microservices</b></li>
-    <li>Collaborations <b>open source</b></li>
-    <li>Conseils sur <b>Svelte, Node.js, PostgreSQL</b></li>
-  </ul>
-
-  <!-- Croco -->
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
-       width="250" alt="Croco Dundee" style="margin-top:20px;">
-
-  <!-- 🎨 ICÔNES TECH STACK -->
-  <p align="center" style="margin-top:20px;">
-    <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,docker,git,html,css,sass" alt="Tech Stack" />
-  </p>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- 💡 Philosophie de développement -->
-<h2 align="center">💡 Ma philosophie</h2>
+## 📈 Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Stats GitHub">
+<img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" width="49%" alt="Streak Stats">
+
+</div>
+
+---
+
+## 🎯 Actuellement
+
+<img align="right" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" width="200" alt="Super Croco">
+
+- ✨ Projets **Full Stack JavaScript**
+- ✨ Apprentissage de **TypeScript & microservices**
+- ✨ Collaborations **open source**
+- ✨ Conseils sur **Svelte, Node.js, PostgreSQL**
+
+<div align="center">
+
+![Tech Stack](https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,docker,git,html,css,sass)
+
+</div>
+
+<br clear="right"/>
+
+---
+
+## 💡 Ma philosophie
 
 ```javascript
 const developer = {
@@ -174,36 +119,40 @@ const developer = {
 
 ---
 
-<!-- 📊 Activité récente -->
-<h2 align="center">📊 Activité récente</h2>
-<!-- 🐍 SNAKE ANIMATION -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </picture>
-</p>
+## 📊 Activité récente
 
+<div align="center">
 
-<!-- 📈 GRAPHIQUE D'ACTIVITÉ - Historique des contributions -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastienmaurice&theme=tokyo-night&hide_border=true" 
-       width="95%" alt="Graphique d'activité">
-</p>
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</picture>
+
+### 📈 Graphique d'activité
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastienmaurice&theme=tokyo-night&hide_border=true" width="95%" alt="Graphique d'activité">
+
+</div>
 
 ---
 
-<!-- 📫 Me contacter -->
-<h2 align="center">📫 Me contacter</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/ton-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ton-email@exemple.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://ton-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+## 📫 Me contacter
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@exemple.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ton-portfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐊 *"That's not a code... THAT's a code!"* 🐊
+
+</div>
