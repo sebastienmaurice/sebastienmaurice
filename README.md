@@ -143,7 +143,7 @@
   <!-- Colonne droite : Croco + Actuellement -->
   <td valign="top" width="40%" align="center">
     <!-- Croco -->
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/flash-croco.png" 
          width="250" alt="Croco Dundee">
             <!-- 🎨 ICÔNES TECH STACK - Icônes colorées de tes technos -->
     <p align="center" style="margin-top:20px;">
