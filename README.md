@@ -1,7 +1,7 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td valign="top" width="70%">
+      <td valign="top" width="60%">
         <!-- Titre avec emoji animé -->
         <h1>
           <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
@@ -27,7 +27,7 @@
   <li>🤖 IA et automatisation pour gagner en productivité</li>
 </ul>
       </td>
-      <td valign="top" align="right" width="30%">
+      <td valign="top" align="right" width="40%">
         <!-- Image du crocodile alignée à droite -->
         <img 
           width="500" 
