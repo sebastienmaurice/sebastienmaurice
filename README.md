@@ -96,15 +96,15 @@
   <!-- Colonne 2 : Statistiques principales -->
   <td valign="top" width="60%" style="padding:0 20px;">
     <h2 align="center">📈 Statistiques GitHub</h2>
-    <p align="center">
+    <!-- Stats classiques -->
+    <p align="center" style="margin-bottom:15px;">
       <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-           width="49%" alt="Stats GitHub">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
-           width="49%" alt="Streak Stats">
+           width="90%" alt="Stats GitHub">
     </p>
+    <!-- Streak -->
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" 
-           width="60%" alt="Langages les plus utilisés">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
+           width="90%" alt="Streak Stats">
     </p>
   </td>
 
@@ -116,7 +116,6 @@
 
 </tr>
 </table>
-****
 
 ---
 
