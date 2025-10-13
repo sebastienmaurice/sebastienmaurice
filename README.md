@@ -54,7 +54,6 @@
       <p>🤖 <b>Automatisation & IA</b><br>Copilot / ChatGPT / Workflows<br>Scripts, bots et intégrations IA</p>
       <p>🏗️ <b>Architecture & Tests</b><br>Clean code, CI, TDD et patterns<br>Structures maintenables et scalables</p>
     </div>
-
     <div style="border:2px solid #ccc; border-radius:10px; padding:15px;">
       <h2>🛠️ Stack Technique</h2>
       <p>🎨 <b>Frontend</b><br>HTML5, CSS3, Sass, JS, Svelte, WordPress<br>Interfaces modernes et réactives</p>
