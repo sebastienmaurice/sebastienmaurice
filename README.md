@@ -99,6 +99,38 @@
 </table>
 
 ---
+<!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
+<table align="center" cellspacing="0" cellpadding="0">
+<tr>
+  <!-- Colonne gauche : Stats GitHub -->
+  <td valign="top" width="60%" style="padding-right:20px;">
+    <h2 align="center">📈 Statistiques GitHub</h2>
+    <!-- Stats principales -->
+    <p align="center" style="margin-bottom:15px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+           width="95%" alt="Stats GitHub">
+    </p>
+    <!-- Streak -->
+    <p align="center" style="margin-bottom:15px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
+           width="95%" alt="Streak Stats">
+    </p>
+    <!-- Langages les plus utilisés -->
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
+           width="95%" alt="Langages les plus utilisés">
+    </p>
+  </td>
+  <!-- Colonne droite : Croco -->
+  <td valign="top" width="40%" align="center">
+    <!-- Croco -->
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
+         width="250" alt="Croco Dundee">
+  </td>
+</tr>
+</table>
+
+---
 
 <!-- 💎 Mini badges alignés horizontalement -->
 <p align="center">
