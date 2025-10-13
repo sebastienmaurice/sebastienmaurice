@@ -98,12 +98,15 @@
 
 <td valign="top" width="100%" align="center">
 
-  <!-- Mini badges alignés horizontalement -->
-  <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap; margin-bottom:15px;">
+  <!-- 💎 Mini badges alignés horizontalement -->
+  <div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin:25px 0;">
     <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" />
     <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" />
     <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
+    <img src="https://img.shields.io/badge/Stars-37-yellow?style=for-the-badge&logo=starship" alt="Stars" />
+    <img src="https://img.shields.io/badge/Commits-1.2k-purple?style=for-the-badge&logo=git" alt="Commits" />
   </div>
+
 </td>
 
 
