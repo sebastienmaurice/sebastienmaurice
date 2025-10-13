@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td valign="center" width="100%">
+    <td valign="center" width="70%">
       <h1>
-        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" width="35" alt="cool emoji">
+        <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" width="30" alt="cool emoji">
         Salut, c'est <strong>Sebastien Maurice</strong> 👋
       </h1>
       <h3>
