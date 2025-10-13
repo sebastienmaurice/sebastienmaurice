@@ -109,10 +109,6 @@
   <img src="https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet" alt="Vues du profil" />
 </p>
 
-<p align="center">
-  <i>⭐ N'hésite pas à explorer mes repos et à mettre une étoile si quelque chose t'intéresse !</i>
-</p>
-
 ---
 
 <!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
@@ -208,21 +204,6 @@ const developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastienmaurice&theme=tokyo-night&hide_border=true" 
        width="95%" alt="Graphique d'activité">
 </p>
-
----
-
-<!-- 💡 Philosophie de développement -->
-<h2 align="center">💡 Ma philosophie</h2>
-
-```javascript
-const developer = {
-  name: "Sebastien Maurice",
-  mindset: "Apprendre en faisant 🛠️",
-  approach: "Code lisible & maintenable > Code clever",
-  tools: ["Documentation 📚", "Communauté 🌐", "CMS & Frameworks 🖥️"],
-  goal: "Créer de la valeur avec du code et des projets utiles 🚀"
-};
-```
 
 ---
 
