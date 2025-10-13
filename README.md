@@ -116,12 +116,6 @@
 
   <!-- Colonne droite : Badges + Croco -->
   <td valign="top" width="40%" align="center">
-    <!-- Mini badges -->
-    <div style="margin-bottom:15px;">
-      <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" /><br>
-      <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" /><br>
-      <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
-    </div>
     <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
