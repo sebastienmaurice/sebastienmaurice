@@ -1,44 +1,43 @@
-<!-- En-tête avec image à droite -->
 <div align="center">
-  
-<!-- Image du crocodile alignée à droite -->
-<img 
-  align="right" 
-  width="180" 
-  src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
-  alt="Crocodile Dundee">
-
-<!-- Titre avec emoji animé -->
-<h1>
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-       width="45" 
-       alt="emoji-blob">
-  Salut, moi c'est <strong>Sebastien Maurice</strong> 👋
-</h1>
-
-<!-- Sous-titre -->
-<h3>
-  🚀 Développeur Full Stack JavaScript — Passionné par l'IA, l'automatisation et les apps modernes.
-</h3>
-
+  <table width="100%">
+    <tr>
+      <td valign="top" width="70%">
+        <!-- Titre avec emoji animé -->
+        <h1>
+          <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
+               width="45" 
+               alt="emoji-blob">
+          Salut, moi c'est <strong>Sebastien Maurice</strong> 👋
+        </h1>
+        <!-- Sous-titre -->
+        <h3>
+          🚀 Développeur Full Stack JavaScript — Passionné par l'IA, l'automatisation et les apps modernes.
+        </h3>
+        <!-- Présentation -->
+        <p>
+          💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
+          💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
+        </p>
+      </td>
+      <td valign="top" align="right" width="30%">
+        <!-- Image du crocodile alignée à droite -->
+        <img 
+          width="180" 
+          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right-1.png" 
+          alt="Crocodile Dundee">
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Présentation -->
-<p align="center">
-  💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète.<br>
-  💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.
-</p>
-
-<!-- Liste des compétences -->
-<ul>
-  <li>✨ Toujours en apprentissage et amélioration continue</li>
-  <li>🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA</li>
-  <li>💻 J'explore les projets open source et les applications réelles</li>
-  <li>🏗️ Je conçois des architectures robustes, scalables et maintenables</li>
-  <li>🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code</li>
-  <li>🤖 J'intègre l'IA et l'automatisation pour gagner en productivité</li>
-  <li>🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)</li>
-</ul>
+<!-- Liste des compétences (convertie en Markdown pour plus de lisibilité) -->
+*   ✨ Toujours en apprentissage et amélioration continue
+*   🌱 Je perfectionne Svelte, Node.js, PostgreSQL, Docker et l'IA
+*   💻 J'explore les projets open source et les applications réelles
+*   🏗️ Je conçois des architectures robustes, scalables et maintenables
+*   🧪 J'applique le TDD, CI/CD et les bonnes pratiques de clean code
+*   🤖 J'intègre l'IA et l'automatisation pour gagner en productivité
+*   🌐 Je développe des solutions Full Stack modernes (SPA, REST & GraphQL)
 
 ---
 
