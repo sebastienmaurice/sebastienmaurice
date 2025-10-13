@@ -99,9 +99,33 @@
 </table>
 
 ---
+
+<!-- 💎 Mini badges alignés horizontalement -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" />
+  <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
+  <img src="https://img.shields.io/badge/Stars-37-yellow?style=for-the-badge&logo=starship" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet" alt="Vues du profil" />
+</p>
+
+---
+
+<!-- 🎯 Actuellement -->
+<h2 align="center">🎯 Actuellement</h2>
+<p align="center">
+  🔭 Je travaille sur des projets <b>Full Stack JavaScript</b><br>
+  🌱 J'apprends <b>TypeScript avancé & architecture microservices</b><br>
+  👯 Ouvert aux collaborations sur des projets <b>open source</b><br>
+  💬 Demande-moi des conseils sur <b>Svelte, Node.js, PostgreSQL</b>
+</p>
+
+---
+
 <!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
 <table align="center" cellspacing="0" cellpadding="0">
 <tr>
+
   <!-- Colonne gauche : Stats GitHub -->
   <td valign="top" width="60%" style="padding-right:20px;">
     <h2 align="center">📈 Statistiques GitHub</h2>
@@ -121,25 +145,16 @@
            width="95%" alt="Langages les plus utilisés">
     </p>
   </td>
+
   <!-- Colonne droite : Croco -->
   <td valign="top" width="40%" align="center">
     <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-dundee-debout-1.png" 
          width="250" alt="Croco Dundee">
   </td>
+
 </tr>
 </table>
-
----
-
-<!-- 💎 Mini badges alignés horizontalement -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" />
-  <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
-  <img src="https://img.shields.io/badge/Stars-37-yellow?style=for-the-badge&logo=starship" alt="Stars" />
-  <img src="https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet" alt="Vues du profil" />
-</p>
 
 ---
 
@@ -154,6 +169,7 @@
 
 <!-- 💡 Philosophie de développement -->
 <h2 align="center">💡 Ma philosophie</h2>
+
 ```javascript
 const developer = {
   name: "Sebastien Maurice",
