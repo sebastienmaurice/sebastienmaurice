@@ -82,40 +82,41 @@
 
 ---
 
-<!-- 📈 Statistiques GitHub — 3 COLONNES (10% / 60% / 30%) -->
+<!-- 📈 Statistiques GitHub — 2 COLONNES (60% / 40%) -->
 <table align="center" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 
-  <!-- Colonne 1 : Mini badges -->
-  <td valign="top" width="10%" align="center" style="vertical-align:middle;">
-    <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" /><br>
-    <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" /><br>
-    <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
-  </td>
-
-  <!-- Colonne 2 : Statistiques principales -->
-  <td valign="top" width="60%" style="padding:0 20px;">
+  <!-- Colonne gauche : Stats GitHub -->
+  <td valign="top" width="60%" style="padding-right:20px;">
     <h2 align="center">📈 Statistiques GitHub</h2>
-    <!-- Stats classiques -->
+    <!-- Stats principales -->
     <p align="center" style="margin-bottom:15px;">
       <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-           width="90%" alt="Stats GitHub">
+           width="95%" alt="Stats GitHub">
     </p>
     <!-- Streak -->
     <p align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
-           width="90%" alt="Streak Stats">
+           width="95%" alt="Streak Stats">
     </p>
   </td>
 
-  <!-- Colonne 3 : Croco -->
-  <td valign="top" width="30%" align="center">
+  <!-- Colonne droite : Badges + Croco -->
+  <td valign="top" width="40%" align="center">
+    <!-- Mini badges -->
+    <div style="margin-bottom:15px;">
+      <img src="https://img.shields.io/badge/Public%20Repos-12-blue?style=for-the-badge&logo=github" alt="Repos" /><br>
+      <img src="https://img.shields.io/badge/Followers-24-success?style=for-the-badge&logo=github" alt="Followers" /><br>
+      <img src="https://img.shields.io/badge/Following-18-orange?style=for-the-badge&logo=github" alt="Following" />
+    </div>
+    <!-- Croco -->
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" 
-         width="220" alt="Croco Dundee">
+         width="250" alt="Croco Dundee">
   </td>
 
 </tr>
 </table>
+
 
 ---
 
