@@ -36,6 +36,9 @@
       </td>
     </tr>
   </table>
+  <p>
+  Example: <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu.</i>
+</p>
 </div>
 
 ---
