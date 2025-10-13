@@ -127,6 +127,12 @@
     <p align="center" style="margin-bottom:15px;">
       <img src="https://github-profile-trophy.vercel.app/?username=sebastienmaurice&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" 
            width="95%" alt="Trophées GitHub"></p>
+        <!-- Streak -->
+    <p align="center" style="margin-bottom:15px;">
+      <img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
+           width="95%" alt="Streak Stats"></p>
+
+  </td>
   </td>
 
 <!-- Colonne droite : Croco + ICÔNES TECH STACK -->
