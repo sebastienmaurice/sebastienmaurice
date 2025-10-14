@@ -129,13 +129,6 @@
 - ✨ Collaborations **open source**
 - ✨ Conseils sur **Svelte, Node.js, PostgreSQL**
 
-<br>
-
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
-     width="100%" 
-     style="max-width: 250px;" 
-     alt="Croco Dundee">
-
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,docker,git,html,css,sass" alt="Tech Stack" />
