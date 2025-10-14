@@ -132,7 +132,7 @@
 
 ---
 
-<h2 align="center"> Expérience passée 🚀 Projets CMS</h2>
+<h2 align="center">🚀 Projets Phares</h2>
 
 <table align="center">
 <tr>
@@ -239,16 +239,6 @@ const developer = {
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-vol.png" 
-       width="120" 
-       alt="Super Croco">
-  <br>
-  <i>🐊 "That's not a code... THAT's a code!" 🐊</i>
-  <br>
-  <sub>Fait avec ❤️ et beaucoup de ☕ par Sebastien Maurice</sub>
-</div>
-
 <h2 align="center">📫 Me contacter</h2>
 
 <p align="center">
@@ -262,3 +252,15 @@ const developer = {
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
+       width="120" 
+       alt="Super Croco">
+  <br>
+  <i>🐊 "That's not a code... THAT's a code!" 🐊</i>
+  <br><br>
+  <sub>Fait avec ❤️ et beaucoup de ☕ par Sebastien Maurice</sub>
+</div>
