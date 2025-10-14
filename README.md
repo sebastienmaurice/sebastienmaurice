@@ -30,7 +30,7 @@
           <li>🤖 IA et automatisation pour gagner en productivité</li>
         </ul>
       </td>
-      <td width="40%" valign="top" align="right">
+      <td width="40%" valign="top" align="right" style="padding: 20px;">
         <img 
           width="100%" 
           style="max-width: 350px;"
