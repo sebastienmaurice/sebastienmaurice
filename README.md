@@ -117,45 +117,56 @@
 ---
 
 <table width="100%" align="center">
-<tr>
-  <td valign="top" width="55%">
-    <h2 align="center">📈 Statistiques GitHub</h2>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-           width="100%" alt="Stats GitHub">
-    </p>
-    <p align="center">
-      <img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
-           width="100%" alt="Streak Stats">
-    </p>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" 
-           width="100%" alt="Top Languages">
-    </p>
-  </td>
-
-  <td valign="top" width="45%" align="center">
-    <h2 align="center">🎯 Actuellement</h2>
-
-
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
-     width="100%" 
-     style="max-width: 250px;" 
-     alt="Croco Dundee">
-
-    
-- ✨ Projets **Full Stack JavaScript**
-- ✨ Apprentissage de **TypeScript & microservices**
-- ✨ Collaborations **open source**
-- ✨ Conseils sur **Svelte, Node.js, PostgreSQL**
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,docker,git,html,css,sass" alt="Tech Stack" />
-
-  </td>
-</tr>
+  <tr>
+    <!-- Colonne gauche : statistiques -->
+    <td valign="top" width="55%">
+      <h2 align="center">📈 Statistiques GitHub</h2>
+      <p align="center">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+          width="100%" 
+          alt="Stats GitHub">
+      </p>
+      <p align="center">
+        <img 
+          src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
+          width="100%" 
+          alt="GitHub Streak">
+      </p>
+      <p align="center">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" 
+          width="100%" 
+          alt="Langages les plus utilisés">
+      </p>
+    </td>
+    <!-- Colonne droite : activité actuelle -->
+    <td valign="top" width="45%" align="center" style="padding: 10px;">
+      <h2 align="center">🎯 Actuellement</h2>
+      <img 
+        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
+        width="100%" 
+        style="max-width: 250px; margin-bottom: 15px;" 
+        alt="Super Croco Dundee">
+      <p align="left">
+        🚀 En pleine évolution vers un profil <strong>Full Stack JavaScript augmenté par l’IA</strong>.<br>
+        Je mets à profit mes compétences pour construire des apps intelligentes et performantes, en explorant les technologies de demain.
+      </p>
+      <ul align="left">
+        <li>✨ Projets <strong>Full Stack JavaScript</strong> (Svelte / Node / PostgreSQL)</li>
+        <li>🧩 Exploration de <strong>TypeScript avancé</strong> & des <strong>architectures microservices</strong></li>
+        <li>🤝 Collaborations <strong>open source</strong> et partage de savoir</li>
+        <li>💬 Conseil & mentorat sur <strong>Svelte, Node.js, PostgreSQL</strong></li>
+      </ul>
+      <br>
+      <img 
+        src="https://skillicons.dev/icons?i=js,ts,svelte,nodejs,express,postgres,docker,git,html,css,sass,github,vercel" 
+        alt="Tech Stack" 
+        style="max-width: 90%; margin-top: 10px;">
+    </td>
+  </tr>
 </table>
+
 
 ---
 
