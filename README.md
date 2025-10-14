@@ -17,7 +17,7 @@
           alt="emoji-blob">
         Hello, moi c'est <strong>Sebastien</strong>
       </h1>
-      <h3>🚀 Développeur Full Stack JavaScript — augmenté par l’IA</h3>
+      <h3>🚀 Développeur Full Stack JavaScript (augmenté par IA)</h3>
       <p>
         💡 Formé chez <strong>O’clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile (niveau 5 – RNCP 37674)</em>.<br>
         J’exploite la puissance de l’IA pour concevoir des applications plus rapides, plus intelligentes et plus élégantes.
