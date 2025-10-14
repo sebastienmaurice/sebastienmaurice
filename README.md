@@ -256,7 +256,7 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-vol.png" 
        width="120" 
        alt="Super Croco">
   <br>
