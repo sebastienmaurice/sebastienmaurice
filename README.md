@@ -53,50 +53,57 @@
 ---
 
 <table width="100%" align="center">
-<tr>
-  <td valign="top" width="30%" align="center">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-livres.png" 
-         width="100%" 
-         style="max-width: 250px;" 
-         alt="Croco Dundee">
-  </td>
-
-  <td valign="top" width="35%">
-    <h2>⚡ Ce que je fais</h2>
-    
-**🎯 Full Stack JavaScript**
-- Svelte / Node.js / Express / PostgreSQL
-- REST & GraphQL
-- Projets complets et applications métier
-
-**⚡ Automatisation & Productivité**
-- Intégration d'outils et workflows
-- Optimisation de la productivité
-
-**🏗️ Architecture & Tests**
-- Clean code, CI, TDD
-- Structures maintenables
-  </td>
-
-  <td valign="top" width="35%">
-    <h2>🛠️ Stack Technique</h2>
-    
-**🎨 Frontend**
-- HTML5, CSS3, Sass
-- JavaScript, Svelte
-- WordPress
-- Interfaces modernes et réactives
-
-**⚙️ Backend**
-- Node.js, Express
-- PostgreSQL, REST, GraphQL
-- API robustes et performantes
-
-**🧰 Outils & DevOps**
-- Git, Docker, Postman, Vercel
-- Automatisation et CI/CD
-  </td>
-</tr>
+  <tr>
+    <!-- Colonne gauche -->
+    <td valign="top" width="30%" align="center">
+      <img 
+        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-livres.png" 
+        width="100%" 
+        style="max-width: 250px; padding: 10px;" 
+        alt="Croco Dundee">
+    </td>
+    <!-- Colonne centrale -->
+    <td valign="top" width="35%">
+      <h2>⚡ Ce que je fais</h2>
+      <p><strong>🎯 Full Stack JavaScript augmenté par l’IA</strong><br>
+      Je conçois des applications web modernes et performantes, du front au back, en tirant parti de l’intelligence artificielle pour accélérer la production et renforcer la qualité du code.</p>
+      <ul>
+        <li>💻 <strong>Stack :</strong> Svelte / Node.js / Express / PostgreSQL</li>
+        <li>🔗 <strong>API :</strong> REST & GraphQL, sécurisées et documentées</li>
+        <li>🧠 <strong>IA & Automatisation :</strong> Copilot, ChatGPT API, scripts IA</li>
+        <li>📱 <strong>Apps métier :</strong> conception d’outils sur mesure, orientés performance</li>
+      </ul>
+      <p><strong>🏗️ Architecture & Qualité</strong></p>
+      <ul>
+        <li>Clean code, TDD, CI/CD</li>
+        <li>Structures maintenables et scalables</li>
+        <li>Suivi continu de la qualité grâce aux outils IA</li>
+      </ul>
+    </td>
+    <!-- Colonne droite -->
+    <td valign="top" width="35%">
+      <h2>🛠️ Stack Technique</h2>
+      <p><strong>🎨 Frontend</strong></p>
+      <ul>
+        <li>HTML5, CSS3, Sass</li>
+        <li>JavaScript, Svelte</li>
+        <li>WordPress, accessibilité & SEO</li>
+        <li>Interfaces modernes et responsives</li>
+      </ul>
+      <p><strong>⚙️ Backend</strong></p>
+      <ul>
+        <li>Node.js, Express</li>
+        <li>PostgreSQL, Sequelize, GraphQL</li>
+        <li>API performantes & sécurisées</li>
+      </ul>
+      <p><strong>🧰 Outils & DevOps</strong></p>
+      <ul>
+        <li>Git, Docker, Postman</li>
+        <li>CI/CD, Vercel, conteneurisation</li>
+        <li>Automatisation & optimisation via IA</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
