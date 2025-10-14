@@ -132,7 +132,7 @@
 
 ---
 
-<h2 align="center">🚀 Projets Phares</h2>
+<h2 align="center">🚀 Projets passés en CMS</h2>
 
 <table align="center">
 <tr>
