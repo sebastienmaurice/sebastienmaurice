@@ -34,7 +34,7 @@
         <img 
           width="100%" 
           style="max-width: 350px;"
-          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" 
+          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-siege.png" 
           alt="Crocodile Dundee">
       </td>
     </tr>
