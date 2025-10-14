@@ -7,38 +7,44 @@
 ---
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" valign="top">
-        <h1>
-          <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-               width="45" 
-               alt="emoji-blob">
-          Hello, moi c'est <strong>Sebastien</strong>
-        </h1>
-        <h3>
-          🚀 Développeur Full Stack JavaScript — Passionné par l'IA, l'automatisation et les apps modernes
-        </h3>
-        <p>
-          💻 Je conçois des applications web performantes et scalables — de la SPA à l'API complète
-        </p>
-        <ul>
-          <li>✨ Apprentissage et amélioration continue</li>
-          <li>🌱 Svelte, Node.js, PostgreSQL, Docker, IA</li>
-          <li>💻 Projets open source et apps réelles</li>
-          <li>🏗️ Architectures robustes et scalables</li>
-          <li>🤖 IA et automatisation pour gagner en productivité</li>
-        </ul>
-      </td>
-      <td width="40%" valign="top" align="right" style="padding: 20px;">
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h1>
         <img 
-          width="100%" 
-          style="max-width: 350px;"
-          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-siege.png" 
-          alt="Crocodile Dundee">
-      </td>
-    </tr>
-  </table>
+          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
+          width="45" 
+          alt="emoji-blob">
+        Hello, moi c'est <strong>Sebastien</strong>
+      </h1>
+      <h3>🚀 Développeur Full Stack JavaScript — augmenté par l’IA</h3>
+      <p>
+        💡 Formé chez <strong>O’clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile (niveau 5 – RNCP 37674)</em>.<br>
+        J’exploite la puissance de l’IA pour concevoir des applications plus rapides, plus intelligentes et plus élégantes.
+      </p>
+      <p>
+        🔍 De la maquette au déploiement, je combine <strong>créativité, rigueur et automatisation</strong> pour livrer des solutions modernes, scalables et efficaces.
+      </p>
+      <ul>
+        <li>✨ <strong>Frontend</strong> : HTML, CSS (Sass), JavaScript, Svelte / React</li>
+        <li>🧠 <strong>Backend</strong> : Node.js, Express, PostgreSQL, Sequelize</li>
+        <li>🐳 <strong>DevOps</strong> : Docker, API REST, CI/CD, automatisations IA</li>
+        <li>🤖 <strong>Outils IA</strong> : GitHub Copilot, ChatGPT API, automatisation de tâches</li>
+        <li>🧩 <strong>Approche</strong> : architectures maintenables, documentation claire, performance</li>
+      </ul>
+      <p>
+        🎯 Objectif : bâtir des expériences web puissantes, accessibles et intelligentes, en tirant parti de l’IA comme levier d’efficacité et d’innovation.
+      </p>
+    </td>
+    <td width="40%" valign="top" align="right" style="padding: 20px;">
+      <img 
+        width="100%" 
+        style="max-width: 350px;" 
+        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-siege.png" 
+        alt="Crocodile Dundee">
+    </td>
+  </tr>
+</table>
   <p>
     <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu</i>
   </p>
