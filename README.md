@@ -40,7 +40,7 @@
 <table align="center">
 <tr>
   <td valign="top" width="30%">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-assis-2.png" width="250" alt="Croco Dundee">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-livres.png" width="250" alt="Croco Dundee">
   </td>
 
   <td valign="top" width="35%">
