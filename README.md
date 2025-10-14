@@ -204,7 +204,7 @@ const developer = {
 <table align="center">
 <tr>
   <td width="30%" align="center">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" 
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-mdr.png" 
          width="150" 
          alt="Croco">
   </td>
