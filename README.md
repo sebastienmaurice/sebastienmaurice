@@ -160,7 +160,7 @@
       </ul>
       <br>
       <img 
-        src="https://skillicons.dev/icons?i=js,ts,svelte,nodejs,express,postgres,docker,git,html,css,sass,github,vercel" 
+        src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,html,css,sass,github" 
         alt="Tech Stack" 
         style="max-width: 90%; margin-top: 10px;">
     </td>
