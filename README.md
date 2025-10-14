@@ -282,7 +282,7 @@ const developer = {
        style="max-width: 120px;"
        alt="Super Croco">
   <br>
-  <i>🐊 "That's not a code... THAT's a code!" 🐊</i>
+  <i>"That's not a code... THAT's a code!"</i>
   <br>
   <sub>Fait avec ❤️ et beaucoup de ☕ par Sebastien Maurice</sub>
 </div>
