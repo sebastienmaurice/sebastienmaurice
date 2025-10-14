@@ -1,3 +1,13 @@
+# Sebastien Maurice - Full Stack Developer
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/banner-croco-dev.png" 
+       width="100%" 
+       alt="Sebastien Maurice - Full Stack Developer Banner">
+</div>
+
+---
+
 <div align="center">
   <table width="100%">
     <tr>
@@ -239,42 +249,4 @@ const developer = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" style="max-width: 800px;" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastienmaurice&theme=tokyo-night&hide_border=true" 
-       width="95%" 
-       style="max-width: 900px;"
-       alt="Graphique d'activité">
-</p>
-
----
-
-<h2 align="center">📫 Me contacter</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ton-profil">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ton-email@exemple.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://ton-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-vol.png" 
-       width="120" 
-       style="max-width: 120px;"
-       alt="Super Croco">
-  <br>
-  <i>🐊 "That's not a code... THAT's a code!" 🐊</i>
-  <br><br>
-  <sub>Fait avec ❤️ et beaucoup de ☕ par Sebastien Maurice</sub>
-</div>
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribu
