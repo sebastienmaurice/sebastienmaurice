@@ -245,7 +245,7 @@ const developer = {
        alt="Super Croco">
   <br>
   <i>🐊 "That's not a code... THAT's a code!" 🐊</i>
-  <br><br>
+  <br>
   <sub>Fait avec ❤️ et beaucoup de ☕ par Sebastien Maurice</sub>
 </div>
 
