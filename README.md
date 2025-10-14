@@ -119,7 +119,7 @@
 <table width="100%" align="center">
   <tr>
     <!-- Colonne gauche : statistiques -->
-    <td valign="top" width="55%">
+    <td valign="top" width="50%">
       <h2 align="center">📈 Statistiques GitHub</h2>
       <p align="center">
         <img 
@@ -141,7 +141,7 @@
       </p>
     </td>
     <!-- Colonne droite : activité actuelle -->
-    <td valign="top" width="45%" align="center" style="padding: 10px;">
+    <td valign="top" width="50%" align="center" style="padding: 10px;">
       <h2 align="center">🎯 Actuellement</h2>
       <img 
         src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
