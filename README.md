@@ -1,5 +1,5 @@
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td width="60%" valign="top">
         <h1>
@@ -24,7 +24,8 @@
       </td>
       <td width="40%" valign="top" align="right">
         <img 
-          width="350" 
+          width="100%" 
+          style="max-width: 350px;"
           src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/dundee-croco-profil-right.png" 
           alt="Crocodile Dundee">
       </td>
@@ -37,10 +38,13 @@
 
 ---
 
-<table align="center">
+<table width="100%" align="center">
 <tr>
-  <td valign="top" width="30%">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-livres.png" width="250" alt="Croco Dundee">
+  <td valign="top" width="30%" align="center">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-livres.png" 
+         width="100%" 
+         style="max-width: 250px;" 
+         alt="Croco Dundee">
   </td>
 
   <td valign="top" width="35%">
@@ -91,7 +95,7 @@
 
 ---
 
-<table align="center">
+<table width="100%" align="center">
 <tr>
   <td valign="top" width="55%">
     <h2 align="center">📈 Statistiques GitHub</h2>
@@ -120,7 +124,9 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
-     width="250" alt="Croco Dundee">
+     width="100%" 
+     style="max-width: 250px;" 
+     alt="Croco Dundee">
 
 <br><br>
 
@@ -132,14 +138,15 @@
 
 ---
 
-<h2 align="center">🚀 Projets passés en CMS</h2>
+<h2 align="center">🚀 Expérience passée - Projets CMS</h2>
 
-<table align="center">
+<table width="100%" align="center">
 <tr>
   <td align="center" width="25%">
     <a href="https://www.petitchateauvercourt.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" 
-           width="200" 
+           width="100%" 
+           style="max-width: 200px;"
            alt="Petit Château Vercourt">
     </a>
     <br>
@@ -150,7 +157,8 @@
   <td align="center" width="25%">
     <a href="https://rudylesaint-magnetiseur.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" 
-           width="200" 
+           width="100%" 
+           style="max-width: 200px;"
            alt="Rudy Le Saint">
     </a>
     <br>
@@ -161,7 +169,8 @@
   <td align="center" width="25%">
     <a href="https://www.palimpseste-urbain.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" 
-           width="200" 
+           width="100%" 
+           style="max-width: 200px;"
            alt="Palimpseste Urbain">
     </a>
     <br>
@@ -172,7 +181,8 @@
   <td align="center" width="25%">
     <a href="https://onaturel.eu/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" 
-           width="200" 
+           width="100%" 
+           style="max-width: 200px;"
            alt="Ô Natur'EL">
     </a>
     <br>
@@ -201,11 +211,12 @@ const developer = {
 
 <h2 align="center">🐊 Fun Facts - Mode Croco Dundee</h2>
 
-<table align="center">
+<table width="100%" align="center">
 <tr>
   <td width="30%" align="center">
     <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-mdr.png" 
-         width="150" 
+         width="100%" 
+         style="max-width: 150px;"
          alt="Croco">
   </td>
   <td width="70%">
@@ -228,13 +239,15 @@ const developer = {
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-light.svg" />
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" style="max-width: 800px;" />
   </picture>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastienmaurice&theme=tokyo-night&hide_border=true" 
-       width="95%" alt="Graphique d'activité">
+       width="95%" 
+       style="max-width: 900px;"
+       alt="Graphique d'activité">
 </p>
 
 ---
@@ -256,11 +269,12 @@ const developer = {
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-vol.png" 
        width="120" 
+       style="max-width: 120px;"
        alt="Super Croco">
   <br>
   <i>🐊 "That's not a code... THAT's a code!" 🐊</i>
-  <br>
+  <br><br>
   <sub>Fait avec ❤️ et beaucoup de ☕ par Sebastien Maurice</sub>
 </div>
