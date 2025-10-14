@@ -20,7 +20,7 @@
       <h3>🚀 Développeur Full Stack JavaScript (augmenté par IA)</h3>
       <p>
         💡 Formé chez <strong>O’clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile</em>.<br>
-        J’exploite la puissance de l’IA pour concevoir des applications plus rapides, plus intelligentes et plus élégantes.
+        <i> J’exploite la puissance de l’IA pour concevoir des applications plus rapides, plus intelligentes et plus élégantes.
       </p>
       <p>
         🔍 De la maquette au déploiement, je combine <strong>créativité, rigueur et automatisation</strong> pour livrer des solutions modernes, scalables et efficaces.
