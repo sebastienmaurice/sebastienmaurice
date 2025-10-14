@@ -123,6 +123,13 @@
 
   <td valign="top" width="45%" align="center">
     <h2 align="center">🎯 Actuellement</h2>
+
+
+<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
+     width="100%" 
+     style="max-width: 250px;" 
+     alt="Croco Dundee">
+
     
 - ✨ Projets **Full Stack JavaScript**
 - ✨ Apprentissage de **TypeScript & microservices**
