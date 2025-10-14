@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/banniere-croco-github.jpg" 
+  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/banniere-croco-github-1.jpg" 
        width="100%" 
        alt="Sebastien Maurice - Full Stack Developer Banner">
 </div>
