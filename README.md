@@ -4,6 +4,8 @@
        alt="Sebastien Maurice - Full Stack Developer Banner">
 </div>
 
+---
+
 <div align="center">
   <table width="100%">
     <tr>
