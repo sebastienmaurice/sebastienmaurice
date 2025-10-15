@@ -1,559 +1,181 @@
-<!-- 
-  ===========================================
-  GITHUB PROFILE README - SEBASTIEN MAURICE
-  ===========================================
-  Version optimisée avec commentaires détaillés
-  Thème : Croco Dundee Developer
-  
-  STRUCTURE DU DOCUMENT :
-  1. Bannière principale
-  2. Section présentation (hero)
-  3. Compétences et stack technique
-  4. Badges de profil
-  5. Statistiques GitHub
-  6. Projets CMS
-  7. Philosophie de développement
-  8. Fun Facts
-  9. Activité récente
-  10. Contact
-  11. Footer
--->
+<!-- README - Sebastien Maurice (HTML complet, responsive, palette Croco Dundee) -->
+<div align="center" style="font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; color:#E6E6E6; background:transparent; line-height:1.45;">
 
-<!-- 
-  ==================
-  BANNIÈRE PRINCIPALE
-  ==================
-  Image full-width pour un impact visuel immédiat
-  Astuce : Optimisez cette image pour le web (< 500KB)
--->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/banniere-croco-github-1.jpg" 
-       width="100%" 
-       alt="Sebastien Maurice - Développeur Full Stack JavaScript spécialisé en Svelte et Node.js">
-  <!-- Alt text amélioré pour le SEO et l'accessibilité -->
+  <!-- Header / Lang switch -->
+  <div style="width:100%; max-width:1100px; margin:18px auto 6px; display:flex; justify-content:space-between; align-items:center;">
+    <div style="display:flex; align-items:center; gap:12px;">
+      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-vol.png"
+           alt="Logo Croco" width="64" height="64" style="border-radius:12px;" loading="lazy">
+      <div style="text-align:left;">
+        <h1 style="margin:0; color:#D9B45A;">Sebastien Maurice — Full Stack JavaScript</h1>
+        <div style="font-size:0.9rem; color:#E6E6E6;">Svelte · Node.js · PostgreSQL · IA pour accélérer la livraison</div>
+      </div>
+    </div>
+    <div style="font-size:0.9rem;">
+      <a href="#fr" style="text-decoration:none; margin-right:8px;">🇫🇷 Français</a> |
+      <a href="#en" style="text-decoration:none; margin-left:8px;">🇬🇧 English</a>
+    </div>
+  </div>
+
+  <hr style="width:100%; max-width:1100px; border:none; height:1px; background:#2A6049; opacity:0.18; margin:12px auto;" />
+
+  <!-- HERO -->
+  <div style="max-width:1100px; margin:18px auto; display:flex; gap:20px; align-items:flex-start; flex-wrap:wrap;">
+    <div style="flex:1 1 420px; min-width:280px;">
+      <h2 id="fr" style="margin:0 0 8px 0; color:#D9B45A;">Salut — je suis Seb, développeur Full Stack</h2>
+      <h3 style="margin:0 0 12px 0; color:#E6E6E6; font-weight:600;">Je conçois des applications robustes, performantes et augmentées par l'IA.</h3>
+      <p style="margin:8px 0 12px 0; color:#E6E6E6;">
+        Formé chez O'clock, j'accompagne la conception de produits web — de la maquette au déploiement.
+        Mon approche : simplicité, maintenabilité et automatisation intelligente pour accélérer la production.
+      </p>
+      <div style="display:flex; gap:10px; flex-wrap:wrap; margin-top:8px;">
+        <a href="https://github.com/sebastienmaurice" target="_blank" style="text-decoration:none; padding:8px 12px; border-radius:10px; background:#2A6049; color:#fff; font-weight:600;">Repos · Code</a>
+        <a href="https://www.linkedin.com/in/sebastien-maurice" target="_blank" style="text-decoration:none; padding:8px 12px; border-radius:10px; background:#D9B45A; color:#0D1117; font-weight:600;">LinkedIn</a>
+        <a href="mailto:overseb75@gmail.com" style="text-decoration:none; padding:8px 12px; border-radius:10px; background:transparent; border:1px solid rgba(233,233,233,0.08); color:#E6E6E6;">Email</a>
+      </div>
+      <!-- Quick stack badges -->
+      <div style="margin-top:14px; display:flex; gap:8px; flex-wrap:wrap;">
+        <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black" alt="JS" loading="lazy" style="height:28px;">
+        <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" loading="lazy" style="height:28px;">
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" loading="lazy" style="height:28px;">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" loading="lazy" style="height:28px;">
+        <img src="https://img.shields.io/badge/IA-Automation-222?style=flat-square&logo=openai&logoColor=white" alt="IA" loading="lazy" style="height:28px;">
+      </div>
+    </div>
+    <div style="flex:0 1 300px; min-width:220px; text-align:center;">
+      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-siege.png"
+           alt="Mascotte Croco" style="max-width:260px; width:100%; height:auto; border-radius:12px;" loading="lazy">
+      <div style="margin-top:10px; color:#CFCFCF;">Clean code · Tests · CI/CD · Documentation</div>
+    </div>
+  </div>
+
+  <hr style="width:100%; max-width:1100px; border:none; height:1px; background:#2A6049; opacity:0.12; margin:18px auto;" />
+
+  <!-- STACK DETAIL -->
+  <div style="max-width:1100px; margin:6px auto 18px; display:flex; gap:20px; flex-wrap:wrap;">
+    <div style="flex:1 1 300px; min-width:240px; background:transparent; padding:14px; border-radius:10px;">
+      <h4 style="margin:0 0 8px 0; color:#D9B45A;">Ce que je fais</h4>
+      <ul style="margin:8px 0 0 18px; color:#E6E6E6;">
+        <li>Conception d'applications Full Stack (Svelte / Node / PostgreSQL)</li>
+        <li>API REST & GraphQL bien documentées</li>
+        <li>Automatisation & intégration IA pour gains de productivité</li>
+        <li>CI/CD, tests et déploiement containerisé</li>
+      </ul>
+    </div>
+    <div style="flex:1 1 320px; min-width:240px; background:transparent; padding:14px; border-radius:10px;">
+      <h4 style="margin:0 0 8px 0; color:#D9B45A;">Stack & outils</h4>
+      <div style="display:flex; gap:8px; flex-wrap:wrap;">
+        <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,html,css,sass,github" alt="stack icons" style="max-width:100%; height:34px;" loading="lazy">
+      </div>
+      <p style="margin-top:10px; color:#CFCFCF; font-size:0.95rem;">Clean code · TDD · Architecture maintenable · Performances</p>
+    </div>
+  </div>
+
+  <!-- PINNED PROJECTS -->
+  <div style="max-width:1100px; margin:6px auto 18px; padding:12px; border-radius:12px; background:rgba(42,96,73,0.06);">
+    <h3 style="margin:6px 0 12px 0; color:#D9B45A; text-align:center;">📌 Projets en vitrine</h3>
+    <div style="display:flex; gap:14px; flex-wrap:wrap; justify-content:center;">
+      <!-- O'Kanban -->
+      <div style="flex:1 1 320px; max-width:420px; min-width:260px; background:transparent; padding:12px; border-radius:8px; text-align:left;">
+        <a href="https://github.com/sebastienmaurice/o-kanban" target="_blank" style="text-decoration:none; color:inherit;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebastienmaurice&repo=o-kanban&theme=tokyonight&hide_border=true"
+               alt="O'Kanban" style="width:100%; height:auto; border-radius:8px;" loading="lazy">
+          <h4 style="margin:8px 0 0 0; color:#E6E6E6;">O’Kanban</h4>
+          <p style="margin:6px 0 0 0; color:#CFCFCF; font-size:0.93rem;">Board Kanban sur-mesure — workflow et automatisations.</p>
+        </a>
+      </div>
+      <!-- O'Coffee -->
+      <div style="flex:1 1 320px; max-width:420px; min-width:260px; background:transparent; padding:12px; border-radius:8px; text-align:left;">
+        <a href="https://github.com/sebastienmaurice/o-coffee" target="_blank" style="text-decoration:none; color:inherit;">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sebastienmaurice&repo=o-coffee&theme=tokyonight&hide_border=true"
+               alt="O'Coffee" style="width:100%; height:auto; border-radius:8px;" loading="lazy">
+          <h4 style="margin:8px 0 0 0; color:#E6E6E6;">O’Coffee</h4>
+          <p style="margin:6px 0 0 0; color:#CFCFCF; font-size:0.93rem;">Petits outils & démos — automatismes et utilitaires.</p>
+        </a>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- CMS PROJECTS GALLERY -->
+  <div style="max-width:1100px; margin:6px auto 18px; padding:6px;">
+    <h3 style="margin:4px 0 12px 0; color:#D9B45A; text-align:center;">🚀 Expérience passée — Projets CMS</h3>
+    <div style="display:flex; gap:18px; flex-wrap:wrap; justify-content:center;">
+      <!-- Project card template -->
+      <div style="flex:1 1 220px; max-width:260px; min-width:200px; text-align:center; padding:12px; border-radius:10px; background:rgba(13,17,23,0.12);">
+        <a href="https://www.petitchateauvercourt.com/" target="_blank" style="text-decoration:none; color:inherit;">
+          <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg"
+               alt="Petit Chateau Vercourt" style="width:100%; max-width:220px; border-radius:8px; height:auto;" loading="lazy">
+          <h4 style="margin:10px 0 6px 0; color:#E6E6E6;">Petit Château Vercourt</h4>
+          <div style="font-size:0.9rem; color:#CFCFCF; margin-bottom:8px;">Gîte de charme — site WordPress</div>
+          <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
+            <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WP" style="height:22px;" loading="lazy">
+            <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" alt="Elementor" style="height:22px;" loading="lazy">
+          </div>
+          <div style="margin-top:10px;"><a href="https://www.petitchateauvercourt.com/" target="_blank" style="text-decoration:none; color:#0D1117; background:#D9B45A; padding:8px 12px; border-radius:8px; font-weight:600;">🔗 Voir le site</a></div>
+        </a>
+      </div>
+      <div style="flex:1 1 220px; max-width:260px; min-width:200px; text-align:center; padding:12px; border-radius:10px; background:rgba(13,17,23,0.12);">
+        <a href="https://rudylesaint-magnetiseur.com/" target="_blank" style="text-decoration:none; color:inherit;">
+          <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg"
+               alt="Rudy Le Saint" style="width:100%; max-width:220px; border-radius:8px; height:auto;" loading="lazy">
+          <h4 style="margin:10px 0 6px 0; color:#E6E6E6;">Rudy Le Saint</h4>
+          <div style="font-size:0.9rem; color:#CFCFCF; margin-bottom:8px;">Magnétiseur — site de présentation</div>
+          <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
+            <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WP" style="height:22px;" loading="lazy">
+          </div>
+          <div style="margin-top:10px;"><a href="https://rudylesaint-magnetiseur.com/" target="_blank" style="text-decoration:none; color:#0D1117; background:#D9B45A; padding:8px 12px; border-radius:8px; font-weight:600;">🔗 Voir le site</a></div>
+        </a>
+      </div>
+      <div style="flex:1 1 220px; max-width:260px; min-width:200px; text-align:center; padding:12px; border-radius:10px; background:rgba(13,17,23,0.12);">
+        <a href="https://www.palimpseste-urbain.com/" target="_blank" style="text-decoration:none; color:inherit;">
+          <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg"
+               alt="Palimpseste Urbain" style="width:100%; max-width:220px; border-radius:8px; height:auto;" loading="lazy">
+          <h4 style="margin:10px 0 6px 0; color:#E6E6E6;">Palimpseste Urbain</h4>
+          <div style="font-size:0.9rem; color:#CFCFCF; margin-bottom:8px;">Agence d'architecture — site vitrine</div>
+          <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
+            <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WP" style="height:22px;" loading="lazy">
+          </div>
+          <div style="margin-top:10px;"><a href="https://www.palimpseste-urbain.com/" target="_blank" style="text-decoration:none; color:#0D1117; background:#D9B45A; padding:8px 12px; border-radius:8px; font-weight:600;">🔗 Voir le site</a></div>
+        </a>
+      </div>
+      <div style="flex:1 1 220px; max-width:260px; min-width:200px; text-align:center; padding:12px; border-radius:10px; background:rgba(13,17,23,0.12);">
+        <a href="https://onaturel.eu/" target="_blank" style="text-decoration:none; color:inherit;">
+          <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg"
+               alt="Ô Natur'EL" style="width:100%; max-width:220px; border-radius:8px; height:auto;" loading="lazy">
+          <h4 style="margin:10px 0 6px 0; color:#E6E6E6;">Ô Natur'EL</h4>
+          <div style="font-size:0.9rem; color:#CFCFCF; margin-bottom:8px;">Naturopathie & hypnose — accompagnement</div>
+          <div style="display:flex; gap:8px; justify-content:center; flex-wrap:wrap;">
+            <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WP" style="height:22px;" loading="lazy">
+          </div>
+          <div style="margin-top:10px;"><a href="https://onaturel.eu/" target="_blank" style="text-decoration:none; color:#0D1117; background:#D9B45A; padding:8px 12px; border-radius:8px; font-weight:600;">🔗 Voir le site</a></div>
+        </a>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- GITHUB STATS -->
+  <div style="max-width:1100px; margin:6px auto 18px; display:flex; gap:18px; flex-wrap:wrap; align-items:flex-start;">
+    <div style="flex:1 1 520px; min-width:260px; text-align:center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+           alt="GitHub Stats" style="width:100%; max-width:520px; height:auto; border-radius:8px;" loading="lazy">
+    </div>
+    <div style="flex:1 1 320px; min-width:240px; text-align:center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true"
+           alt="Top languages" style="width:100%; max-width:320px; height:auto; border-radius:8px;" loading="lazy">
+      <div style="margin-top:12px; color:#CFCFCF; font-size:0.95rem;">Suivi de contributions et langages principaux.</div>
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <div style="max-width:1100px; margin:12px auto 48px; text-align:center; color:#CFCFCF;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" alt="croco" width="96" style="margin-bottom:8px;" loading="lazy">
+    <div style="font-style:italic; color:#E6E6E6;">"That's not a code... THAT's a code!"</div>
+    <div style="margin-top:10px; font-size:0.9rem;">Fait avec ❤️ et ☕ par Sebastien Maurice — © <span id="year"></span></div>
+  </div>
+
 </div>
 
----
-
-<!-- 
-  ==================
-  SECTION HERO
-  ==================
-  Mise en page en tableau pour un rendu desktop optimal
-  - Colonne gauche (60%) : Texte de présentation
-  - Colonne droite (40%) : Image mascotte
--->
-<div align="center">
-<table width="100%">
-  <tr>
-    <!-- COLONNE GAUCHE : Contenu principal -->
-    <td width="60%" valign="top">
-      <!-- En-tête avec animation GIF pour attirer l'attention -->
-      <h1>
-        <img 
-          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-          width="45" 
-          alt="Blob animé avec lunettes de soleil">
-        Hello, moi c'est <strong>Sebastien</strong>
-      </h1>
-      <!-- Sous-titre accrocheur avec emoji -->
-      <h3>🚀 Développeur Full Stack JavaScript (augmenté par IA)</h3>
-      <!-- 
-        PRÉSENTATION EN 2 PARAGRAPHES
-        - Paragraphe 1 : Formation et approche IA
-        - Paragraphe 2 : Méthodologie et valeur ajoutée
-      -->
-      <p>
-        💡 Formé chez <strong>O'clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile</em>.<br>
-        <i>J'exploite la puissance de l'IA pour concevoir des applications plus rapides, plus intelligentes et plus élégantes.</i>
-      </p>
-      <p>
-        🔍 De la maquette au déploiement, je combine <strong>créativité, rigueur et automatisation</strong> pour livrer des solutions modernes, scalables et efficaces.
-      </p>
-      <!-- 
-        COMPÉTENCES PRINCIPALES
-        Liste concise organisée par catégorie
-        Conseil : Mettre à jour régulièrement selon les projets
-      -->
-      <ul>
-        <li>✨ <strong>Frontend</strong> : HTML, CSS (Sass), JavaScript, Svelte / React</li>
-        <li>🧠 <strong>Backend</strong> : Node.js, Express, PostgreSQL, Sequelize</li>
-        <li>🐳 <strong>DevOps</strong> : Docker, API REST, CI/CD, automatisations IA</li>
-        <li>🤖 <strong>Outils IA</strong> : GitHub Copilot, ChatGPT API, automatisation de tâches</li>
-        <li>🧩 <strong>Approche</strong> : architectures maintenables, documentation claire, performance</li>
-      </ul>
-      <!-- 
-        PROPOSITION DE VALEUR
-        Message clé résumant l'objectif professionnel
-      -->
-      <p>
-        🎯 <strong>Objectif :</strong> bâtir des expériences web puissantes, accessibles et intelligentes, en tirant parti de l'IA comme levier d'efficacité et d'innovation.
-      </p>
-    </td>
-    <!-- COLONNE DROITE : Image mascotte -->
-    <td width="40%" valign="top" align="right" style="padding: 20px;">
-      <img 
-        width="100%" 
-        style="max-width: 350px;" 
-        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-siege.png" 
-        alt="Mascotte Crocodile Dundee assis, représentant le développeur">
-      <!-- Image thématique pour renforcer l'identité visuelle -->
-    </td>
-  </tr>
-</table>
-  <!-- Tagline mémorable -->
-  <p>
-    <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu</i>
-  </p>
-</div>
-
----
-
-<!-- 
-  ==================
-  COMPÉTENCES DÉTAILLÉES
-  ==================
-  Layout en 3 colonnes pour une vue d'ensemble complète
-  - Gauche : Image décorative
-  - Centre : Ce que je fais (services)
-  - Droite : Stack technique détaillée
--->
-<table width="100%" align="center">
-  <tr>
-    <!-- COLONNE GAUCHE : Image décorative -->
-    <td valign="top" width="30%" align="center">
-      <img 
-        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-livres.png" 
-        width="100%" 
-        style="max-width: 250px; padding: 10px;" 
-        alt="Crocodile Dundee en train de lire - Représente l'apprentissage continu">
-    </td>
-    <!-- COLONNE CENTRALE : Services et approche -->
-    <td valign="top" width="35%">
-      <h2>⚡ Ce que je fais</h2>
-      <!-- Service principal -->
-      <p><strong>🎯 Full Stack JavaScript augmenté par l'IA</strong><br>
-      Je conçois des applications web modernes et performantes, du front au back, en tirant parti de l'intelligence artificielle pour accélérer la production et renforcer la qualité du code.</p>
-      <!-- Liste des services spécifiques -->
-      <ul>
-        <li>💻 <strong>Stack :</strong> Svelte / Node.js / Express / PostgreSQL</li>
-        <li>🔗 <strong>API :</strong> REST & GraphQL, sécurisées et documentées</li>
-        <li>🧠 <strong>IA & Automatisation :</strong> Copilot, ChatGPT API, scripts IA</li>
-        <li>📱 <strong>Apps métier :</strong> conception d'outils sur mesure, orientés performance</li>
-      </ul>
-      <!-- Méthodologie et qualité -->
-      <p><strong>🏗️ Architecture & Qualité</strong></p>
-      <ul>
-        <li>Clean code, TDD, CI/CD</li>
-        <li>Structures maintenables et scalables</li>
-        <li>Suivi continu de la qualité grâce aux outils IA</li>
-      </ul>
-    </td>
-    <!-- COLONNE DROITE : Stack technique complète -->
-    <td valign="top" width="35%">
-      <h2>🛠️ Stack Technique</h2>
-      <!-- Frontend technologies -->
-      <p><strong>🎨 Frontend</strong></p>
-      <ul>
-        <li>HTML5, CSS3, Sass</li>
-        <li>JavaScript, Svelte</li>
-        <li>WordPress, accessibilité & SEO</li>
-        <li>Interfaces modernes et responsives</li>
-      </ul>
-      <!-- Backend technologies -->
-      <p><strong>⚙️ Backend</strong></p>
-      <ul>
-        <li>Node.js, Express</li>
-        <li>PostgreSQL, Sequelize, GraphQL</li>
-        <li>API performantes & sécurisées</li>
-      </ul>
-      <!-- DevOps et outils -->
-      <p><strong>🧰 Outils & DevOps</strong></p>
-      <ul>
-        <li>Git, Docker, Postman</li>
-        <li>CI/CD, Vercel, conteneurisation</li>
-        <li>Automatisation & optimisation via IA</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- 
-  ==================
-  BADGES DE PROFIL
-  ==================
-  Statistiques sociales pour crédibilité
-  Générés dynamiquement via shields.io et services tiers
--->
-<p align="center">
-  <!-- Badge Followers GitHub -->
-  <img src="https://img.shields.io/github/followers/sebastienmaurice?style=for-the-badge&logo=github&label=Followers&color=success" 
-       alt="Nombre de followers GitHub" />
-  <!-- Badge Stars totales -->
-  <img src="https://img.shields.io/github/stars/sebastienmaurice?style=for-the-badge&logo=starship&label=Stars&color=yellow" 
-       alt="Nombre total de stars sur les repos" />
-  <!-- Compteur de vues du profil -->
-  <img src="https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet&label=Visiteurs" 
-       alt="Nombre de vues du profil GitHub" />
-</p>
-
----
-
-<!-- 
-  ==================
-  STATISTIQUES GITHUB
-  ==================
-  Tableau en 2 colonnes :
-  - Gauche (60%) : Graphiques de stats
-  - Droite (40%) : Activité actuelle et icônes tech
--->
-<table width="100%" align="center">
-  <tr>
-    <!-- COLONNE GAUCHE : Stats visuelles -->
-    <td valign="top" width="60%">
-      <h2 align="center">📈 Statistiques GitHub</h2>
-      <!-- 
-        STATS PRINCIPALES
-        Via github-readme-stats par anuraghazra
-        Options personnalisées : thème tokyo-night, sans bordures
-      -->
-      <p align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-          width="100%" 
-          alt="Statistiques GitHub globales de Sebastien Maurice">
-      </p>
-      <!-- 
-        STREAK STATS
-        Suivi de la régularité des contributions
-      -->
-      <p align="center">
-        <img 
-          src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
-          width="100%" 
-          alt="Séquence de contributions GitHub">
-      </p>
-      <!-- 
-        LANGAGES LES PLUS UTILISÉS
-        Analyse automatique des repos publics
-      -->
-      <p align="center">
-        <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" 
-          width="100%" 
-          alt="Langages de programmation les plus utilisés">
-      </p>
-    </td>
-    <!-- COLONNE DROITE : Activité actuelle -->
-    <td valign="top" width="40%" align="center" style="padding: 10px;">
-      <h2 align="center">🎯 Actuellement</h2>
-      <!-- Image mascotte thématique -->
-      <img 
-        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
-        width="100%" 
-        style="max-width: 250px; margin-bottom: 15px;" 
-        alt="Super Crocodile Dundee - Mascotte en action">
-      <!-- 
-        OBJECTIFS ACTUELS
-        À mettre à jour tous les 2-3 mois selon l'évolution
-      -->
-      <p align="left">
-        🚀 En pleine évolution vers un profil <strong>Full Stack JavaScript augmenté par l'IA</strong>.<br>
-        Je mets à profit mes compétences pour construire des apps intelligentes et performantes, en explorant les technologies de demain.
-      </p>
-      <!-- Liste des activités en cours -->
-      <ul align="left">
-        <li>✨ Projets <strong>Full Stack JavaScript</strong> (Svelte / Node / PostgreSQL)</li>
-        <li>🧩 Exploration de <strong>TypeScript avancé</strong> & des <strong>architectures microservices</strong></li>
-        <li>🤝 Collaborations <strong>open source</strong> et partage de savoir</li>
-        <li>💬 Conseil & mentorat sur <strong>Svelte, Node.js, PostgreSQL</strong></li>
-      </ul>
-      <br>
-      <!-- 
-        ICÔNES TECHNOLOGIQUES
-        Via skillicons.dev - génération automatique d'icônes
-        Conseil : Limiter à 9-12 icônes pour la lisibilité
-      -->
-      <img 
-        src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,html,css,sass,github" 
-        alt="Stack technique : JavaScript, Svelte, Node.js, Express, PostgreSQL, HTML, CSS, Sass, GitHub" 
-        style="max-width: 90%; margin-top: 10px;">
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- 
-  ==================
-  PORTFOLIO PROJETS CMS
-  ==================
-  Galerie de 4 projets WordPress/CMS
-  Layout en tableau 4 colonnes égales
-  
-  AMÉLIORATION SUGGÉRÉE :
-  Ajouter des badges de technologie sous chaque projet
-  Ex: WordPress, PHP, Elementor, etc.
--->
-<h2 align="center">🚀 Expérience passée - Projets CMS</h2>
-
-<table width="100%" align="center">
-<tr>
-  <!-- PROJET 1 : Petit Château Vercourt -->
-  <td align="center" width="25%">
-    <a href="https://www.petitchateauvercourt.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" 
-           width="100%" 
-           style="max-width: 200px;"
-           alt="Capture d'écran du site Petit Château Vercourt - Gîte de charme">
-    </a>
-    <br>
-    <strong>Petit Château Vercourt</strong>
-    <br>
-    <sub>Gîte de charme pour se ressourcer — Destination de détente et d'évasion en pleine nature</sub>
-    <!-- 
-      AMÉLIORATION : Ajouter les badges tech
-      <br><br>
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress">
-      <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" alt="Elementor">
-    -->
-  </td>
-  <!-- PROJET 2 : Rudy Le Saint -->
-  <td align="center" width="25%">
-    <a href="https://rudylesaint-magnetiseur.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" 
-           width="100%" 
-           style="max-width: 200px;"
-           alt="Capture d'écran du site Rudy Le Saint - Magnétiseur">
-    </a>
-    <br>
-    <strong>Rudy Le Saint</strong>
-    <br>
-    <sub>Site de magnétiseur — Soins énergétiques et bien-être par imposition des mains</sub>
-  </td>
-  <!-- PROJET 3 : Palimpseste Urbain -->
-  <td align="center" width="25%">
-    <a href="https://www.palimpseste-urbain.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" 
-           width="100%" 
-           style="max-width: 200px;"
-           alt="Capture d'écran du site Palimpseste Urbain - Agence d'architecture">
-    </a>
-    <br>
-    <strong>Palimpseste Urbain</strong>
-    <br>
-    <sub>Agence d'architecture et urbanisme — Projets de ville résiliente et santé urbaine</sub>
-  </td>
-  <!-- PROJET 4 : Ô Natur'EL -->
-  <td align="center" width="25%">
-    <a href="https://onaturel.eu/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" 
-           width="100%" 
-           style="max-width: 200px;"
-           alt="Capture d'écran du site Ô Natur'EL - Naturopathie et hypnose">
-    </a>
-    <br>
-    <strong>Ô Natur'EL</strong>
-    <br>
-    <sub>Praticienne en naturopathie et hypnose — Accompagnement holistique vers le bien-être naturel</sub>
-  </td>
-</tr>
-</table>
-
----
-
-<!-- 
-  ==================
-  PHILOSOPHIE DE DÉVELOPPEMENT
-  ==================
-  Bloc de code JavaScript pour un effet "developer-friendly"
-  Résume les valeurs et l'approche professionnelle
--->
-<h2 align="center">💡 Ma philosophie</h2>
-
-```javascript
-const developer = {
-  name: "Sebastien Maurice",
-  mindset: "Apprendre en faisant 🛠️",
-  approach: "Code lisible & maintenable > Code clever",
-  tools: ["Documentation 📚", "Communauté 🌐", "CMS & Frameworks 🖥️"],
-  goal: "Créer de la valeur avec du code et des projets utiles 🚀"
-};
-// Toujours prêt pour de nouveaux défis !
-console.log(`${developer.name} is ready to code! 🐊`);
-```
-
----
-
-<!-- 
-  ==================
-  FUN FACTS - MODE CROCO DUNDEE
-  ==================
-  Section légère pour humaniser le profil
-  Renforce l'identité de marque personnelle
--->
-<h2 align="center">🐊 Fun Facts - Mode Croco Dundee</h2>
-
-<table width="100%" align="center">
-<tr>
-  <!-- Colonne image -->
-  <td width="30%" align="center">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-mdr.png" 
-         width="100%" 
-         style="max-width: 150px;"
-         alt="Crocodile Dundee qui rit - Humour développeur">
-  </td>
-  <!-- Colonne liste de fun facts -->
-  <td width="70%">
-    <ul>
-      <li>🐊 <strong>"That's not a bug... THAT's a bug!"</strong> — Je chasse les bugs comme Dundee chasse les crocos</li>
-      <li>🔪 <strong>Mon couteau suisse ?</strong> VS Code, Docker et une bonne tasse de café ☕</li>
-      <li>🌏 <strong>De l'outback au web :</strong> J'explore les territoires du code avec la même audace</li>
-      <li>🪃 <strong>Mon boomerang :</strong> Les bonnes pratiques reviennent toujours !</li>
-      <li>🎯 <strong>Philosophie Dundee :</strong> Simple, efficace, et toujours avec le sourire</li>
-    </ul>
-  </td>
-</tr>
-</table>
-
----
-
-<!-- 
-  ==================
-  ACTIVITÉ RÉCENTE
-  ==================
-  Visualisations dynamiques de l'activité GitHub
-  - Snake animation (mange les contributions)
-  - Graphique d'activité annuelle
--->
-<h2 align="center">📊 Activité récente</h2>
-
-<!-- 
-  SNAKE ANIMATION
-  Animation ludique qui "mange" les contributions
-  Supporte le dark/light mode via <picture>
-  
-  INSTALLATION :
-  Nécessite une GitHub Action pour générer les SVG
-  Voir : github.com/Platane/snk
--->
-<p align="center">
-  <picture>
-    <!-- Version dark mode -->
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-dark.svg" />
-    <!-- Version light mode -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake-light.svg" />
-    <!-- Fallback -->
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/output/github-contribution-grid-snake.svg" 
-         alt="Animation serpent mangeant les contributions GitHub" 
-         width="100%" 
-         style="max-width: 800px;" />
-  </picture>
-</p>
-
-<!-- 
-  GRAPHIQUE D'ACTIVITÉ
-  Timeline des contributions sur l'année
--->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sebastienmaurice&theme=tokyo-night&hide_border=true" 
-       width="95%" 
-       style="max-width: 900px;"
-       alt="Graphique d'activité GitHub annuel avec thème Tokyo Night">
-</p>
-
----
-
-<!-- 
-  ==================
-  SECTION CONTACT
-  ==================
-  Boutons d'action pour contacter le développeur
-  3 canaux principaux : LinkedIn, Email, GitHub
-  
-  CONSEIL : Garder 3-4 liens maximum pour ne pas diluer
--->
-<h2 align="center">📫 Me contacter</h2>
-
-<p align="center">
-  <!-- LinkedIn - Principal réseau professionnel -->
-  <a href="https://www.linkedin.com/in/sebastien-maurice" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="Profil LinkedIn de Sebastien Maurice">
-  </a>
-  <!-- Email - Contact direct -->
-  <a href="mailto:overseb75@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Envoyer un email à overseb75@gmail.com">
-  </a>
-  <!-- GitHub - Portfolio de code -->
-  <a href="https://github.com/sebastienmaurice" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
-         alt="Profil GitHub de Sebastien Maurice">
-  </a>
-</p>
-
-<!-- 
-  AMÉLIORATION OPTIONNELLE :
-  Ajouter un badge de disponibilité pour freelance/missions
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Statut-Disponible_pour_missions-success?style=for-the-badge" 
-         alt="Disponible pour missions freelance">
-  </p>
--->
-
----
-
-<!-- 
-  ==================
-  FOOTER
-  ==================
-  Signature finale avec mascotte et citation
-  Message de fermeture chaleureux
--->
-<div align="center">
-  <!-- Image mascotte finale -->
-  <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-vol.png" 
-       width="120" 
-       style="max-width: 120px;"
-       alt="Super Crocodile Dundee en vol - Logo signature">
-  <br>
-  <!-- Citation signature du personnage -->
-  <i>"That's not a code... THAT's a code!"</i>
-  <br>
-  <!-- Copyright et signature -->
-  <sub>Fait avec ❤️ et beaucoup de ☕ par Sebastien Maurice</sub>
-</div>
-
-<!-- 
-  ==================
-  FIN DU README
-  ==================
-  
-  CHECKLIST DE MAINTENANCE :
-  □ Mettre à jour la section "Actuellement" tous les 2-3 mois
-  □ Ajouter les nouveaux projets significatifs
-  □ Vérifier que toutes les images se chargent
-  □ Tester les liens externes périodiquement
-  □ Adapter la stack technique selon l'évolution
-  □ Vérifier les statistiques GitHub (parfois les services externes tombent)
-  
-  OPTIMISATIONS FUTURES POSSIBLES :
-  □ Ajouter une section "Projets Open Source" avec repos épinglés
-  □ Créer des GIFs de démo pour les projets
-  □ Ajouter des témoignages clients (si autorisé)
-  □ Intégrer un blog ou articles techniques
-  □ Créer une version multilingue (EN/FR)
-  □ Ajouter des badges de certifications
-  
-  RESSOURCES UTILES :
-  - Shields.io : https://shields.io (badges personnalisés)
-  - GitHub Stats : https://github.com/anuraghazra/github-readme-stats
-  - Skill Icons : https://skillicons.dev
-  - Snake Animation : https://github.com/Platane/snk
--->
+<!-- Minimal JS to inject year (works on GitHub pages but will be ignored in raw README view) -->
+<script>try{document.getElementById('year').textContent=new Date().getFullYear()}catch(e){}</script>
