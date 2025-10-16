@@ -278,7 +278,7 @@
       -->
       <img 
         src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,html,css,sass,github" 
-        alt="Stack technique : JavaScript, Svelte, Node.js, Express, PostgreSQL, HTML, CSS, Sass, GitHub" 
+        alt="Stack technique : JavaScript, Svelte, Node.js, Express, PostgreSQL, HTML, CSS, GitHub" 
         style="max-width: 90%; margin-top: 10px;">
     </td>
   </tr>
