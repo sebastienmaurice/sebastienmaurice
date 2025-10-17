@@ -37,9 +37,8 @@
 
 <!-- 
   ==================
-  SECTION HERO
+  SECTION HERO (version orientée Frontend)
   ==================
-  Mise en page en tableau pour un rendu desktop optimal
   - Colonne gauche (60%) : Texte de présentation
   - Colonne droite (40%) : Image mascotte
 -->
@@ -48,7 +47,7 @@
   <tr>
     <!-- COLONNE GAUCHE : Contenu principal -->
     <td width="60%" valign="top">
-      <!-- En-tête avec animation GIF pour attirer l'attention -->
+      <!-- En-tête avec animation GIF -->
       <h1>
         <img 
           src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
@@ -56,38 +55,27 @@
           alt="Blob animé avec lunettes de soleil">
         Hello, moi c'est <strong>Sebastien</strong>
       </h1>
-      <!-- Sous-titre accrocheur avec emoji -->
-      <h3>🚀 Développeur Full Stack JavaScript (augmenté par IA)</h3>
-      <!-- 
-        PRÉSENTATION EN 2 PARAGRAPHES
-        - Paragraphe 1 : Formation et approche IA
-        - Paragraphe 2 : Méthodologie et valeur ajoutée
-      -->
+      <!-- Sous-titre accrocheur -->
+      <h3>🎨 Développeur Front-end passionné & explorateur du Full Stack</h3>
+      <!-- Présentation en 2 paragraphes -->
       <p>
         💡 Formé chez <strong>O'clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile</em>.<br>
-        <i>J'exploite la puissance de l'IA pour concevoir des applications plus rapides, plus intelligentes et plus élégantes.</i>
+        <i>J’imagine et construis des interfaces dynamiques, élégantes et performantes, pensées pour l’utilisateur avant tout.</i>
       </p>
       <p>
-        🔍 De la maquette au déploiement, je combine <strong>créativité, rigueur et automatisation</strong> pour livrer des solutions modernes, scalables et efficaces.
+        🔍 Du prototype au déploiement, j’allie <strong>créativité, rigueur et sens du détail</strong> pour livrer des expériences web fluides et maintenables.
       </p>
-      <!-- 
-        COMPÉTENCES PRINCIPALES
-        Liste concise organisée par catégorie
-        Conseil : Mettre à jour régulièrement selon les projets
-      -->
+      <!-- Compétences principales -->
       <ul>
-        <li>✨ <strong>Frontend</strong> : HTML, CSS (Sass), JavaScript, Svelte / React</li>
-        <li>🧠 <strong>Backend</strong> : Node.js, Express, PostgreSQL, Sequelize</li>
-        <li>🐳 <strong>DevOps</strong> : Docker, API REST, CI/CD, automatisations IA</li>
-        <li>🤖 <strong>Outils IA</strong> : GitHub Copilot, ChatGPT API, automatisation de tâches</li>
-        <li>🧩 <strong>Approche</strong> : architectures maintenables, documentation claire, performance</li>
+        <li>✨ <strong>Frontend</strong> : HTML5, CSS3 (Sass), JavaScript, Svelte / React</li>
+        <li>⚙️ <strong>Backend</strong> : Node.js, Express, PostgreSQL, Sequelize</li>
+        <li>🚀 <strong>Outils & Workflow</strong> : Docker, API REST, CI/CD, GitHub Actions</li>
+        <li>🧩 <strong>Approche</strong> : clean code, modularité, documentation claire, performance</li>
+        <li>🧠 <strong>Bonus</strong> : veille constante sur les nouvelles technos front et UX design</li>
       </ul>
-      <!-- 
-        PROPOSITION DE VALEUR
-        Message clé résumant l'objectif professionnel
-      -->
+      <!-- Proposition de valeur -->
       <p>
-        🎯 <strong>Objectif :</strong> bâtir des expériences web puissantes, accessibles et intelligentes, en tirant parti de l'IA comme levier d'efficacité et d'innovation.
+        🎯 <strong>Objectif :</strong> concevoir des interfaces réactives, accessibles et raffinées — tout en gardant un socle back-end robuste et évolutif.
       </p>
     </td>
     <!-- COLONNE DROITE : Image mascotte -->
@@ -97,15 +85,16 @@
         style="max-width: 350px;" 
         src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-siege.png" 
         alt="Mascotte Crocodile Dundee assis, représentant le développeur">
-      <!-- Image thématique pour renforcer l'identité visuelle -->
     </td>
   </tr>
 </table>
-  <!-- Tagline mémorable -->
-  <p>
-    <i>💡 Amoureux du clean code, de l'efficacité et de l'apprentissage continu</i>
-  </p>
+
+<!-- Tagline finale -->
+<p>
+  <i>💡 Amoureux du design fonctionnel, du code propre et du pixel perfect</i>
+</p>
 </div>
+
 
 ---
 
