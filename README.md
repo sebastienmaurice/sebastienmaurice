@@ -49,10 +49,10 @@
           alt="Blob animé">
         Hello, moi c'est <strong>Sebastien</strong>
       </h1>
-            <h3>🎨 Développeur Frontend JavaScript (augmenté par IA)</h3>
+            <h3>🎨 Développeur Full Stack</h3>
             <p>
         💡 Formé chez <strong>O'clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile</em>.<br>
-        <i>Je crée des interfaces utilisateur modernes, performantes et élégantes en exploitant la puissance de l'IA.</i>
+        <i>Je crée des interfaces utilisateur modernes, performantes et élégantes.</i>
       </p>
             <p>
         🔍 De la maquette au déploiement, je transforme les designs en <strong>expériences web fluides et accessibles</strong>, avec un focus sur la performance et l'UX.
