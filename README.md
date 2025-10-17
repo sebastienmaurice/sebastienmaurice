@@ -251,7 +251,7 @@
         À mettre à jour tous les 2-3 mois selon l'évolution
       -->
       <p align="left">
-        🚀 En pleine évolution vers un profil <strong>Full Stack JavaScript augmenté par l'IA</strong>.<br>
+        🚀 En pleine évolution vers un profil <strong>Full Stack JavaScript</strong>.<br>
         Je mets à profit mes compétences pour construire des apps intelligentes et performantes, en explorant les technologies de demain.
       </p>
       <!-- Liste des activités en cours -->
