@@ -267,8 +267,8 @@ Je mets à profit mes compétences pour construire des apps intelligentes et per
            alt="Alternativ Uniforme">
     </a>
       <br><br>
-    <strong>🦺 Alternativ Uniform</strong><br>
-    <sub>habillement professsionnel de Sécurité privée</sub><br>
+    <strong>🦺 Alternativ Uniforme</strong><br>
+    <sub>habillement prof de Sécurité privée</sub><br>
     <sub>Portfolio et prise de contact</sub><br><br>
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
     <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white"><br>
