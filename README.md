@@ -238,14 +238,6 @@
         🚀 En pleine évolution vers un profil <strong>Full Stack JavaScript</strong>.<br>
         Je mets à profit mes compétences pour construire des apps intelligentes et performantes, en explorant les technologies de demain.
       </p>
-      <!-- Liste des activités en cours -->
-      <ul align="left">
-        <li>✨ Projets <strong>Full Stack JavaScript</strong> (Svelte / Node / PostgreSQL)</li>
-        <li>🧩 Exploration de <strong>TypeScript avancé</strong> & des <strong>architectures microservices</strong></li>
-        <li>🤝 Collaborations <strong>open source</strong> et partage de savoir</li>
-        <li>💬 Conseil & mentorat sur <strong>Svelte, Node.js, PostgreSQL</strong></li>
-      </ul>
-      <br>
       <!-- 
         ICÔNES TECHNOLOGIQUES
         Via skillicons.dev - génération automatique d'icônes
