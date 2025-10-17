@@ -67,7 +67,7 @@
       </p>
       <!-- Compétences principales -->
       <ul>
-        <li>✨ <strong>Frontend</strong> : HTML5, CSS3 (Sass), JavaScript, Svelte / React</li>
+        <li>✨ <strong>Frontend</strong> : HTML5, CSS3 (Sass), JavaScript, Svelte</li>
         <li>⚙️ <strong>Backend</strong> : Node.js, Express, PostgreSQL, Sequelize</li>
         <li>🚀 <strong>Outils & Workflow</strong> : Docker, API REST, CI/CD, GitHub Actions</li>
         <li>🧩 <strong>Approche</strong> : clean code, modularité, documentation claire, performance</li>
