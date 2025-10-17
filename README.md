@@ -32,35 +32,66 @@
 
 <hr>
 
-<!-- SECTION HERO -->
-<!-- Texte de présentation à gauche, mascotte à droite -->
+<!-- 
+  ==================
+  SECTION HERO (version orientée Frontend)
+  ==================
+  - Colonne gauche (60%) : Texte de présentation
+  - Colonne droite (40%) : Image mascotte
+-->
+<div align="center">
 <table width="100%">
-<tr>
-  <td width="60%" valign="top">
-    <h1>
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
-           width="45" alt="Blob animé avec lunettes de soleil">
-      Hello, moi c'est <strong>Sebastien</strong>
-    </h1>
-    <h3>🎨 Développeur Full Stack</h3>
-    <p>💡 Formé chez <strong>O'clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile</em>.</p>
-    <p>🔍 Du prototype au déploiement, j’allie <strong>créativité, rigueur et sens du détail</strong>.</p>
-    <ul>
-      <li>✨ Frontend : HTML5, CSS3, JavaScript, Svelte</li>
-      <li>⚙️ Backend : Node.js, Express, PostgreSQL</li>
-      <li>🚀 Outils & Workflow : Docker, API REST, CI/CD</li>
-      <li>🧩 Approche : clean code, modularité, performance</li>
-    </ul>
-  </td>
-  <td width="40%" valign="top" align="right">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-siege.png" 
-         width="100%" style="max-width: 350px;" 
-         alt="Mascotte Crocodile Dundee assis">
-  </td>
-</tr>
+  <tr>
+    <!-- COLONNE GAUCHE : Contenu principal -->
+    <td width="60%" valign="top">
+      <!-- En-tête avec animation GIF -->
+      <h1>
+        <img 
+          src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" 
+          width="45" 
+          alt="Blob animé avec lunettes de soleil">
+        Hello, moi c'est <strong>Sebastien</strong>
+      </h1>
+      <!-- Sous-titre accrocheur -->
+      <h3>🎨 Développeur Full Stack</h3>
+      <!-- Présentation en 2 paragraphes -->
+      <p>
+        💡 Formé chez <strong>O'clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile</em>.<br>
+        <i>J’imagine et construis des interfaces dynamiques, élégantes et performantes, pensées pour l’utilisateur avant tout.</i>
+      </p>
+      <p>
+        🔍 Du prototype au déploiement, j’allie <strong>créativité, rigueur et sens du détail</strong> pour livrer des expériences web fluides et maintenables.
+      </p>
+      <!-- Compétences principales -->
+      <ul>
+        <li>✨ <strong>Frontend</strong> : HTML5, CSS3 (Sass), JavaScript, Svelte</li>
+        <li>⚙️ <strong>Backend</strong> : Node.js, Express, PostgreSQL, Sequelize</li>
+        <li>🚀 <strong>Outils & Workflow</strong> : Docker, API REST, CI/CD, GitHub Actions</li>
+        <li>🧩 <strong>Approche</strong> : clean code, modularité, documentation claire, performance</li>
+        <li>🧠 <strong>Bonus</strong> : veille constante sur les nouvelles technos front et UX design</li>
+      </ul>
+      <!-- Proposition de valeur -->
+      <p>
+        🎯 <strong>Objectif :</strong> concevoir des interfaces réactives, accessibles et raffinées — tout en gardant un socle back-end robuste et évolutif.
+      </p>
+    </td>
+    <!-- COLONNE DROITE : Image mascotte -->
+    <td width="40%" valign="top" align="right" style="padding: 20px;">
+      <img 
+        width="100%" 
+        style="max-width: 350px;" 
+        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-siege.png" 
+        alt="Mascotte Crocodile Dundee assis, représentant le développeur"><br><br>
+    </td>
+  </tr>
 </table>
 
-<p align="center"><i>💡 Amoureux du design fonctionnel, du code propre et du pixel perfect</i></p>
+<!-- Tagline finale -->
+<p>
+  <i>💡 Amoureux du design fonctionnel, du code propre et du pixel perfect</i>
+</p>
+</div>
+
 
 <!-- BADGES DE PROFIL -->
 <p align="center">
