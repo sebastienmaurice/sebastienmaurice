@@ -279,125 +279,65 @@
 
 <!-- 
   ==================
-  PORTFOLIO PROJETS CMS (version alignée & espacée)
+  COMPÉTENCES DÉTAILLÉES
   ==================
-  Galerie responsive de 5 projets WordPress/CMS
-  Alignement vertical des colonnes et espacement harmonieux
+  Layout en 3 colonnes pour une vue d'ensemble complète
+  - Gauche : Image décorative
+  - Centre : Ce que je fais (services)
+  - Droite : Stack technique détaillée
 -->
-
-<br>
-
-<h2 align="center">🚀 Expérience Passée — Projets CMS & Web</h2>
-
-<p align="center">
-  <em>Conception et développement de sites WordPress sur mesure avec une approche full stack</em>
-</p>
-
-<br>
-
-<table width="100%" align="center" cellspacing="0" cellpadding="10">
-<tr valign="top">
-
-  <!-- PROJET 1 : Petit Château Vercourt -->
-  <td align="center" width="20%" valign="top">
-    <a href="https://www.petitchateauvercourt.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" 
-           width="100%" 
-           style="max-width: 200px; border-radius: 8px;" 
-           alt="Petit Château Vercourt - Gîte de charme">
-    </a>
-    <br><br>
-    <strong>🏰 Petit Château Vercourt</strong><br>
-    <sub>Site vitrine pour gîte de luxe</sub><br>
-    <sub>Réservation en ligne & galerie photo</sub><br><br>
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-    <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  </td>
-
-  <!-- PROJET 2 : Rudy Le Saint -->
-  <td align="center" width="20%" valign="top">
-    <a href="https://rudylesaint-magnetiseur.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" 
-           width="100%" 
-           style="max-width: 200px; border-radius: 8px;" 
-           alt="Rudy Le Saint - Magnétiseur">
-    </a>
-    <br><br>
-    <strong>✨ Rudy Le Saint</strong><br>
-    <sub>Site professionnel magnétiseur</sub><br>
-    <sub>Prise de RDV & présentation services</sub><br><br>
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-    <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/SEO-47A248?style=flat-square&logo=google&logoColor=white">
-  </td>
-
-  <!-- PROJET 3 : Palimpseste Urbain -->
-  <td align="center" width="20%" valign="top">
-    <a href="https://www.palimpseste-urbain.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" 
-           width="100%" 
-           style="max-width: 200px; border-radius: 8px;" 
-           alt="Palimpseste Urbain - Agence d'architecture">
-    </a>
-    <br><br>
-    <strong>🏛️ Palimpseste Urbain</strong><br>
-    <sub>Portfolio agence d'architecture</sub><br>
-    <sub>Galerie projets & blog technique</sub><br><br>
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-    <img src="https://img.shields.io/badge/ACF-00B8E6?style=flat-square&logo=wordpress&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Responsive-FF6F00?style=flat-square&logo=responsive&logoColor=white">
-  </td>
-
-  <!-- PROJET 4 : GSTI62 -->
-  <td align="center" width="20%" valign="top">
-    <a href="https://gsti62.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" 
-           width="100%" 
-           style="max-width: 200px; border-radius: 8px;" 
-           alt="GSTI62 - Mécanique de Précision">
-    </a>
-    <br><br>
-    <strong>⚙️ GSTI62</strong><br>
-    <sub>Site vitrine industriel B2B</sub><br>
-    <sub>Catalogue produits & formulaires</sub><br><br>
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-    <img src="https://img.shields.io/badge/Contact_Form_7-0073AA?style=flat-square&logo=wordpress&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-  </td>
-
-  <!-- PROJET 5 : Ô Natur'EL -->
-  <td align="center" width="20%" valign="top">
-    <a href="https://onaturel.eu/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" 
-           width="100%" 
-           style="max-width: 200px; border-radius: 8px;" 
-           alt="Ô Natur'EL - Naturopathie et hypnose">
-    </a>
-    <br><br>
-    <strong>🌿 Ô Natur'EL</strong><br>
-    <sub>Site praticienne bien-être</sub><br>
-    <sub>Blog santé & prise de rendez-vous</sub><br><br>
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-    <img src="https://img.shields.io/badge/Divi-8B5CF6?style=flat-square&logo=wordpress&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white">
-  </td>
-
-</tr>
+<table width="100%" align="center" style="border-spacing: 0; border-collapse: collapse;">
+  <tr>
+    <!-- COLONNE GAUCHE : Image décorative -->
+    <td valign="top" width="30%" align="center" style="padding-top: 40px;">
+      <img 
+        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-livres.png" 
+        width="100%" 
+        style="max-width: 250px; padding: 10px;" 
+        alt="Crocodile Dundee en train de lire - Représente l'apprentissage continu">
+    </td>
+    <!-- COLONNE CENTRALE : Services et approche -->
+    <td valign="top" width="35%" style="padding-top: 40px; padding-left: 15px; padding-right: 15px;">
+      <h2>⚡ Ce que je fais</h2>
+      <p><strong>🎯 Développement Full Stack JavaScript</strong><br>
+      Je conçois des applications web modernes et performantes, du front au back, en plaçant l’efficacité et la qualité du code au centre de mon approche.</p>
+      <ul>
+        <li>💻 <strong>Stack :</strong> Svelte / Node.js / Express / PostgreSQL</li>
+        <li>🔗 <strong>API :</strong> REST & GraphQL, sécurisées et documentées</li>
+        <li>📱 <strong>Apps métier :</strong> conception d’outils sur mesure, orientés performance</li>
+      </ul>
+      <p><strong>🏗️ Architecture & Qualité</strong></p>
+      <ul>
+        <li>Clean code, TDD, CI/CD</li>
+        <li>Structures maintenables et scalables</li>
+        <li>Suivi continu de la qualité et optimisation du flux de développement</li>
+      </ul>
+    </td>
+    <!-- COLONNE DROITE : Stack technique complète -->
+    <td valign="top" width="35%" style="padding-top: 40px; padding-left: 15px;">
+      <h2>🛠️ Stack Technique</h2>
+      <p><strong>🎨 Frontend</strong></p>
+      <ul>
+        <li>HTML5, CSS3, Sass</li>
+        <li>JavaScript, Svelte</li>
+        <li>WordPress, accessibilité & SEO</li>
+        <li>Interfaces modernes et responsives</li>
+      </ul>
+      <p><strong>⚙️ Backend</strong></p>
+      <ul>
+        <li>Node.js, Express</li>
+        <li>PostgreSQL, Sequelize, GraphQL</li>
+        <li>API performantes & sécurisées</li>
+      </ul>
+      <p><strong>🧰 Outils & DevOps</strong></p>
+      <ul>
+        <li>Git, Docker, Postman</li>
+        <li>CI/CD, Vercel, conteneurisation</li>
+        <li>Automatisation & optimisation du workflow</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-
-<br>
-
-<p align="center">
-  <sub>💡 <strong>Compétences clés :</strong> Développement WordPress sur mesure • Optimisation SEO • Responsive design • Intégration de plugins • Maintenance et support</sub>
-</p>
-
-<br>
 
 ---
 
