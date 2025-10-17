@@ -372,7 +372,6 @@
   ==================
 -->
 <h2 align="center">💡 Philosophie de Développement</h2>
-
 ```javascript
 /**
  * 🐊 CROCO DUNDEE FRONTEND DEVELOPER
