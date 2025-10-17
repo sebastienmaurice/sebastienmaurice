@@ -56,7 +56,7 @@
         Hello, moi c'est <strong>Sebastien</strong>
       </h1>
       <!-- Sous-titre accrocheur -->
-      <h3>🎨 Développeur Front-end passionné & explorateur du Full Stack</h3>
+      <h3>🎨 Développeur Full Stack</h3>
       <!-- Présentation en 2 paragraphes -->
       <p>
         💡 Formé chez <strong>O'clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile</em>.<br>
