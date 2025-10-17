@@ -205,19 +205,29 @@
   <sub>💡 <strong>Compétences clés :</strong> Développement WordPress sur mesure • Optimisation SEO • Responsive design • Intégration de plugins • Maintenance et support</sub>
 </p>
 
-<!-- PHILOSOPHIE DE DÉVELOPPEMENT -->
+<!-- 
+  ==================
+  PHILOSOPHIE DE DÉVELOPPEMENT
+  ==================
+  Bloc de code JavaScript pour un effet "developer-friendly"
+  Résume les valeurs et l'approche professionnelle
+-->
 <h2 align="center">💡 Ma philosophie</h2>
-<pre><code class="javascript">
-// Objet résumé de ma philosophie
+
+```javascript
 const developer = {
   name: "Sebastien Maurice",
   mindset: "Apprendre en faisant 🛠️",
   approach: "Code lisible & maintenable > Code clever",
   tools: ["Documentation 📚", "Communauté 🌐", "CMS & Frameworks 🖥️"],
-  goal: "Créer de la valeur avec du code 🚀"
+  goal: "Créer de la valeur avec du code et des projets utiles 🚀"
 };
+// Toujours prêt pour de nouveaux défis !
 console.log(`${developer.name} is ready to code! 🐊`);
-</code></pre>
+```
+<p align="center">
+  <sub>💼 Ce profil est en constante évolution - comme le code que j'écris ! 🌱</sub>
+</p>
 
 <!-- FUN FACTS -->
 <h2 align="center">🐊 Fun Facts</h2>
