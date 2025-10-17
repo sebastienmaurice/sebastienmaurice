@@ -187,11 +187,6 @@ console.log(`${developer.name} is ready to code! 🐊`);
 <p align="center">
   <sub>💼 Ce profil est en constante évolution - comme le code que j'écris ! 🌱</sub>
 </p>
-<h2 align="center">🐊 Fun Facts - Mode Croco Dundee</h2>
-
-<p align="center">
-  <sub>💼 Ce profil est en constante évolution - comme le code que j'écris ! 🌱</sub>
-</p>
 
 ---
 
