@@ -302,7 +302,7 @@
 <table width="100%" align="center">
 <tr>
   <!-- PROJET 1 : Petit Château Vercourt -->
-  <td align="center" width="25%">
+  <td align="center" width="20%">
     <a href="https://www.petitchateauvercourt.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" 
            width="100%" 
@@ -321,7 +321,7 @@
     -->
   </td>
   <!-- PROJET 2 : Rudy Le Saint -->
-  <td align="center" width="25%">
+  <td align="center" width="20%">
     <a href="https://rudylesaint-magnetiseur.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" 
            width="100%" 
@@ -334,7 +334,7 @@
     <sub>Site de magnétiseur — Soins énergétiques et bien-être par imposition des mains</sub>
   </td>
   <!-- PROJET 3 : Palimpseste Urbain -->
-  <td align="center" width="25%">
+  <td align="center" width="20%">
     <a href="https://www.palimpseste-urbain.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" 
            width="100%" 
@@ -346,8 +346,21 @@
     <br>
     <sub>Agence d'architecture et urbanisme — Projets de ville résiliente et santé urbaine</sub>
   </td>
-  <!-- PROJET 4 : Ô Natur'EL -->
-  <td align="center" width="25%">
+    <!-- PROJET 4 : Rudy Le Saint -->
+  <td align="center" width="20%">
+    <a href="https://gsti62.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" 
+           width="100%" 
+           style="max-width: 200px;"
+           alt="Capture d'écran du site Gsti62 - Mécanique de Précision">
+    </a>
+    <br>
+    <strong>Rudy Le Saint</strong>
+    <br>
+    <sub>Site de mécanique de précision — Le savoir-faire en matière d'usinage de matériaux</sub>
+  </td>
+  <!-- PROJET 5 : Ô Natur'EL -->
+  <td align="center" width="20%">
     <a href="https://onaturel.eu/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" 
            width="100%" 
