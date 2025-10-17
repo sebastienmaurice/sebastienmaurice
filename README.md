@@ -169,7 +169,7 @@ Je mets à profit mes compétences pour construire des apps intelligentes et per
 <tr valign="top">
 
   <!-- PROJET 1 : Petit Château Vercourt -->
-  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
+  <td align="center" width="16.5%" valign="top" style="padding-top: 50px;">
     <a href="https://www.petitchateauvercourt.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/petitchateauvercourt.jpg" 
            width="100%" 
@@ -187,7 +187,7 @@ Je mets à profit mes compétences pour construire des apps intelligentes et per
   </td>
 
   <!-- PROJET 2 : Rudy Le Saint -->
-  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
+  <td align="center" width="16.5%" valign="top" style="padding-top: 50px;">
     <a href="https://rudylesaint-magnetiseur.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/rudylesaint.jpg" 
            width="100%" 
@@ -205,7 +205,7 @@ Je mets à profit mes compétences pour construire des apps intelligentes et per
   </td>
 
   <!-- PROJET 3 : Palimpseste Urbain -->
-  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
+  <td align="center" width="16.5%" valign="top" style="padding-top: 50px;">
     <a href="https://www.palimpseste-urbain.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/palimpseste.jpg" 
            width="100%" 
@@ -223,7 +223,7 @@ Je mets à profit mes compétences pour construire des apps intelligentes et per
   </td>
 
   <!-- PROJET 4 : GSTI62 -->
-  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
+  <td align="center" width="16.5%" valign="top" style="padding-top: 50px;">
     <a href="https://gsti62.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/gsti62.jpg" 
            width="100%" 
@@ -241,7 +241,7 @@ Je mets à profit mes compétences pour construire des apps intelligentes et per
   </td>
 
   <!-- PROJET 5 : Ô Natur'EL -->
-  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
+  <td align="center" width="16,5%" valign="top" style="padding-top: 50px;">
     <a href="https://onaturel.eu/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/onaturel.jpg" 
            width="100%" 
@@ -258,42 +258,24 @@ Je mets à profit mes compétences pour construire des apps intelligentes et per
     <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white">
   </td>
 
-  <!-- PROJET 6 : Ô Natur'EL -->
-  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
+  <!-- PROJET 6 : Alternativ Uniforme -->
+  <td align="center" width="16.5%" valign="top" style="padding-top: 50px;">
     <a href="https://onaturel.eu/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/onaturel.jpg" 
+      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/alternativ.jpg" 
            width="100%" 
            style="max-width: 200px; border-radius: 8px;" 
-           alt="Ô Natur'EL - Naturopathie et hypnose">
+           alt="Alternativ Uniforme">
     </a>
     <br><br>
-    <strong>🌿 Ô Natur'EL</strong><br>
-    <sub>Site praticienne bien-être</sub><br>
-    <sub>Blog santé & prise de rendez-vous</sub><br><br>
+    <strong>🌿 Alternativ Uniforme</strong><br>
+    <sub>habillement professsionnel de Sécurité privée</sub><br>
+    <sub>Site vitrine</sub><br><br>
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
     <img src="https://img.shields.io/badge/Divi-8B5CF6?style=flat-square&logo=wordpress&logoColor=white"><br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white">
   </td>
-  
-  <!-- PROJET 7 : Ô Natur'EL -->
-  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
-    <a href="https://onaturel.eu/" target="_blank">
-      <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/onaturel.jpg" 
-           width="100%" 
-           style="max-width: 200px; border-radius: 8px;" 
-           alt="Ô Natur'EL - Naturopathie et hypnose">
-    </a>
-    <br><br>
-    <strong>🌿 Ô Natur'EL</strong><br>
-    <sub>Site praticienne bien-être</sub><br>
-    <sub>Blog santé & prise de rendez-vous</sub><br><br>
-    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-    <img src="https://img.shields.io/badge/Divi-8B5CF6?style=flat-square&logo=wordpress&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white">
-  </td>
-  
+
 </tr>
 </table>
 
