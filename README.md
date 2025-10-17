@@ -12,7 +12,7 @@
 
 <!-- BANNIÈRE PRINCIPALE : Image d’en-tête -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/banniere-croco-github-1.jpg" width="100%" alt="Sebastien Maurice - Développeur Full Stack JavaScript spécialisé en Svelte et Node.js">
+<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/banniere-croco-github-1.jpg" width="100%" alt="Sebastien Maurice - Développeur Full Stack JavaScript spécialisé en Svelte et Node.js">
 </div>
 
 <hr>
@@ -46,7 +46,7 @@ Hello, moi c'est <strong>Sebastien</strong>
 </p>
 </td>
 <td width="40%" valign="top" align="right" style="padding: 20px;">
-<img width="100%" style="max-width: 350px;" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-siege.png" alt="Mascotte Crocodile Dundee assis, représentant le développeur"><br><br>
+<img width="100%" style="max-width: 350px;" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/assets/croco-siege.png" alt="Mascotte Crocodile Dundee assis, représentant le développeur"><br><br>
 </td>
 </tr>
 </table>
@@ -61,7 +61,7 @@ Hello, moi c'est <strong>Sebastien</strong>
 <table width="100%" align="center">
 <tr>
 <td valign="top" width="30%" align="center">
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-livres.png" width="100%" style="max-width: 250px; padding: 10px;" alt="Crocodile Dundee en train de lire - Représente l'apprentissage continu">
+<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/croco-livres.png" width="100%" style="max-width: 250px; padding: 10px;" alt="Crocodile Dundee en train de lire - Représente l'apprentissage continu">
 </td>
 <td valign="top" width="35%">
 <h2>⚡ Ce que je fais</h2>
@@ -135,7 +135,7 @@ Je conçois des interfaces web modernes, accessibles et performantes, alliant de
 </td>
 <td valign="top" width="40%" align="center" style="padding: 10px;">
 <h2 align="center">🎯 Actuellement</h2>
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" width="100%" style="max-width: 250px; margin-bottom: 15px;" alt="Super Crocodile Dundee - Mascotte en action">
+<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/supercroco-2.png" width="100%" style="max-width: 250px; margin-bottom: 15px;" alt="Super Crocodile Dundee - Mascotte en action">
 <p align="left">
 🚀 En pleine évolution vers un profil <strong>Full Stack JavaScript</strong>.<br>
 Je mets à profit mes compétences pour construire des apps intelligentes et performantes, en explorant les technologies de demain.
@@ -188,7 +188,7 @@ console.log(`${developer.name} is ready to code! 🐊`);
 <table width="100%" align="center">
 <tr>
 <td width="30%" align="center">
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-mdr.png" width="100%" style="max-width: 150px;" alt="Crocodile Dundee qui rit - Humour développeur">
+<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/assets/croco-mdr.png" width="100%" style="max-width: 150px;" alt="Crocodile Dundee qui rit - Humour développeur">
 </td>
 <td width="70%">
 <ul>
@@ -236,7 +236,7 @@ console.log(`${developer.name} is ready to code! 🐊`);
 <!-- FOOTER -->
 <!-- ================== -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-vol.png" width="120" style="max-width:120px;">
+<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/supercroco-vol.png" width="120" style="max-width:120px;">
 <br><i>"That's not a code... THAT's a code!"</i>
 <br><sub>Fait avec ❤️ et beaucoup de ☕ par Sebastien Maurice</sub>
 </div>
