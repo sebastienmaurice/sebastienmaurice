@@ -449,27 +449,6 @@ console.log(`${developer.name} is ready to code! 🐊`);
 ---
 
 <!-- 
-  ==========================================
-  ALTERNATIVE : VERSION MINIMALISTE DU BLOC JS
-  ==========================================
-  Si vous préférez garder quelque chose de plus court et percutant
--->
-
-```javascript
-// 🐊 Croco Dundee Developer Config
-const dev = {
-  name: "Sebastien Maurice",
-  stack: "JavaScript Full Stack + IA",
-  motto: "Code simple > Code complexe",
-  tools: ["Svelte", "Node.js", "PostgreSQL", "Docker", "AI Tools"],
-  status: () => this.coffee > 0 ? "Ready to code! ☕" : "Refill needed 🔴",
-  contact: "overseb75@gmail.com"
-};
-// That's not a bug... THAT's a bug! 🐊
-console.log(`${dev.name} says: ${dev.status()}`);
-```
-
-<!-- 
   ==================
   FUN FACTS - MODE CROCO DUNDEE
   ==================
