@@ -49,19 +49,15 @@
           alt="Blob animé">
         Hello, moi c'est <strong>Sebastien</strong>
       </h1>
-      
-      <h3>🎨 Développeur Frontend JavaScript (augmenté par IA)</h3>
-      
-      <p>
+            <h3>🎨 Développeur Frontend JavaScript (augmenté par IA)</h3>
+            <p>
         💡 Formé chez <strong>O'clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile</em>.<br>
         <i>Je crée des interfaces utilisateur modernes, performantes et élégantes en exploitant la puissance de l'IA.</i>
       </p>
-      
-      <p>
+            <p>
         🔍 De la maquette au déploiement, je transforme les designs en <strong>expériences web fluides et accessibles</strong>, avec un focus sur la performance et l'UX.
       </p>
-      
-      <!-- COMPÉTENCES - Frontend en premier -->
+            <!-- COMPÉTENCES - Frontend en premier -->
       <ul>
         <li>🎨 <strong>Frontend</strong> : Svelte, React, JavaScript (ES6+), HTML5, CSS3/Sass</li>
         <li>✨ <strong>UI/UX</strong> : Interfaces responsives, animations, accessibilité (a11y), SEO</li>
@@ -69,13 +65,11 @@
         <li>⚙️ <strong>Backend</strong> : Node.js, Express, PostgreSQL (compétences full stack)</li>
         <li>🐳 <strong>DevOps</strong> : Docker, Git, CI/CD, Vercel</li>
       </ul>
-      
-      <p>
+            <p>
         🎯 <strong>Objectif :</strong> Concevoir des interfaces web qui allient <strong>beauté visuelle, performance technique et expérience utilisateur exceptionnelle</strong>.
       </p>
     </td>
-    
-    <!-- COLONNE DROITE : Mascotte -->
+        <!-- COLONNE DROITE : Mascotte -->
     <td width="40%" valign="top" align="right" style="padding: 20px;">
       <img 
         width="100%" 
@@ -192,55 +186,46 @@
     <!-- COLONNE GAUCHE : Stats GitHub -->
     <td valign="top" width="55%">
       <h2 align="center">📈 Statistiques GitHub</h2>
-      
-      <p align="center">
+            <p align="center">
         <img 
           src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
           width="100%" 
           alt="Stats GitHub">
       </p>
-      
-      <p align="center">
+            <p align="center">
         <img 
           src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
           width="100%" 
           alt="Streak GitHub">
       </p>
-      
-      <p align="center">
+            <p align="center">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" 
           width="100%" 
           alt="Langages utilisés">
       </p>
     </td>
-    
-    <!-- COLONNE DROITE : Activité actuelle -->
+        <!-- COLONNE DROITE : Activité actuelle -->
     <td valign="top" width="45%" align="center" style="padding: 10px;">
       <h2 align="center">🎯 Focus Actuel</h2>
-      
-      <img 
+            <img 
         src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
         width="100%" 
         style="max-width: 250px; margin-bottom: 15px;" 
         alt="Super Croco">
-      
-      <p align="left">
+            <p align="left">
         🎨 <strong>Spécialisation Frontend avec IA</strong><br>
         Je construis des interfaces modernes et performantes en exploitant les meilleurs outils du moment.
       </p>
-      
-      <ul align="left">
+            <ul align="left">
         <li>✨ Projets <strong>Svelte & React</strong> (UI/UX modernes)</li>
         <li>🎭 Exploration <strong>animations CSS/JS avancées</strong></li>
         <li>♿ Maîtrise de l'<strong>accessibilité web (a11y)</strong></li>
         <li>🧩 Apprentissage <strong>TypeScript & SvelteKit</strong></li>
         <li>🤝 Contributions <strong>open source</strong></li>
       </ul>
-      
-      <br>
-      
-      <img 
+            <br>
+            <img 
         src="https://skillicons.dev/icons?i=js,svelte,react,html,css,sass,nodejs,postgres,git" 
         alt="Stack principale" 
         style="max-width: 90%;">
