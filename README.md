@@ -84,9 +84,9 @@
         width="100%" 
         style="max-width: 350px;" 
         src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-siege.png" 
-        alt="Mascotte Crocodile Dundee assis, représentant le développeur">
+        alt="Mascotte Crocodile Dundee assis, représentant le développeur"><br><br>
     </td>
-  </tr><br><br>
+  </tr>
 </table>
 
 <!-- Tagline finale -->
