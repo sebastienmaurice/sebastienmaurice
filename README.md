@@ -188,8 +188,6 @@ console.log(`${developer.name} is ready to code! 🐊`);
   <sub>💼 Ce profil est en constante évolution - comme le code que j'écris ! 🌱</sub>
 </p>
 
----
-
 <h2 align="center">🐊 Fun Facts - Mode Croco Dundee</h2>
 
 <table width="100%" align="center">
@@ -240,3 +238,7 @@ console.log(`${developer.name} is ready to code! 🐊`);
 <div align="center">
   <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-vol.png" width="120" style="max-width: 120px;" alt="Super Croco vol">
   <br>
+  <i>"That's not a code... THAT's a code!"</i>
+  <br>
+  <sub>Fait avec ❤️ et beaucoup de ☕ par Sebastien Maurice</sub>
+</div>
