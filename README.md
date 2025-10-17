@@ -455,8 +455,6 @@ console.log(`${developer.name} is ready to code! 🐊`);
   Si vous préférez garder quelque chose de plus court et percutant
 -->
 
-<details>
-<summary><b>📦 Version alternative (minimaliste)</b></summary>
 ```javascript
 // 🐊 Croco Dundee Developer Config
 const dev = {
@@ -467,10 +465,9 @@ const dev = {
   status: () => this.coffee > 0 ? "Ready to code! ☕" : "Refill needed 🔴",
   contact: "overseb75@gmail.com"
 };
-
 // That's not a bug... THAT's a bug! 🐊
 console.log(`${dev.name} says: ${dev.status()}`);
----
+```
 
 <!-- 
   ==================
