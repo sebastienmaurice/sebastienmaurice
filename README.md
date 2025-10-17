@@ -92,15 +92,98 @@
 </p>
 </div>
 
+<!-- 
+  ==================
+  COMPÉTENCES DÉTAILLÉES (version orientée Frontend)
+  ==================
+  Layout en 3 colonnes pour une présentation claire et équilibrée :
+  - Gauche : Illustration
+  - Centre : Ce que je fais (services)
+  - Droite : Stack technique
+-->
+<table width="100%" align="center">
+  <tr>
+    <!-- COLONNE GAUCHE : Image décorative -->
+    <td valign="top" width="30%" align="center">
+      <img 
+        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/croco-livres.png" 
+        width="100%" 
+        style="max-width: 250px; padding: 10px;" 
+        alt="Crocodile Dundee en train de lire - Représente l'apprentissage continu">
+    </td>
+    <!-- COLONNE CENTRALE : Services et approche -->
+    <td valign="top" width="35%">
+      <h2>⚡ Ce que je fais</h2>
+      <!-- Service principal -->
+      <p>
+        <strong>🎯 Centré sur l’expérience utilisateur</strong><br>
+        Je conçois des interfaces web modernes, accessibles et performantes, alliant design soigné, animations fluides et code optimisé.  
+      </p>
+      <!-- Liste des services spécifiques -->
+      <ul>
+        <li>💻 <strong>Stack principale :</strong> Svelte / React / Node.js / Express</li>
+        <li>🔗 <strong>API :</strong> REST & GraphQL, fiables et bien documentées</li>
+        <li>📱 <strong>Apps métier :</strong> conception d’outils sur mesure, orientés performance et simplicité</li>
+        <li>🎨 <strong>Design & UX :</strong> maquettes, composants réutilisables, ergonomie soignée</li>
+      </ul>
+      <!-- Méthodologie et qualité -->
+      <p><strong>🏗️ Architecture & Qualité</strong></p>
+      <ul>
+        <li>Clean code, TDD, intégration continue</li>
+        <li>Structures maintenables et évolutives</li>
+        <li>Veille constante sur les meilleures pratiques front et design system</li>
+      </ul>
+    </td>
+    <!-- COLONNE DROITE : Stack technique complète -->
+    <td valign="top" width="35%">
+      <h2>🛠️ Stack Technique</h2>
+      <!-- Frontend technologies -->
+      <p><strong>🎨 Frontend</strong></p>
+      <ul>
+        <li>HTML5, CSS3, Sass</li>
+        <li>JavaScript, Svelte, React</li>
+        <li>WordPress, accessibilité & SEO</li>
+        <li>Responsive design, animations, UX/UI</li>
+      </ul>
+      <!-- Backend technologies -->
+      <p><strong>⚙️ Backend</strong></p>
+      <ul>
+        <li>Node.js, Express</li>
+        <li>PostgreSQL, Sequelize, GraphQL</li>
+        <li>API performantes et sécurisées</li>
+      </ul>
+      <!-- DevOps et outils -->
+      <p><strong>🧰 Outils & Workflow</strong></p>
+      <ul>
+        <li>Git, Docker, Postman</li>
+        <li>CI/CD, Vercel, conteneurisation</li>
+        <li>Optimisation, automatisation, performance web</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<!-- BADGES DE PROFIL -->
+<!-- 
+  ==================
+  BADGES DE PROFIL
+  ==================
+  Statistiques sociales pour crédibilité
+  Générés dynamiquement via shields.io et services tiers
+-->
 <p align="center">
   <img src="https://img.shields.io/github/followers/sebastienmaurice?style=for-the-badge&logo=github&label=Followers&color=success" alt="Followers">
   <img src="https://img.shields.io/github/stars/sebastienmaurice?style=for-the-badge&logo=starship&label=Stars&color=yellow" alt="Stars">
   <img src="https://komarev.com/ghpvc/?username=sebastienmaurice&style=for-the-badge&color=blueviolet&label=Visiteurs" alt="Vues profil">
 </p>
 
-<!-- STATISTIQUES GITHUB -->
+<!-- 
+  ==================
+  STATISTIQUES GITHUB
+  ==================
+  Tableau en 2 colonnes :
+  - Gauche (60%) : Graphiques de stats
+  - Droite (40%) : Activité actuelle et icônes tech
+-->
 <table width="100%">
 <tr>
   <td width="60%">
@@ -126,8 +209,6 @@
 <!-- ================== -->
 <!-- BLOC 2 : Projets CMS, Philosophie, Fun Facts, Activité, Contact, Footer -->
 <!-- ================== -->
-
-<!-- PROJETS CMS -->
 <br>
 
 <h2 align="center">🚀 Expérience Passée — Projets CMS & Web</h2>
@@ -260,20 +341,32 @@ console.log(`${developer.name} is ready to code! 🐊`);
   <sub>💼 Ce profil est en constante évolution - comme le code que j'écris ! 🌱</sub>
 </p>
 
-<!-- FUN FACTS -->
-<h2 align="center">🐊 Fun Facts</h2>
-<table width="100%">
+<!-- 
+  ==================
+  FUN FACTS - MODE CROCO DUNDEE
+  ==================
+  Section légère pour humaniser le profil
+  Renforce l'identité de marque personnelle
+-->
+<h2 align="center">🐊 Fun Facts - Mode Croco Dundee</h2>
+
+<table width="100%" align="center">
 <tr>
+  <!-- Colonne image -->
   <td width="30%" align="center">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-mdr.png" width="100%" style="max-width:150px;">
+    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/croco-mdr.png" 
+         width="100%" 
+         style="max-width: 150px;"
+         alt="Crocodile Dundee qui rit - Humour développeur">
   </td>
+  <!-- Colonne liste de fun facts -->
   <td width="70%">
     <ul>
-      <li>🐊 "That's not a bug... THAT's a bug!"</li>
-      <li>🔪 Mon couteau suisse ? VS Code, Docker, café ☕</li>
-      <li>🌏 De l'outback au web</li>
-      <li>🪃 Les bonnes pratiques reviennent toujours</li>
-      <li>🎯 Philosophie Dundee : simple et efficace</li>
+      <li>🐊 <strong>"That's not a bug... THAT's a bug!"</strong> — Je chasse les bugs comme Dundee chasse les crocos</li>
+      <li>🔪 <strong>Mon couteau suisse ?</strong> VS Code, Docker et une bonne tasse de café ☕</li>
+      <li>🌏 <strong>De l'outback au web :</strong> J'explore les territoires du code avec la même audace</li>
+      <li>🪃 <strong>Mon boomerang :</strong> Les bonnes pratiques reviennent toujours !</li>
+      <li>🎯 <strong>Philosophie Dundee :</strong> Simple, efficace, et toujours avec le sourire</li>
     </ul>
   </td>
 </tr>
