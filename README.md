@@ -293,8 +293,6 @@
   <em>Conception et développement de sites WordPress sur mesure avec une approche full stack</em>
 </p>
 
-<br>
-
 <table width="100%" align="center" cellspacing="0" cellpadding="10">
 <tr valign="top">
 
