@@ -124,7 +124,6 @@
       <p>
         <strong>🎯 Centré sur l’expérience utilisateur</strong><br>
         Je conçois des interfaces web modernes, accessibles et performantes, alliant design soigné, animations fluides et code optimisé.  
-        Mon objectif : transformer une idée en produit digital clair, fluide et plaisant à utiliser.
       </p>
       <!-- Liste des services spécifiques -->
       <ul>
