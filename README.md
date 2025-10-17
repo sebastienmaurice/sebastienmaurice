@@ -83,13 +83,13 @@ Hello, moi c'est <strong>Sebastien</strong>
 <td valign="top" width="60%">
 <h2 align="center">📈 Statistiques GitHub</h2>
 <p align="center">
-<img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/github-readme-stats.png" width="100%" alt="Statistiques GitHub globales de Sebastien Maurice">
+<img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/github-readme-stats.png" width="100%" alt="Statistiques GitHub globales de Sebastien Maurice">
 </p>
 <p align="center">
-<img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/github-streak-stats.png" width="100%" alt="Séquence de contributions GitHub">
+<img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/github-streak-stats.png" width="100%" alt="Séquence de contributions GitHub">
 </p>
 <p align="center">
-<img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/github-top-langs.png" width="100%" alt="Langages de programmation les plus utilisés">
+<img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/github-top-langs.png" width="100%" alt="Langages de programmation les plus utilisés">
 </p>
 </td>
 <td valign="top" width="40%" align="center" style="padding: 10px;">
