@@ -391,8 +391,6 @@
 </tr>
 </table>
 
-<br>
-
 <p align="center">
   <sub>💡 <strong>Compétences clés :</strong> Développement WordPress sur mesure • Optimisation SEO • Responsive design • Intégration de plugins • Maintenance et support</sub>
 </p>
