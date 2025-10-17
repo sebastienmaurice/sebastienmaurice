@@ -100,12 +100,12 @@
 
 <!-- 
   ==================
-  COMPÉTENCES DÉTAILLÉES
+  COMPÉTENCES DÉTAILLÉES (version orientée Frontend)
   ==================
-  Layout en 3 colonnes pour une vue d'ensemble complète
-  - Gauche : Image décorative
+  Layout en 3 colonnes pour une présentation claire et équilibrée :
+  - Gauche : Illustration
   - Centre : Ce que je fais (services)
-  - Droite : Stack technique détaillée
+  - Droite : Stack technique
 -->
 <table width="100%" align="center">
   <tr>
@@ -121,21 +121,24 @@
     <td valign="top" width="35%">
       <h2>⚡ Ce que je fais</h2>
       <!-- Service principal -->
-      <p><strong>🎯 Full Stack JavaScript augmenté par l'IA</strong><br>
-      Je conçois des applications web modernes et performantes, du front au back, en tirant parti de l'intelligence artificielle pour accélérer la production et renforcer la qualité du code.</p>
+      <p>
+        <strong>🎯 Front-end centré sur l’expérience utilisateur</strong><br>
+        Je conçois des interfaces web modernes, accessibles et performantes — alliant design soigné, animations fluides et code optimisé.  
+        Mon objectif : transformer une idée en produit digital clair, fluide et plaisant à utiliser.
+      </p>
       <!-- Liste des services spécifiques -->
       <ul>
-        <li>💻 <strong>Stack :</strong> Svelte / Node.js / Express / PostgreSQL</li>
-        <li>🔗 <strong>API :</strong> REST & GraphQL, sécurisées et documentées</li>
-        <li>🧠 <strong>IA & Automatisation :</strong> Copilot, ChatGPT API, scripts IA</li>
-        <li>📱 <strong>Apps métier :</strong> conception d'outils sur mesure, orientés performance</li>
+        <li>💻 <strong>Stack principale :</strong> Svelte / React / Node.js / Express</li>
+        <li>🔗 <strong>API :</strong> REST & GraphQL, fiables et bien documentées</li>
+        <li>📱 <strong>Apps métier :</strong> conception d’outils sur mesure, orientés performance et simplicité</li>
+        <li>🎨 <strong>Design & UX :</strong> maquettes, composants réutilisables, ergonomie soignée</li>
       </ul>
       <!-- Méthodologie et qualité -->
       <p><strong>🏗️ Architecture & Qualité</strong></p>
       <ul>
-        <li>Clean code, TDD, CI/CD</li>
-        <li>Structures maintenables et scalables</li>
-        <li>Suivi continu de la qualité grâce aux outils IA</li>
+        <li>Clean code, TDD, intégration continue</li>
+        <li>Structures maintenables et évolutives</li>
+        <li>Veille constante sur les meilleures pratiques front et design system</li>
       </ul>
     </td>
     <!-- COLONNE DROITE : Stack technique complète -->
@@ -145,23 +148,23 @@
       <p><strong>🎨 Frontend</strong></p>
       <ul>
         <li>HTML5, CSS3, Sass</li>
-        <li>JavaScript, Svelte</li>
+        <li>JavaScript, Svelte, React</li>
         <li>WordPress, accessibilité & SEO</li>
-        <li>Interfaces modernes et responsives</li>
+        <li>Responsive design, animations, UX/UI</li>
       </ul>
       <!-- Backend technologies -->
       <p><strong>⚙️ Backend</strong></p>
       <ul>
         <li>Node.js, Express</li>
         <li>PostgreSQL, Sequelize, GraphQL</li>
-        <li>API performantes & sécurisées</li>
+        <li>API performantes et sécurisées</li>
       </ul>
       <!-- DevOps et outils -->
-      <p><strong>🧰 Outils & DevOps</strong></p>
+      <p><strong>🧰 Outils & Workflow</strong></p>
       <ul>
         <li>Git, Docker, Postman</li>
         <li>CI/CD, Vercel, conteneurisation</li>
-        <li>Automatisation & optimisation via IA</li>
+        <li>Optimisation, automatisation, performance web</li>
       </ul>
     </td>
   </tr>
