@@ -87,7 +87,7 @@
         alt="Mascotte Crocodile Dundee assis, représentant le développeur">
     </td>
   </tr>
-</table>
+</table><br>
 
 <!-- Tagline finale -->
 <p>
