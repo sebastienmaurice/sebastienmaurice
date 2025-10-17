@@ -313,12 +313,11 @@
     <strong>Petit Château Vercourt</strong>
     <br>
     <sub>Gîte de charme pour se ressourcer — Destination de détente et d'évasion en pleine nature</sub>
-    <!-- 
       AMÉLIORATION : Ajouter les badges tech
       <br><br>
       <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress">
       <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white" alt="Elementor">
-    -->
+
   </td>
   <!-- PROJET 2 : Rudy Le Saint -->
   <td align="center" width="20%">
