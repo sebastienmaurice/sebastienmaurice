@@ -279,7 +279,7 @@
 
 <!-- 
   ==================
-  PORTFOLIO PROJETS CMS (version alignée & espacée)
+  PORTFOLIO PROJETS CMS (version espacée)
   ==================
   Galerie responsive de 5 projets WordPress/CMS
   Alignement vertical des colonnes et espacement harmonieux
@@ -299,7 +299,7 @@
 <tr valign="top">
 
   <!-- PROJET 1 : Petit Château Vercourt -->
-  <td align="center" width="20%" valign="top">
+  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
     <a href="https://www.petitchateauvercourt.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/petitchateauvercourt.jpg" 
            width="100%" 
@@ -317,7 +317,7 @@
   </td>
 
   <!-- PROJET 2 : Rudy Le Saint -->
-  <td align="center" width="20%" valign="top">
+  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
     <a href="https://rudylesaint-magnetiseur.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/rudylesaint.jpg" 
            width="100%" 
@@ -335,7 +335,7 @@
   </td>
 
   <!-- PROJET 3 : Palimpseste Urbain -->
-  <td align="center" width="20%" valign="top">
+  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
     <a href="https://www.palimpseste-urbain.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/palimpseste.jpg" 
            width="100%" 
@@ -353,7 +353,7 @@
   </td>
 
   <!-- PROJET 4 : GSTI62 -->
-  <td align="center" width="20%" valign="top">
+  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
     <a href="https://gsti62.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/gsti62.jpg" 
            width="100%" 
@@ -371,7 +371,7 @@
   </td>
 
   <!-- PROJET 5 : Ô Natur'EL -->
-  <td align="center" width="20%" valign="top">
+  <td align="center" width="20%" valign="top" style="padding-top: 50px;">
     <a href="https://onaturel.eu/" target="_blank">
       <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/onaturel.jpg" 
            width="100%" 
@@ -391,11 +391,9 @@
 </tr>
 </table>
 
-<p align="center">
+<p align="center" style="margin-top: 30px;">
   <sub>💡 <strong>Compétences clés :</strong> Développement WordPress sur mesure • Optimisation SEO • Responsive design • Intégration de plugins • Maintenance et support</sub>
 </p>
-
-<br>
 
 ---
 
