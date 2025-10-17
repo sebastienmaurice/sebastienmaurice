@@ -184,26 +184,79 @@
   - Gauche (60%) : Graphiques de stats
   - Droite (40%) : Activité actuelle et icônes tech
 -->
-<table width="100%">
-<tr>
-  <td width="60%">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Stats GitHub">
-      <img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" width="100%" alt="Streak GitHub">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Langages">
-    </p>
-  </td>
-  <td width="40%" align="center">
-    <img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" width="100%" style="max-width:250px;" alt="Mascotte Super Croco">
-    <ul align="left">
-      <li>✨ Projets Full Stack JS (Svelte / Node / PostgreSQL)</li>
-      <li>🧩 TypeScript & architectures microservices</li>
-      <li>🤝 Collaborations open source</li>
-      <li>💬 Conseil & mentorat</li>
-    </ul>
-    <img src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,html,css,sass,github" style="max-width:90%;" alt="Stack technique">
-  </td>
-</tr>
+<table width="100%" align="center">
+  <tr>
+    <!-- COLONNE GAUCHE : Stats visuelles -->
+    <td valign="top" width="60%">
+      <h2 align="center">📈 Statistiques GitHub</h2>
+      <!-- 
+        STATS PRINCIPALES
+        Via github-readme-stats par anuraghazra
+        Options personnalisées : thème tokyo-night, sans bordures
+      -->
+      <p align="center">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+          width="100%" 
+          alt="Statistiques GitHub globales de Sebastien Maurice">
+      </p>
+      <!-- 
+        STREAK STATS
+        Suivi de la régularité des contributions
+      -->
+      <p align="center">
+        <img 
+          src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" 
+          width="100%" 
+          alt="Séquence de contributions GitHub">
+      </p>
+      <!-- 
+        LANGAGES LES PLUS UTILISÉS
+        Analyse automatique des repos publics
+      -->
+      <p align="center">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" 
+          width="100%" 
+          alt="Langages de programmation les plus utilisés">
+      </p>
+    </td>
+    <!-- COLONNE DROITE : Activité actuelle -->
+    <td valign="top" width="40%" align="center" style="padding: 10px;">
+      <h2 align="center">🎯 Actuellement</h2>
+      <!-- Image mascotte thématique -->
+      <img 
+        src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/supercroco-2.png" 
+        width="100%" 
+        style="max-width: 250px; margin-bottom: 15px;" 
+        alt="Super Crocodile Dundee - Mascotte en action">
+      <!-- 
+        OBJECTIFS ACTUELS
+        À mettre à jour tous les 2-3 mois selon l'évolution
+      -->
+      <p align="left">
+        🚀 En pleine évolution vers un profil <strong>Full Stack JavaScript</strong>.<br>
+        Je mets à profit mes compétences pour construire des apps intelligentes et performantes, en explorant les technologies de demain.
+      </p>
+      <!-- Liste des activités en cours -->
+      <ul align="left">
+        <li>✨ Projets <strong>Full Stack JavaScript</strong> (Svelte / Node / PostgreSQL)</li>
+        <li>🧩 Exploration de <strong>TypeScript avancé</strong> & des <strong>architectures microservices</strong></li>
+        <li>🤝 Collaborations <strong>open source</strong> et partage de savoir</li>
+        <li>💬 Conseil & mentorat sur <strong>Svelte, Node.js, PostgreSQL</strong></li>
+      </ul>
+      <br>
+      <!-- 
+        ICÔNES TECHNOLOGIQUES
+        Via skillicons.dev - génération automatique d'icônes
+        Conseil : Limiter à 9-12 icônes pour la lisibilité
+      -->
+      <img 
+        src="https://skillicons.dev/icons?i=js,svelte,nodejs,express,postgres,html,css,sass,github" 
+        alt="Stack technique : JavaScript, Svelte, Node.js, Express, PostgreSQL, HTML, CSS, GitHub" 
+        style="max-width: 90%; margin-top: 10px;">
+    </td>
+  </tr>
 </table>
 
 <!-- ================== -->
