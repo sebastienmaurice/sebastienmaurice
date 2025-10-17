@@ -266,14 +266,14 @@ Je mets à profit mes compétences pour construire des apps intelligentes et per
            style="max-width: 200px; border-radius: 8px;" 
            alt="Alternativ Uniforme">
     </a>
-    <br><br>
-    <strong>🌿 Alternativ Uniforme</strong><br>
+      <br><br>
+    <strong>🏰 Alternativ Uniform</strong><br>
     <sub>habillement professsionnel de Sécurité privée</sub><br>
-    <sub>Site vitrine</sub><br><br>
+    <sub>Portfolio et prise de contact</sub><br><br>
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white">
-    <img src="https://img.shields.io/badge/Divi-8B5CF6?style=flat-square&logo=wordpress&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white">
+    <img src="https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   </td>
 
 </tr>
