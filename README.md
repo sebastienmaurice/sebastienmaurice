@@ -63,7 +63,7 @@ Hello, moi c'est <strong>Sebastien</strong>
 <!-- 🪄 SuperCroco volant -->
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/supercroco-vol.png" 
-       alt="SuperCroco Volant" width="250" style="max-width:100%;"/>
+       alt="SuperCroco Volant" width="350" style="max-width:100%;"/>
 </div>
 
 <h2 align="center">🧪 Croco Lab : Quand le code rencontre le design</h2>
