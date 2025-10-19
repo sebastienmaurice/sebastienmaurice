@@ -17,43 +17,52 @@
 
 <hr>
 
-<!-- SECTION HERO : Présentation rapide et image mascotte -->
-<div align="center">
-<table width="100%">
+<h2 align="center">🧪 Croco Lab — où le code rencontre le design</h2>
+<p align="center" style="max-width:700px;margin:auto;color:#E6E6E6;">
+Un espace où créativité et rigueur se rejoignent pour concevoir des produits digitaux performants et durables.
+</p>
+
+<table width="100%" align="center">
 <tr>
-<td width="60%" valign="top">
-<h1>
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/blob-sunglasses.gif" width="45" alt="Blob animé avec lunettes de soleil">
-Hello, moi c'est <strong>Sebastien</strong>
-</h1>
-<h3>🎨 Développeur Full Stack</h3>
-<p>
-💡 Formé chez <strong>O'clock</strong> au titre professionnel de <em>Développeur Web & Web Mobile</em>.<br>
-<i>J’imagine et construis des interfaces dynamiques, élégantes et performantes, pensées pour l’utilisateur avant tout.</i>
-</p>
-<p>
-🔍 Du prototype au déploiement, j’allie <strong>créativité, rigueur et sens du détail</strong> pour livrer des expériences web fluides et maintenables.
-</p>
-<ul>
-<li>✨ <strong>Frontend</strong> : HTML5, CSS3 (Sass), JavaScript, Svelte</li>
-<li>⚙️ <strong>Backend</strong> : Node.js, Express, PostgreSQL, Sequelize</li>
-<li>🚀 <strong>Outils & Workflow</strong> : Docker, API REST, CI/CD, GitHub Actions</li>
-<li>🧩 <strong>Approche</strong> : clean code, modularité, documentation claire, performance</li>
-<li>🧠 <strong>Bonus</strong> : veille constante sur les nouvelles technos front et UX design</li>
-</ul>
-<p>
-🎯 <strong>Objectif :</strong> concevoir des interfaces réactives, accessibles et raffinées — tout en gardant un socle back-end robuste et évolutif.
-</p>
-</td>
-<td width="40%" valign="top" align="right" style="padding: 20px;">
-<img width="100%" style="max-width: 350px;" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/assets/croco-siege.png" alt="Mascotte Crocodile Dundee assis, représentant le développeur"><br><br>
-</td>
+
+  <td width="33%" valign="top" style="padding:10px;">
+    <div style="background:#0D1117;color:#E6E6E6;padding:20px;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+      <h3 style="color:#D9B45A;">🎯 UX & Design</h3>
+      <p>Créer des expériences intuitives et fluides — du wireframe à la mise en production.</p>
+      <ul>
+        <li>Design system, maquettes, prototypage rapide</li>
+        <li>Accessibilité, micro-interactions, cohérence visuelle</li>
+        <li><strong>Outils :</strong> Figma, Framer, Tailwind CSS</li>
+      </ul>
+    </div>
+  </td>
+
+  <td width="33%" valign="top" style="padding:10px;">
+    <div style="background:#0D1117;color:#E6E6E6;padding:20px;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+      <h3 style="color:#2A6049;">⚙️ Dev Front & Back</h3>
+      <p>Du composant Svelte au service Node, en passant par les API bien pensées : chaque ligne vise la clarté et la performance.</p>
+      <ul>
+        <li>Svelte / React / Node.js / Express</li>
+        <li>PostgreSQL / Sequelize / GraphQL</li>
+        <li><strong>Philosophie :</strong> Clean Code + TDD + scalabilité</li>
+      </ul>
+    </div>
+  </td>
+
+  <td width="33%" valign="top" style="padding:10px;">
+    <div style="background:#0D1117;color:#E6E6E6;padding:20px;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+      <h3 style="color:#D9B45A;">🚀 Performance & Delivery</h3>
+      <p>Chaque projet est peaufiné pour livrer vite, bien et fort : monitoring, CI/CD, et obsession de la rapidité.</p>
+      <ul>
+        <li>Git / Docker / Vercel / Postman</li>
+        <li>CI/CD, automatisation, optimisation web</li>
+        <li><strong>Objectif :</strong> zéro dette technique ; 100 % efficacité</li>
+      </ul>
+    </div>
+  </td>
+
 </tr>
 </table>
-<p>
-<i>💡 Amoureux du design fonctionnel, du code propre et du pixel perfect</i>
-</p>
-</div>
 
 <!-- ========================================================= -->
 <!-- 🐊 CROCO DUNDEE DEVELOPER - SECTION HERO & COMPÉTENCES -->
