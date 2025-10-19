@@ -64,43 +64,52 @@ Un espace où créativité et rigueur se rejoignent pour concevoir des produits 
 </tr>
 </table>
 
-<!-- ========================================================= -->
-<!-- 🐊 CROCO DUNDEE DEVELOPER - SECTION HERO & COMPÉTENCES -->
-<!-- ========================================================= -->
+<h2 align="center">🧪 Croco Lab — où le code rencontre le design</h2>
+<p align="center" style="max-width:700px;margin:auto;color:#E6E6E6;">
+Un espace où créativité et rigueur se rejoignent pour concevoir des produits digitaux performants et durables.
+</p>
 
-<!-- 🪄 SuperCroco volant -->
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/supercroco-vol.png" 
-       alt="SuperCroco Volant" width="250" 
-       style="max-width:100%; animation: float 4s ease-in-out infinite;"/>
-</div>
+<table width="100%" align="center">
+<tr>
 
-<!-- 🐊 SUPER CROCO VOLANT -->
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/supercroco-vol.png" 
-       alt="SuperCroco Volant" width="250" style="max-width:100%;"/>
-</div>
+  <td width="33%" valign="top" style="padding:10px;">
+    <div style="background:#0D1117;color:#E6E6E6;padding:20px;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+      <h3 style="color:#D9B45A;">🎯 UX & Design</h3>
+      <p>Créer des expériences intuitives et fluides — du wireframe à la mise en production.</p>
+      <ul>
+        <li>Design system, maquettes, prototypage rapide</li>
+        <li>Accessibilité, micro-interactions, cohérence visuelle</li>
+        <li><strong>Outils :</strong> Figma, Framer, Tailwind CSS</li>
+      </ul>
+    </div>
+  </td>
 
-<!-- 🌍 SECTION TROIS COLONNES -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
-  
-  <div style="flex: 1; min-width: 250px; max-width: 300px;">
-    <h3>💻 Développement Web</h3>
-    <p>Front & Back complet – de l’idée au déploiement.</p>
-  </div>
+  <td width="33%" valign="top" style="padding:10px;">
+    <div style="background:#0D1117;color:#E6E6E6;padding:20px;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+      <h3 style="color:#2A6049;">⚙️ Dev Front & Back</h3>
+      <p>Du composant Svelte au service Node, en passant par les API bien pensées : chaque ligne vise la clarté et la performance.</p>
+      <ul>
+        <li>Svelte / React / Node.js / Express</li>
+        <li>PostgreSQL / Sequelize / GraphQL</li>
+        <li><strong>Philosophie :</strong> Clean Code + TDD + scalabilité</li>
+      </ul>
+    </div>
+  </td>
 
-  <div style="flex: 1; min-width: 250px; max-width: 300px;">
-    <h3>⚙️ Intégration CMS</h3>
-    <p>WordPress, Elementor, Strapi — sites & templates sur mesure.</p>
-  </div>
+  <td width="33%" valign="top" style="padding:10px;">
+    <div style="background:#0D1117;color:#E6E6E6;padding:20px;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+      <h3 style="color:#D9B45A;">🚀 Performance & Delivery</h3>
+      <p>Chaque projet est peaufiné pour livrer vite, bien et fort : monitoring, CI/CD, et obsession de la rapidité.</p>
+      <ul>
+        <li>Git / Docker / Vercel / Postman</li>
+        <li>CI/CD, automatisation, optimisation web</li>
+        <li><strong>Objectif :</strong> zéro dette technique ; 100 % efficacité</li>
+      </ul>
+    </div>
+  </td>
 
-  <div style="flex: 1; min-width: 250px; max-width: 300px;">
-    <h3>🚀 Projets Créatifs</h3>
-    <p>IA, API, motion design, expériences interactives.</p>
-  </div>
-
-</div>
-
+</tr>
+</table>
 
 <!-- ================== -->
 <!-- BADGES DE PROFIL -->
