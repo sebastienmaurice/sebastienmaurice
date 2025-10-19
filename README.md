@@ -56,56 +56,49 @@ Hello, moi c'est <strong>Sebastien</strong>
 </div>
 
 <!-- ================== -->
-<!-- COMPÉTENCES DÉTAILLÉES : 3 colonnes -->
+<!-- CROCO LAB : SECTION COMPÉTENCES MODERNE -->
 <!-- ================== -->
-<table width="100%" align="center">
-<tr>
-<td valign="top" width="30%" align="center">
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/croco-livres.png" width="100%" style="max-width: 250px; padding: 10px;" alt="Crocodile Dundee en train de lire - Représente l'apprentissage continu">
-</td>
-<td valign="top" width="35%">
-<h2>⚡ Ce que je fais</h2>
-<p>
-<strong>🎯 Centré sur l’expérience utilisateur</strong><br>
-Je conçois des interfaces web modernes, accessibles et performantes, alliant design soigné, animations fluides et code optimisé.
+<h2 align="center">🧪 Croco Lab — où le code rencontre le design</h2>
+<p align="center" style="max-width:700px; margin:auto; color:#E6E6E6;">
+Un espace où la créativité et la rigueur se rejoignent pour concevoir des produits digitaux performants, esthétiques et durables.
 </p>
-<ul>
-<li>💻 <strong>Stack principale :</strong> Svelte / React / Node.js / Express</li>
-<li>🔗 <strong>API :</strong> REST & GraphQL, fiables et bien documentées</li>
-<li>📱 <strong>Apps métier :</strong> conception d’outils sur mesure, orientés performance et simplicité</li>
-<li>🎨 <strong>Design & UX :</strong> maquettes, composants réutilisables, ergonomie soignée</li>
-</ul>
-<p><strong>🏗️ Architecture & Qualité</strong></p>
-<ul>
-<li>Clean code, TDD, intégration continue</li>
-<li>Structures maintenables et évolutives</li>
-<li>Veille constante sur les meilleures pratiques front et design system</li>
-</ul>
-</td>
-<td valign="top" width="35%">
-<h2>🛠️ Stack Technique</h2>
-<p><strong>🎨 Frontend</strong></p>
-<ul>
-<li>HTML5, CSS3, Sass</li>
-<li>JavaScript, Svelte, React</li>
-<li>WordPress, accessibilité & SEO</li>
-<li>Responsive design, animations, UX/UI</li>
-</ul>
-<p><strong>⚙️ Backend</strong></p>
-<ul>
-<li>Node.js, Express</li>
-<li>PostgreSQL, Sequelize, GraphQL</li>
-<li>API performantes et sécurisées</li>
-</ul>
-<p><strong>🧰 Outils & Workflow</strong></p>
-<ul>
-<li>Git, Docker, Postman</li>
-<li>CI/CD, Vercel, conteneurisation</li>
-<li>Optimisation, automatisation, performance web</li>
-</ul>
-</td>
-</tr>
-</table>
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px; margin-top:25px;">
+
+  <!-- Bloc 1 : UX & Design -->
+  <div style="flex:1; min-width:280px; background:#0D1117; color:#E6E6E6; padding:25px; border-radius:15px; box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+    <h3 style="color:#D9B45A;">🎯 UX & Design</h3>
+    <p>Créer des expériences intuitives et fluides — du wireframe à la mise en production.</p>
+    <ul>
+      <li>Maquettes, design system, prototypage rapide</li>
+      <li>Accessibilité, cohérence visuelle, micro-interactions</li>
+      <li><strong>Outils :</strong> Figma, Framer, Tailwind CSS</li>
+    </ul>
+  </div>
+
+  <!-- Bloc 2 : Dev Front & Back -->
+  <div style="flex:1; min-width:280px; background:#0D1117; color:#E6E6E6; padding:25px; border-radius:15px; box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+    <h3 style="color:#2A6049;">⚙️ Dev Front & Back</h3>
+    <p>Du composant Svelte au service Node, en passant par les API bien pensées : chaque ligne vise la clarté et la performance.</p>
+    <ul>
+      <li>Svelte / React / Node.js / Express</li>
+      <li>PostgreSQL / Sequelize / GraphQL</li>
+      <li><strong>Philosophie :</strong> Clean Code + TDD + scalabilité</li>
+    </ul>
+  </div>
+
+  <!-- Bloc 3 : Performance & Delivery -->
+  <div style="flex:1; min-width:280px; background:#0D1117; color:#E6E6E6; padding:25px; border-radius:15px; box-shadow:0 4px 8px rgba(0,0,0,0.3);">
+    <h3 style="color:#D9B45A;">🚀 Performance & Delivery</h3>
+    <p>Chaque projet est peaufiné pour livrer vite, bien et fort : monitoring, CI/CD, et obsession de la rapidité.</p>
+    <ul>
+      <li>Git / Docker / Vercel / Postman</li>
+      <li>CI/CD, automatisation, optimisation web</li>
+      <li><strong>Objectif :</strong> zéro dette technique ; 100 % efficacité</li>
+    </ul>
+  </div>
+
+</div>
 
 <!-- ================== -->
 <!-- BADGES DE PROFIL -->
