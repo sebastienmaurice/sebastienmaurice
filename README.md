@@ -64,6 +64,16 @@ Un espace où créativité et rigueur se rejoignent pour concevoir des produits 
 </tr>
 </table>
 
+<!-- ========================================================= -->
+<!-- 🐊 CROCO DUNDEE DEVELOPER - SECTION HERO & COMPÉTENCES -->
+<!-- ========================================================= -->
+
+<!-- 🪄 SuperCroco volant -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/supercroco-vol.png" 
+       alt="SuperCroco Volant" width="250" style="max-width:100%;"/>
+</div>
+
 <h2 align="center">🧪 Croco Lab — où le code rencontre le design</h2>
 <p align="center" style="max-width:700px;margin:auto;color:#E6E6E6;">
 Un espace où créativité et rigueur se rejoignent pour concevoir des produits digitaux performants et durables.
