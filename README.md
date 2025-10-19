@@ -66,31 +66,28 @@ Hello, moi c'est <strong>Sebastien</strong>
        style="max-width:100%; animation: float 4s ease-in-out infinite;"/>
 </div>
 
-<!-- Animation flottante -->
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-12px); }
-  100% { transform: translateY(0px); }
-}
-</style>
+<!-- 🐊 SUPER CROCO VOLANT -->
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/supercroco-vol.png" 
+       alt="SuperCroco Volant" width="250" style="max-width:100%;"/>
+</div>
 
-<!-- 🧩 Section compétences principales -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center; margin-bottom: 40px;">
-
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: rgba(17, 29, 37, 0.8); border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-    <h3 style="color:#00C78C;">💻 Développement Web</h3>
-    <p style="color:#C5E8D1;">Front & Back complet — du concept au déploiement.</p>
+<!-- 🌍 SECTION TROIS COLONNES -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
+  
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <h3>💻 Développement Web</h3>
+    <p>Front & Back complet – de l’idée au déploiement.</p>
   </div>
 
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: rgba(17, 29, 37, 0.8); border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-    <h3 style="color:#FFD166;">⚙️ Intégration CMS</h3>
-    <p style="color:#FFF5CC;">WordPress, Elementor, Strapi — sites & templates sur mesure.</p>
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <h3>⚙️ Intégration CMS</h3>
+    <p>WordPress, Elementor, Strapi — sites & templates sur mesure.</p>
   </div>
 
-  <div style="flex: 1; min-width: 250px; max-width: 320px; background: rgba(17, 29, 37, 0.8); border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
-    <h3 style="color:#7FD4FF;">🚀 Projets Créatifs</h3>
-    <p style="color:#D7F4FF;">IA, API, motion design & expériences interactives.</p>
+  <div style="flex: 1; min-width: 250px; max-width: 300px;">
+    <h3>🚀 Projets Créatifs</h3>
+    <p>IA, API, motion design, expériences interactives.</p>
   </div>
 
 </div>
