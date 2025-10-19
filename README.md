@@ -55,52 +55,45 @@ Hello, moi c'est <strong>Sebastien</strong>
 </p>
 </div>
 
-<h2 align="center">🧪 Croco Lab — où le code rencontre le design</h2>
-<p align="center" style="max-width:700px;margin:auto;color:#E6E6E6;">
-Un espace où créativité et rigueur se rejoignent pour concevoir des produits digitaux performants et durables.
-</p>
+<!-- ========================================================= -->
+<!-- 🐊 CROCO DUNDEE DEVELOPER - SECTION HERO & COMPÉTENCES -->
+<!-- ========================================================= -->
 
-<table width="100%" align="center">
-<tr>
+<!-- 🪄 SuperCroco volant -->
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/supercroco-vol.png" 
+       alt="SuperCroco Volant" width="250" 
+       style="max-width:100%; animation: float 4s ease-in-out infinite;"/>
+</div>
 
-  <td width="33%" valign="top" style="padding:10px;">
-    <div style="background:#0D1117;color:#E6E6E6;padding:20px;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.3);">
-      <h3 style="color:#D9B45A;">🎯 UX & Design</h3>
-      <p>Créer des expériences intuitives et fluides — du wireframe à la mise en production.</p>
-      <ul>
-        <li>Design system, maquettes, prototypage rapide</li>
-        <li>Accessibilité, micro-interactions, cohérence visuelle</li>
-        <li><strong>Outils :</strong> Figma, Framer, Tailwind CSS</li>
-      </ul>
-    </div>
-  </td>
+<!-- Animation flottante -->
+<style>
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-12px); }
+  100% { transform: translateY(0px); }
+}
+</style>
 
-  <td width="33%" valign="top" style="padding:10px;">
-    <div style="background:#0D1117;color:#E6E6E6;padding:20px;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.3);">
-      <h3 style="color:#2A6049;">⚙️ Dev Front & Back</h3>
-      <p>Du composant Svelte au service Node, en passant par les API bien pensées : chaque ligne vise la clarté et la performance.</p>
-      <ul>
-        <li>Svelte / React / Node.js / Express</li>
-        <li>PostgreSQL / Sequelize / GraphQL</li>
-        <li><strong>Philosophie :</strong> Clean Code + TDD + scalabilité</li>
-      </ul>
-    </div>
-  </td>
+<!-- 🧩 Section compétences principales -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center; margin-bottom: 40px;">
 
-  <td width="33%" valign="top" style="padding:10px;">
-    <div style="background:#0D1117;color:#E6E6E6;padding:20px;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.3);">
-      <h3 style="color:#D9B45A;">🚀 Performance & Delivery</h3>
-      <p>Chaque projet est peaufiné pour livrer vite, bien et fort : monitoring, CI/CD, et obsession de la rapidité.</p>
-      <ul>
-        <li>Git / Docker / Vercel / Postman</li>
-        <li>CI/CD, automatisation, optimisation web</li>
-        <li><strong>Objectif :</strong> zéro dette technique ; 100 % efficacité</li>
-      </ul>
-    </div>
-  </td>
+  <div style="flex: 1; min-width: 250px; max-width: 320px; background: rgba(17, 29, 37, 0.8); border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+    <h3 style="color:#00C78C;">💻 Développement Web</h3>
+    <p style="color:#C5E8D1;">Front & Back complet — du concept au déploiement.</p>
+  </div>
 
-</tr>
-</table>
+  <div style="flex: 1; min-width: 250px; max-width: 320px; background: rgba(17, 29, 37, 0.8); border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+    <h3 style="color:#FFD166;">⚙️ Intégration CMS</h3>
+    <p style="color:#FFF5CC;">WordPress, Elementor, Strapi — sites & templates sur mesure.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px; max-width: 320px; background: rgba(17, 29, 37, 0.8); border-radius: 12px; padding: 20px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);">
+    <h3 style="color:#7FD4FF;">🚀 Projets Créatifs</h3>
+    <p style="color:#D7F4FF;">IA, API, motion design & expériences interactives.</p>
+  </div>
+
+</div>
 
 
 <!-- ================== -->
