@@ -44,15 +44,15 @@ Hello, moi c'est <strong>Sebastien</strong>
 <p>
 🎯 <strong>Objectif :</strong> concevoir des interfaces réactives, accessibles et raffinées — tout en gardant un socle back-end robuste et évolutif.
 </p>
-  <p>
-<i>💡 Amoureux du design fonctionnel, du code propre et du pixel perfect</i>
-</p>
 </td>
 <td width="40%" valign="top" align="right" style="padding: 20px;">
 <img width="100%" style="max-width: 350px;" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/assets/croco-full-stack.png" alt="Mascotte Crocodile Dundee assis, représentant le développeur"><br><br>
 </td>
 </tr>
 </table>
+    <p>
+<i>💡 Amoureux du design fonctionnel, du code propre et du pixel perfect</i>
+</p>
 </div>
 
 
