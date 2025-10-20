@@ -61,7 +61,7 @@ Hello, moi c'est <strong>Sebastien</strong>
 <!-- ========================================================= -->
 
 <!-- 🪄 SuperCroco allongé au sol-->
-<div align="center"><h2 align="center">🧪 Croco Lab : Quand le code rencontre le design</h2>
+<div align="center">
   <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/croco-au-sol-avec-livres-codes.png" 
        alt="SuperCroco Volant" width="500" style="max-width:100%;"/>
 </div>
