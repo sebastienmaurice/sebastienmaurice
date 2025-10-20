@@ -46,7 +46,7 @@ Hello, moi c'est <strong>Sebastien</strong>
 </p>
 </td>
 <td width="40%" valign="top" align="right" style="padding: 20px;">
-<img width="100%" style="max-width: 350px;" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/assets/croco-siege.png" alt="Mascotte Crocodile Dundee assis, représentant le développeur"><br><br>
+<img width="100%" style="max-width: 350px;" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/assets/croco-full-stack.png" alt="Mascotte Crocodile Dundee assis, représentant le développeur"><br><br>
 </td>
 </tr>
 </table>
