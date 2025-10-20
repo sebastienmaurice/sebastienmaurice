@@ -47,12 +47,12 @@ Hello, moi c'est <strong>Sebastien</strong>
 </td>
 <td width="40%" valign="top" align="right" style="padding: 20px;">
 <img width="100%" style="max-width: 350px;" src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/refs/heads/main/assets/croco-full-stack.png" alt="Mascotte Crocodile Dundee assis, représentant le développeur"><br><br>
+  <p>
+<i>💡 Amoureux du design fonctionnel, du code propre et du pixel perfect</i>
+</p>
 </td>
 </tr>
 </table>
-<p>
-<i>💡 Amoureux du design fonctionnel, du code propre et du pixel perfect</i>
-</p>
 </div>
 
 
