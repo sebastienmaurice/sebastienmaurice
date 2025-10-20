@@ -66,7 +66,7 @@ Hello, moi c'est <strong>Sebastien</strong>
        alt="SuperCroco Volant" width="400" style="max-width:100%;"/>
 </div>
 <h2 align="center">🧪 Croco Lab : Quand le code rencontre le design</h2>
-<p align="center" style="max-width:700px;margin:auto;color:#E6E6E6;">
+<p align="center" style="max-width:700px;margin-bottom: 15px;color:#E6E6E6;">
 Un espace où créativité et rigueur se rejoignent pour concevoir des produits digitaux performants et durables.
 </p>
 
