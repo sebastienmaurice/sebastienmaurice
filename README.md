@@ -60,8 +60,8 @@ Hello, moi c'est <strong>Sebastien</strong>
 <!-- 🐊 CROCO DUNDEE DEVELOPER - SECTION HERO & COMPÉTENCES -->
 <!-- ========================================================= -->
 
-<!-- 🪄 SuperCroco volant -->
-<div align="center" style="margin-bottom: 100px;">
+<!-- 🪄 SuperCroco allongé au sol-->
+<div align="center">
   <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/croco-au-sol-avec-livres-codes.png" 
        alt="SuperCroco Volant" width="400" style="max-width:100%;"/>
 </div>
