@@ -61,7 +61,7 @@ Hello, moi c'est <strong>Sebastien</strong>
 <!-- ========================================================= -->
 
 <!-- 🪄 SuperCroco volant -->
-<div align="center">
+<div align="center" style="margin-bottom: 100px;">
   <img src="https://github.com/sebastienmaurice/sebastienmaurice/blob/main/assets/croco-au-sol-avec-livres-codes.png" 
        alt="SuperCroco Volant" width="400" style="max-width:100%;"/>
 </div>
