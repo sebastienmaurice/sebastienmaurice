@@ -141,7 +141,7 @@ Un espace où créativité et rigueur se rejoignent pour concevoir des produits 
 </td>
 <td valign="top" width="40%" align="center" style="padding: 10px;">
 <h2 align="center">🎯 Actuellement</h2>
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/supercroco-2.png" width="100%" style="max-width: 250px; margin-bottom: 15px;" alt="Super Crocodile Dundee - Mascotte en action">
+<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/croco-stats.png" width="100%" style="max-width: 250px; margin-bottom: 15px;" alt="Super Crocodile Dundee - Mascotte en action">
 <p align="left">
 🚀 En pleine évolution vers un profil <strong>Full Stack JavaScript</strong>.<br>
 Je mets à profit mes compétences pour construire des apps intelligentes et performantes, en explorant les technologies de demain.
