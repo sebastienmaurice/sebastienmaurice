@@ -121,7 +121,7 @@ Un espace où créativité et rigueur se rejoignent pour concevoir des produits 
 </p>
 
 <!-- ================== -->
-<!-- STATISTIQUES GITHUB (corrigé) -->
+<!-- STATISTIQUES GITHUB - VERSION STABLE -->
 <!-- ================== -->
 <table width="100%" align="center">
 <tr>
@@ -130,10 +130,6 @@ Un espace où créativité et rigueur se rejoignent pour concevoir des produits 
 <p align="center">
 <!-- Stats globales GitHub -->
 <img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Statistiques GitHub globales de Sebastien Maurice">
-</p>
-<p align="center">
-<!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=sebastienmaurice&theme=tokyonight&hide_border=true" width="100%" alt="Séquence de contributions GitHub">
 </p>
 <p align="center">
 <!-- Top Langs -->
