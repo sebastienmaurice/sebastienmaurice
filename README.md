@@ -121,7 +121,7 @@ Un espace où créativité et rigueur se rejoignent pour concevoir des produits 
 </p>
 
 <!-- ================== -->
-<!-- STATISTIQUES GITHUB - VERSION STABLE -->
+<!-- STATISTIQUES GITHUB -->
 <!-- ================== -->
 <table width="100%" align="center">
 <tr>
@@ -129,16 +129,20 @@ Un espace où créativité et rigueur se rejoignent pour concevoir des produits 
 <h2 align="center">📈 Statistiques GitHub</h2>
 <p align="center">
 <!-- Stats globales GitHub -->
-<img src="https://github-readme-stats.vercel.app/api?username=sebastienmaurice&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="Statistiques GitHub globales de Sebastien Maurice">
+<img src="assets/stats-global.svg" width="100%" alt="Statistiques GitHub globales de Sebastien Maurice">
 </p>
 <p align="center">
-<!-- Top Langs -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastienmaurice&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Langages de programmation les plus utilisés">
+<!-- Langages les plus utilisés -->
+<img src="assets/stats-langs.svg" width="100%" alt="Langages de programmation les plus utilisés">
+</p>
+<p align="center">
+<!-- Streak / Contributions -->
+<img src="assets/stats-streak.svg" width="100%" alt="Séquence de contributions GitHub">
 </p>
 </td>
 <td valign="top" width="40%" align="center" style="padding: 10px;">
 <h2 align="center">🎯 Actuellement</h2>
-<img src="https://raw.githubusercontent.com/sebastienmaurice/sebastienmaurice/main/assets/croco-stats-1.png" width="100%" style="max-width: 250px; margin-bottom: 15px;" alt="Super Crocodile Dundee - Mascotte en action">
+<img src="assets/croco-stats-1.png" width="100%" style="max-width: 250px; margin-bottom: 15px;" alt="Super Crocodile Dundee - Mascotte en action">
 <p align="left">
 🚀 En pleine évolution vers un profil <strong>Full Stack JavaScript</strong>.<br>
 Je mets à profit mes compétences pour construire des apps intelligentes et performantes, en explorant les technologies de demain.
